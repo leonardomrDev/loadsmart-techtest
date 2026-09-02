@@ -1,0 +1,73 @@
+version: 2
+
+models:
+  - name: dim_shippers
+    description: "Dimension table containing unique shippers."
+    columns:
+      - name: shipper_key
+        description: "Shipper's primary key."
+        tests:
+          - unique
+          - not_null
+      - name: shipper_name
+        description: "Shipper's name"
+        tests:
+          - not_null
+
+  - name: dim_carriers
+    description: "Dimension table containing unique carriers"
+    columns:
+      - name: carrier_key
+        description: "Carrier's primary key"
+        tests:
+          - unique
+          - not_null
+      - name: carrier_name
+        description: "Carrier name"
+
+  - name: dim_lanes
+    description: "Dimension table that contains unique routesd"
+    columns:
+      - name: lane_key
+        description: "Lane's primary key"
+        tests:
+          - unique
+          - not_null
+      - name: lane
+        description: "Route's string like: (Origin -> Destination)."
+
+  - name: fact_loadsmart
+    description: "Fact table containing cargo, financial and operational metrics."
+    columns:
+      - name: loadsmart_id
+        description: "Cargo primary key and main identifier"
+        tests:
+          - unique
+          - not_null
+      - name: shipper_key
+        description: "A surrogate key for dim_shippers."
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_shippers')
+              field: shipper_key
+      - name: carrier_key
+        description: "A surrogate key for dim_carriers."
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_carriers')
+              field: carrier_key
+      - name: lane_key
+        description: "A surrogate key for dim_lanes."
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_lanes')
+              field: lane_key
+      - name: book_price
+        description: "Shipper pricing"
+        tests:
+          - not_null
+      - name: pnl
+        description: "Operation profit or loss metric."

@@ -1,0 +1,17 @@
+{
+    "workbench.editorAssociations": {
+        "*.parquet": "duckdb.dataFileViewer",
+        "*.csv": "duckdb.dataFileViewer",
+        "*.tsv": "duckdb.dataFileViewer",
+        "*.xlsx": "duckdb.dataFileViewer"
+    },
+    "duckdb.defaultDatabase": "dev",
+    "duckdb.databases": [
+        {
+            "alias": "dev",
+            "type": "file",
+            "path": "c:\\Users\\Leonardo Martins\\Documents\\GitHub\\loadsmart-techtest\\loadsmart\\dev.duckdb",
+            "attached": false
+        }
+    ]
+}

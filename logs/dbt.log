@@ -1,0 +1,75 @@
+[0m21:42:22.187670 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002B37A846B50>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002B37A99E810>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002B37A847310>]}
+
+
+============================== 21:42:22.190784 | ac36d770-930a-4df5-b05b-1a5d58134439 ==============================
+[0m21:42:22.190784 [info ] [MainThread]: Running with dbt=1.12.3
+[0m21:42:22.190784 [debug] [MainThread]: running dbt with arguments {'maximum_seed_size_mib': '1', 'no_print': 'None', 'version_check': 'True', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'target_path': 'None', 'static_parser': 'True', 'printer_width': '80', 'write_json': 'True', 'empty': 'None', 'log_cache_events': 'False', 'introspect': 'True', 'cache_selected_only': 'False', 'fail_fast': 'False', 'debug': 'False', 'log_format': 'default', 'partial_parse': 'True', 'send_anonymous_usage_stats': 'True', 'quiet': 'False', 'warn_error': 'None', 'profiles_dir': 'C:\\Users\\Leonardo Martins\\.dbt', 'invocation_command': 'dbt init loadsmart', 'hints_enabled': 'True', 'indirect_selection': 'eager', 'use_experimental_parser': 'False', 'use_colors': 'True', 'log_path': 'logs'}
+[0m21:42:22.204714 [info ] [MainThread]: Creating dbt configuration folder at C:\Users\Leonardo Martins\.dbt
+[0m21:42:22.206233 [debug] [MainThread]: Starter project path: C:\Users\Leonardo Martins\Documents\GitHub\loadsmart-techtest\venv\Lib\site-packages\dbt\include\starter_project
+[0m21:42:22.241621 [info ] [MainThread]: Setting up your profile.
+[0m21:42:32.245550 [info ] [MainThread]: Profile loadsmart written to C:\Users\Leonardo Martins\.dbt\profiles.yml using target's sample configuration. Once updated, you'll be able to start developing with dbt.
+[0m21:42:32.247592 [info ] [MainThread]: Running dbt debug to validate the project...
+[0m21:42:32.247592 [info ] [MainThread]: dbt version: 1.12.3
+[0m21:42:32.247592 [info ] [MainThread]: python version: 3.11.6
+[0m21:42:32.249144 [info ] [MainThread]: python path: C:\Users\Leonardo Martins\Documents\GitHub\loadsmart-techtest\venv\Scripts\python.exe
+[0m21:42:32.249144 [info ] [MainThread]: os info: Windows-10-10.0.26340-SP0
+[0m21:42:32.288710 [info ] [MainThread]: Using profiles dir at C:\Users\Leonardo Martins\.dbt
+[0m21:42:32.288710 [info ] [MainThread]: Using profiles.yml file at C:\Users\Leonardo Martins\.dbt\profiles.yml
+[0m21:42:32.289715 [info ] [MainThread]: Using dbt_project.yml file at C:\Users\Leonardo Martins\Documents\GitHub\loadsmart-techtest\loadsmart\dbt_project.yml
+[0m21:42:32.291761 [info ] [MainThread]: adapter type: duckdb
+[0m21:42:32.291761 [info ] [MainThread]: adapter version: 1.11.0
+[0m21:42:32.353685 [info ] [MainThread]: Configuration:
+[0m21:42:32.353685 [info ] [MainThread]:   profiles.yml file [[32mOK found and valid[0m]
+[0m21:42:32.353685 [info ] [MainThread]:   dbt_project.yml file [[32mOK found and valid[0m]
+[0m21:42:32.355188 [info ] [MainThread]: Required dependencies:
+[0m21:42:32.355188 [debug] [MainThread]: Executing "git --help"
+[0m21:42:32.360847 [info ] [MainThread]:  - git [[31mERROR[0m]
+
+[0m21:42:32.360847 [info ] [MainThread]: Connection:
+[0m21:42:32.360847 [info ] [MainThread]:   database: dev
+[0m21:42:32.362397 [info ] [MainThread]:   schema: main
+[0m21:42:32.362397 [info ] [MainThread]:   path: dev.duckdb
+[0m21:42:32.363093 [info ] [MainThread]:   config_options: None
+[0m21:42:32.363093 [info ] [MainThread]:   extensions: None
+[0m21:42:32.364099 [info ] [MainThread]:   settings: {}
+[0m21:42:32.364099 [info ] [MainThread]:   external_root: .
+[0m21:42:32.364601 [info ] [MainThread]:   use_credential_provider: None
+[0m21:42:32.364601 [info ] [MainThread]:   attach: None
+[0m21:42:32.365604 [info ] [MainThread]:   filesystems: None
+[0m21:42:32.365604 [info ] [MainThread]:   remote: None
+[0m21:42:32.365604 [info ] [MainThread]:   plugins: None
+[0m21:42:32.365604 [info ] [MainThread]:   disable_transactions: False
+[0m21:42:32.367159 [info ] [MainThread]: Registered adapter: duckdb=1.11.0
+[0m21:42:32.565558 [debug] [MainThread]: Acquiring new duckdb connection 'debug'
+[0m21:42:33.824629 [debug] [MainThread]: Using duckdb connection "debug"
+[0m21:42:33.825638 [debug] [MainThread]: On debug: select 1 as id
+[0m21:42:33.826143 [debug] [MainThread]: Opening a new connection, currently in state init
+[0m21:42:33.837001 [debug] [MainThread]: SQL status: OK in 0.011 seconds
+[0m21:42:33.837001 [debug] [MainThread]: On debug: Close
+[0m21:42:33.838566 [info ] [MainThread]:   Connection test: [[32mOK connection ok[0m]
+
+[0m21:42:33.838566 [info ] [MainThread]: [31m1 check failed:[0m
+[0m21:42:33.838566 [info ] [MainThread]: Error from git --help: Could not find command, ensure it is in the user's PATH and that the user has permissions to run it: "git"
+
+[0m21:42:33.838566 [info ] [MainThread]: Your new dbt project "loadsmart" was created!
+Initialized new project in C:\Users\Leonardo Martins\Documents\GitHub\loadsmart-techtest\loadsmart\loadsmart
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m21:42:33.840128 [info ] [MainThread]: [31mYour profile may need adjustments. You can find the logs of `dbt debug` above[0m
+[0m21:42:33.840128 [debug] [MainThread]: Command `dbt init` succeeded at 21:42:33.840128 after 11.72 seconds
+[0m21:42:33.840128 [debug] [MainThread]: Connection 'debug' was properly closed.
+[0m21:42:33.841697 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002B371820490>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002B37B161A90>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002B37A8BF610>]}
+[0m21:42:33.842292 [debug] [MainThread]: Flushing usage events
+[0m21:42:34.840567 [debug] [MainThread]: An error was encountered while trying to flush usage events
