@@ -1,8 +1,8 @@
 WITH carriers AS (
     SELECT DISTINCT
-        carrier_name
+        COALESCE(carrier_name, 'UNKNOWN') as carrier_name
     FROM {{ref('stg_loadsmart')}}
-    WHERE carrier_name IS NOT NULL
+    --WHERE carrier_name IS NOT NULL
 )
 
 SELECT

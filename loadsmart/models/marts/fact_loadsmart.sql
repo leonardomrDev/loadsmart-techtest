@@ -1,8 +1,8 @@
 SELECT
     loadsmart_id
-    ,md5(shipper_name) AS shipper_key
-    ,md5(carrier_key) AS carrier_key
-    ,md5(lane) AS lane_key
+    ,md5(COALESCE(shipper_name, 'UNKNOWN')) AS shipper_key
+    ,md5(COALESCE(carrier_name, 'UNKNOWN')) as carrier_key
+    ,md5(COALESCE(lane, 'UNKNOWN')) AS lane_key
     ,pickup_city
     ,pickup_state
     ,delivery_city
