@@ -2,72 +2,93 @@ version: 2
 
 models:
   - name: dim_shippers
-    description: "Dimension table containing unique shippers."
+    description: "Dimension table containing unique shippers. Join with fact_loadsmart using shipper_key."
     columns:
       - name: shipper_key
-        description: "Shipper's primary key."
+        description: "Primary key for the shipper. Used to join with fact_loadsmart.shipper_key."
         tests:
           - unique
           - not_null
       - name: shipper_name
-        description: "Shipper's name"
+        description: "The name of the shipper company."
         tests:
           - not_null
 
   - name: dim_carriers
-    description: "Dimension table containing unique carriers"
+    description: "Dimension table containing unique carriers. Join with fact_loadsmart using carrier_key."
     columns:
       - name: carrier_key
-        description: "Carrier's primary key"
+        description: "Primary key for the carrier. Used to join with fact_loadsmart.carrier_key."
         tests:
           - unique
           - not_null
       - name: carrier_name
-        description: "Carrier name"
+        description: "The name of the carrier company."
 
   - name: dim_lanes
-    description: "Dimension table that contains unique routesd"
+    description: "Dimension table that contains unique routes (lanes). Join with fact_loadsmart using lane_key."
     columns:
       - name: lane_key
-        description: "Lane's primary key"
+        description: "Primary key for the lane. Used to join with fact_loadsmart.lane_key."
         tests:
           - unique
           - not_null
       - name: lane
-        description: "Route's string like: (Origin -> Destination)."
+        description: "String representation of the route (e.g., Origin -> Destination)."
+      - name: pickup_city
+        description: "The city where the load is picked up."
+      - name: pickup_state
+        description: "The state where the load is picked up."
+      - name: delivery_city
+        description: "The city where the load is delivered."
+      - name: delivery_state
+        description: "The state where the load is delivered."
 
   - name: fact_loadsmart
-    description: "Fact table containing cargo, financial and operational metrics."
+    description: >
+      A historical Fact table containing cargo, financial, and operational metrics. 
     columns:
       - name: loadsmart_id
-        description: "Cargo primary key and main identifier"
+        description: "Cargo primary key and main identifier. Count this to get the total number of loads."
         tests:
           - unique
           - not_null
       - name: shipper_key
-        description: "A surrogate key for dim_shippers."
+        description: "Foreign key linking to dim_shippers."
         tests:
           - not_null
           - relationships:
               to: ref('dim_shippers')
               field: shipper_key
       - name: carrier_key
-        description: "A surrogate key for dim_carriers."
+        description: "Foreign key linking to dim_carriers."
         tests:
           - not_null
           - relationships:
               to: ref('dim_carriers')
               field: carrier_key
       - name: lane_key
-        description: "A surrogate key for dim_lanes."
+        description: "Foreign key linking to dim_lanes."
         tests:
           - not_null
           - relationships:
               to: ref('dim_lanes')
               field: lane_key
+      - name: pickup_state
+        description: "The 2-letter state abbreviation where the load originated. If comparing intrastate vs interstate, compare this column to delivery_state."
+      - name: delivery_state
+        description: "The 2-letter state abbreviation where the load was delivered. Use this to filter destinations (e.g., loads into Texas = 'TX')."
+      - name: delivery_date
+        description: >
+          The timestamp when the load was actually delivered. 
+          Use this for all volume and monthly delivery calculations. 
       - name: book_price
-        description: "Shipper pricing"
+        description: "The total price charged to the shipper for the load. Sum this for 'total book price' and average it for 'average book price'."
         tests:
           - not_null
+      - name: source_price
+        description: "The cost paid to the carrier to move the load."
       - name: pnl
-        description: "Operation profit or loss metric."
+        description: "Operation profit or loss metric (book_price minus source_price)."
+      - name: load_was_cancelled
+        description: "Boolean flag (TRUE/FALSE). If a question asks for 'delivered loads' or successful loads, you must filter WHERE load_was_cancelled = FALSE."
