@@ -10,11 +10,11 @@ source_cleaned AS (
         ,UPPER(TRIM(SPLIT_PART(SPLIT_PART(lane, ' -> ', 1), ',', 2))) AS pickup_state
         ,TRIM(SPLIT_PART(SPLIT_PART(lane, ' -> ', 2), ',', 1)) AS delivery_city
         ,UPPER(TRIM(SPLIT_PART(SPLIT_PART(lane, ' -> ', 2), ',', 2))) AS delivery_state
-        ,TRY_CAST(quote_date AS TIMESTAMP) AS quote_date
-        ,TRY_CAST(book_date AS TIMESTAMP) AS book_date
-        ,TRY_CAST(source_date AS TIMESTAMP) AS source_date
-        ,TRY_CAST(pickup_date AS TIMESTAMP) AS pickup_date
-        ,TRY_CAST(delivery_date AS TIMESTAMP) AS delivery_date
+        ,TRY_STRPTIME(quote_date, '%-m/%-d/%Y %-H:%M') AS quote_date
+        ,TRY_STRPTIME(book_date, '%-m/%-d/%Y %-H:%M') AS book_date
+        ,TRY_STRPTIME(source_date, '%-m/%-d/%Y %-H:%M') AS source_date
+        ,TRY_STRPTIME(pickup_date, '%-m/%-d/%Y %-H:%M') AS pickup_date
+        ,TRY_STRPTIME(delivery_date, '%-m/%-d/%Y %-H:%M') AS delivery_date
         ,CAST(book_price AS double) AS book_price
         ,CAST(source_price AS double) AS source_price
         ,CAST(pnl AS double) AS pnl
@@ -29,8 +29,8 @@ source_cleaned AS (
         ,carrier_on_time_to_pickup
         ,carrier_on_time_to_delivery
         ,carrier_on_time_overall
-        ,TRY_CAST(pickup_appointment_time AS TIMESTAMP) AS pickup_appointment_time
-        ,TRY_CAST(delivery_appointment_time AS TIMESTAMP) AS delivery_appointment_time
+        ,TRY_STRPTIME(pickup_appointment_time, '%-m/%-d/%Y %-H:%M') AS pickup_appointment_time
+        ,TRY_STRPTIME(delivery_appointment_time, '%-m/%-d/%Y %-H:%M') AS delivery_appointment_time
         ,has_mobile_app_tracking
         ,has_macropoint_tracking
         ,has_edi_tracking
