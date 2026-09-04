@@ -80,8 +80,13 @@ models:
         description: "The 2-letter state abbreviation where the load was delivered. Use this to filter destinations (e.g., loads into Texas = 'TX')."
       - name: delivery_date
         description: >
-          The timestamp when the load was actually delivered. 
-          Use this for all volume and monthly delivery calculations. 
+          The timestamp when the load was actually delivered.
+          Use this for all volume and monthly delivery calculations.
+          This is historical data, not live data - do not use CURRENT_DATE.
+          Only if a question explicitly asks about the "last month" or
+          "last full month", filter delivery_date >= DATE '2024-12-01' AND
+          delivery_date < DATE '2025-01-01' (that is the last full month in
+          this data). Do not apply this date filter for any other question.
       - name: book_price
         description: "The total price charged to the shipper for the load. Sum this for 'total book price' and average it for 'average book price'."
         tests:
