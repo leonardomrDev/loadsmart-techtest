@@ -46,7 +46,7 @@ models:
 
   - name: fact_loadsmart
     description: >
-      A historical Fact table containing cargo, financial, and operational metrics. 
+      A historical Fact table containing cargo, financial, and operational metrics.
     columns:
       - name: loadsmart_id
         description: "Cargo primary key and main identifier. Count this to get the total number of loads."
@@ -74,10 +74,22 @@ models:
           - relationships:
               to: ref('dim_lanes')
               field: lane_key
+      - name: pickup_city
+        description: "The city where the load was picked up."
       - name: pickup_state
         description: "The 2-letter state abbreviation where the load originated. If comparing intrastate vs interstate, compare this column to delivery_state."
+      - name: delivery_city
+        description: "The city where the load was delivered."
       - name: delivery_state
         description: "The 2-letter state abbreviation where the load was delivered. Use this to filter destinations (e.g., loads into Texas = 'TX')."
+      - name: quote_date
+        description: "The timestamp when a price quote was first given to the shipper."
+      - name: book_date
+        description: "The timestamp when the load was booked (the shipper accepted the quote)."
+      - name: source_date
+        description: "The timestamp when a carrier was sourced/assigned to move the load."
+      - name: pickup_date
+        description: "The scheduled/actual pickup timestamp."
       - name: delivery_date
         description: >
           The timestamp when the load was actually delivered.
@@ -87,6 +99,8 @@ models:
           "last full month", filter delivery_date >= DATE '2024-12-01' AND
           delivery_date < DATE '2025-01-01' (that is the last full month in
           this data). Do not apply this date filter for any other question.
+      - name: load_was_cancelled
+        description: "Boolean flag (TRUE/FALSE). If a question asks for 'delivered loads' or successful loads, you must filter WHERE load_was_cancelled = FALSE. This applies together with any delivery_date filter, not instead of it."
       - name: book_price
         description: "The total price charged to the shipper for the load. Sum this for 'total book price' and average it for 'average book price'."
         tests:
@@ -95,5 +109,37 @@ models:
         description: "The cost paid to the carrier to move the load."
       - name: pnl
         description: "Operation profit or loss metric (book_price minus source_price)."
-      - name: load_was_cancelled
-        description: "Boolean flag (TRUE/FALSE). If a question asks for 'delivered loads' or successful loads, you must filter WHERE load_was_cancelled = FALSE."
+      - name: mileage
+        description: "Distance of the load in miles. A small number of rows have mileage of 0, which is not realistic for a truckload move - a known data quality issue in the raw file, not filtered out here."
+      - name: equipment_type
+        description: "Trailer/equipment type used for the load. One of: DRV (dry van), RFR (refrigerated/reefer), FBE (flatbed). Never null."
+      - name: carrier_rating
+        description: "Rating (0-5) given to the carrier for this load. Sparse: about 86% of rows are null, so aggregations over this column cover a minority of loads only."
+      - name: sourcing_channel
+        description: "Channel through which the carrier was sourced for this load. Sparse: about 95% of rows are null."
+      - name: vip_carrier
+        description: "Boolean flag: TRUE if the carrier is designated a VIP carrier. True for a small minority of loads (~2.5%)."
+      - name: carrier_dropped_us_count
+        description: "Number of times this carrier has dropped (backed out of) a load with Loadsmart, as of this record. 0 for the vast majority of loads."
+      - name: carrier_on_time_to_pickup
+        description: "Boolean flag: TRUE if the carrier arrived on time for pickup. Null when on-time tracking wasn't recorded for the load (common for cancelled loads)."
+      - name: carrier_on_time_to_delivery
+        description: "Boolean flag: TRUE if the carrier delivered on time. Null when on-time tracking wasn't recorded for the load (common for cancelled loads)."
+      - name: carrier_on_time_overall
+        description: "Boolean flag: TRUE if the carrier was on time overall (pickup and delivery). Null when on-time tracking wasn't recorded for the load (common for cancelled loads)."
+      - name: pickup_appointment_time
+        description: "Scheduled pickup appointment timestamp."
+      - name: delivery_appointment_time
+        description: "Scheduled delivery appointment timestamp."
+      - name: has_mobile_app_tracking
+        description: "Boolean flag: whether the load was tracked via the carrier's mobile app. Always FALSE in this dataset - no rows use mobile app tracking."
+      - name: has_macropoint_tracking
+        description: "Boolean flag: whether the load was tracked via MacroPoint. Always FALSE in this dataset."
+      - name: has_edi_tracking
+        description: "Boolean flag: whether the load was tracked via EDI. Always FALSE in this dataset."
+      - name: contracted_load
+        description: "Boolean flag: whether the load was moved under a contracted (as opposed to spot) agreement. Always FALSE in this dataset."
+      - name: load_booked_autonomously
+        description: "Boolean flag: whether the load was booked automatically by Loadsmart's system rather than by a human."
+      - name: load_sourced_autonomously
+        description: "Boolean flag: whether the carrier for the load was sourced automatically by Loadsmart's system rather than by a human."
