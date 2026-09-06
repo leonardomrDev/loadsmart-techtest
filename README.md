@@ -7,7 +7,10 @@ text-to-SQL notebook that queries that model using a local LLM.
 
 - `loadsmart/` - the dbt project (staging + marts models, tests, documentation).
 - `text_to_sql.ipynb` - natural-language question -> generated SQL -> answer, run against the
-  dbt model.
+  dbt model. Also has the results table, the 2 stakeholder questions, the question the model
+  can't answer, and the iteration log.
+- `csv_exporter/` - Python skills deliverable: a notebook that reads the dbt model and exports
+  delivered loads for the last available month to CSV.
 - `data/` - the raw CSV as provided (also seeded into the dbt project from `loadsmart/seeds/`).
 
 ## How to reproduce
@@ -61,6 +64,22 @@ jupyter nbconvert --to notebook --execute --inplace text_to_sql.ipynb
 The notebook builds its schema context programmatically from `loadsmart/target/manifest.json`
 (dbt's documentation), so it must be run after step 2.
 
+Ollama runs unauthenticated on `localhost:11434` - there's no API key or credential involved,
+so there's nothing to put in an environment variable and nothing sensitive committed to the repo.
+
+### 4. Run the CSV export notebook
+
+Also requires step 2 (reads directly from `loadsmart/dev.duckdb`):
+
+```
+cd csv_exporter
+jupyter nbconvert --to notebook --execute --inplace csv_exporter.ipynb
+```
+
+Writes `csv_exporter/delivered_loads_last_month.csv`. Note this notebook reads "last available
+month" literally against the raw data (March 2025, which only has 1 row) - a different question
+than "last full month" (December 2024), which is what the AI notebook's first question uses.
+
 ## Data quality notes
 
 The most important findings from the raw CSV (full detail in `models/staging/schema.yml` and
@@ -75,6 +94,9 @@ The most important findings from the raw CSV (full detail in `models/staging/sch
 - Data volume drops off after December 2024 (January 2025 has partial data, February 2025 comes empty,
   a single stray row in March 2025), so "the last full month available in the data" is December
   2024.
+- The raw header has `has_mobile_app_tracking` twice (DuckDB loads the second copy as
+  `has_mobile_app_tracking_2`). Checked all rows - the two columns are identical everywhere
+  (always FALSE), so staging only keeps one; no data is lost.
 
 ## dbt model
 

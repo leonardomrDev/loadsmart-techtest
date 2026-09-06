@@ -94,7 +94,7 @@ models:
         description: >
           The timestamp when the load was actually delivered.
           Use this for all volume and monthly delivery calculations.
-          This is historical data, not live data - do not use CURRENT_DATE.
+          This is historical data, do not use CURRENT_DATE.
           Only if a question explicitly asks about the "last month" or
           "last full month", filter delivery_date >= DATE '2024-12-01' AND
           delivery_date < DATE '2025-01-01' (that is the last full month in
@@ -132,7 +132,7 @@ models:
       - name: delivery_appointment_time
         description: "Scheduled delivery appointment timestamp."
       - name: has_mobile_app_tracking
-        description: "Boolean flag: whether the load was tracked via the carrier's mobile app. Always FALSE in this dataset - no rows use mobile app tracking."
+        description: "Boolean flag: whether the load was tracked via the carrier's mobile app. Always FALSE in this dataset, no rows use mobile app tracking."
       - name: has_macropoint_tracking
         description: "Boolean flag: whether the load was tracked via MacroPoint. Always FALSE in this dataset."
       - name: has_edi_tracking
