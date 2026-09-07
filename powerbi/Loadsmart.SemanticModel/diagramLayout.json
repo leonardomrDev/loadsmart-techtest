@@ -1,0 +1,87 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 703,
+            "y": 383.75
+          },
+          "nodeIndex": "fact_loadsmart",
+          "nodeLineageTag": "03da4b48-adcc-41db-b2ba-5ed5e937119b",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 219,
+            "y": 239.75
+          },
+          "nodeIndex": "dim_shippers",
+          "nodeLineageTag": "92616ad7-8af0-4c41-9727-867fa4eb1564",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 1158,
+            "y": 231.75
+          },
+          "nodeIndex": "dim_carriers",
+          "nodeLineageTag": "5e14cab3-612f-43ff-9e30-79df3cb885b9",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 1567,
+            "y": 0
+          },
+          "nodeIndex": "_measures",
+          "nodeLineageTag": "91a9d496-3aff-4449-ba77-fe46b57e0506",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 1632,
+            "y": 205.875
+          },
+          "nodeIndex": "dim_lanes",
+          "nodeLineageTag": "c7cfd249-ae13-4c45-9ca3-bd7ca98c233e",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 99.511366050562984,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
