@@ -24,6 +24,8 @@ models:
           - not_null
       - name: carrier_name
         description: "The name of the carrier company."
+      - name: vip_carrier
+        description: "Boolean flag: TRUE if the carrier is designated a VIP carrier. This is a property of the carrier, not of an individual load, so it lives here rather than on fact_loadsmart. True for a small minority of carriers."
 
   - name: dim_lanes
     description: "Dimension table that contains unique routes (lanes). Join with fact_loadsmart using lane_key."
@@ -36,17 +38,26 @@ models:
       - name: lane
         description: "String representation of the route (e.g., Origin -> Destination)."
       - name: pickup_city
-        description: "The city where the load is picked up."
+        description: "The city where the load was picked up."
       - name: pickup_state
-        description: "The state where the load is picked up."
+        description: "The 2-letter state abbreviation where the load originated. For intrastate vs interstate, compare l.pickup_state to l.delivery_state, both from dim_lanes."
+      - name: pickup_state_name
+        description: "The full name of the pickup state (e.g. 'Texas'). Same state as pickup_state, spelled out. Use the 2-letter pickup_state for filtering."
       - name: delivery_city
-        description: "The city where the load is delivered."
+        description: "The city where the load was delivered."
       - name: delivery_state
-        description: "The state where the load is delivered."
+        description: "The 2-letter state abbreviation where the load was delivered. Use this to filter destinations (e.g., loads into Texas = 'TX')."
+      - name: delivery_state_name
+        description: "The full name of the delivery state (e.g. 'Texas'). Same state as delivery_state, spelled out. Use the 2-letter delivery_state for filtering."
 
   - name: fact_loadsmart
     description: >
       A historical Fact table containing cargo, financial, and operational metrics.
+      It has no pickup_city, pickup_state, delivery_city or delivery_state columns. Those four
+      live only in dim_lanes, so any question about cities or states must join dim_lanes on
+      lane_key and select them from that table (for example l.pickup_state, never f.pickup_state).
+      Whenever you join a dimension table, qualify every column with its table alias
+      (for example f.shipper_key, not shipper_key) to avoid ambiguous column errors.
     columns:
       - name: loadsmart_id
         description: "Cargo primary key and main identifier. Count this to get the total number of loads."
@@ -74,14 +85,6 @@ models:
           - relationships:
               to: ref('dim_lanes')
               field: lane_key
-      - name: pickup_city
-        description: "The city where the load was picked up."
-      - name: pickup_state
-        description: "The 2-letter state abbreviation where the load originated. If comparing intrastate vs interstate, compare this column to delivery_state."
-      - name: delivery_city
-        description: "The city where the load was delivered."
-      - name: delivery_state
-        description: "The 2-letter state abbreviation where the load was delivered. Use this to filter destinations (e.g., loads into Texas = 'TX')."
       - name: quote_date
         description: "The timestamp when a price quote was first given to the shipper."
       - name: book_date
@@ -100,7 +103,7 @@ models:
           delivery_date < DATE '2025-01-01' (that is the last full month in
           this data). Do not apply this date filter for any other question.
       - name: load_was_cancelled
-        description: "Boolean flag (TRUE/FALSE). If a question asks for 'delivered loads' or successful loads, you must filter WHERE load_was_cancelled = FALSE. This applies together with any delivery_date filter, not instead of it."
+        description: "Boolean flag (TRUE/FALSE). If a question asks for 'delivered loads' or successful loads, you must filter WHERE load_was_cancelled = FALSE. Also apply this filter to every count, average or sum of loads or prices, even when the question does not use the word 'delivered'. This applies together with any delivery_date filter, not instead of it."
       - name: book_price
         description: "The total price charged to the shipper for the load. Sum this for 'total book price' and average it for 'average book price'."
         tests:
@@ -117,8 +120,6 @@ models:
         description: "Rating (0-5) given to the carrier for this load. Sparse: about 86% of rows are null, so aggregations over this column cover a minority of loads only."
       - name: sourcing_channel
         description: "Channel through which the carrier was sourced for this load. Sparse: about 95% of rows are null."
-      - name: vip_carrier
-        description: "Boolean flag: TRUE if the carrier is designated a VIP carrier. True for a small minority of loads (~2.5%)."
       - name: carrier_dropped_us_count
         description: "Number of times this carrier has dropped (backed out of) a load with Loadsmart, as of this record. 0 for the vast majority of loads."
       - name: carrier_on_time_to_pickup

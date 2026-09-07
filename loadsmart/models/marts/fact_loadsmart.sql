@@ -3,10 +3,6 @@ SELECT
     ,md5(COALESCE(shipper_name, 'UNKNOWN')) AS shipper_key
     ,md5(COALESCE(carrier_name, 'UNKNOWN')) as carrier_key
     ,md5(COALESCE(lane, 'UNKNOWN')) AS lane_key
-    ,pickup_city
-    ,pickup_state
-    ,delivery_city
-    ,delivery_state
     ,quote_date
     ,book_date
     ,source_date
@@ -19,7 +15,6 @@ SELECT
     ,equipment_type
     ,carrier_rating
     ,sourcing_channel
-    ,vip_carrier
     ,carrier_dropped_us_count
     ,carrier_on_time_to_pickup
     ,carrier_on_time_to_delivery
