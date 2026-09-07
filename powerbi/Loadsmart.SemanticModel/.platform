@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Loadsmart"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "70a3a65b-e3c6-42c8-9cb8-1d5c5fb43e39"
+  }
+}

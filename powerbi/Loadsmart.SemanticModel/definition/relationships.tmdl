@@ -1,0 +1,47 @@
+relationship a5f71550-989a-420c-8809-32a9dc60b423
+	joinOnDateBehavior: datePartOnly
+	fromColumn: fact_loadsmart.quote_date
+	toColumn: LocalDateTable_7876a795-55b9-40d7-bb07-2396f2e38808.Date
+
+relationship 66afd8a5-5ef8-48b2-bcfb-fa718895dd72
+	joinOnDateBehavior: datePartOnly
+	fromColumn: fact_loadsmart.book_date
+	toColumn: LocalDateTable_d82e389e-794f-4331-a1df-f8dacd11cae0.Date
+
+relationship dc2edf6e-9b23-4a72-9194-d870c6d330d4
+	joinOnDateBehavior: datePartOnly
+	fromColumn: fact_loadsmart.source_date
+	toColumn: LocalDateTable_89b2fbfb-1657-4b38-9d5f-9b9533ca71b0.Date
+
+relationship 450e0dfa-bedc-4ccc-bd74-d9529eefbb6a
+	joinOnDateBehavior: datePartOnly
+	fromColumn: fact_loadsmart.pickup_date
+	toColumn: LocalDateTable_74970bda-f26f-4ae5-8147-00ffcc276eab.Date
+
+relationship 81b2b2e8-f343-4805-a01d-36a10790d361
+	joinOnDateBehavior: datePartOnly
+	fromColumn: fact_loadsmart.delivery_date
+	toColumn: LocalDateTable_9fca21e8-db7e-42f5-bd20-3c413db1416a.Date
+
+relationship 5659ee03-b1ba-4f07-afc1-b981f7a7770a
+	joinOnDateBehavior: datePartOnly
+	fromColumn: fact_loadsmart.pickup_appointment_time
+	toColumn: LocalDateTable_ccc0e22f-cb88-4436-891c-bc14947d37af.Date
+
+relationship 0c365db9-3632-42b3-bc05-0a489ecd67b5
+	joinOnDateBehavior: datePartOnly
+	fromColumn: fact_loadsmart.delivery_appointment_time
+	toColumn: LocalDateTable_ec370237-adb2-4d85-8c36-f2a93f1f9e5e.Date
+
+relationship AutoDetected_a353fc65-2199-4b92-bcf8-f1a5692c298c
+	fromColumn: fact_loadsmart.shipper_key
+	toColumn: dim_shippers.shipper_key
+
+relationship AutoDetected_fe17860a-622c-4c01-bbe0-2097ceea3d29
+	fromColumn: fact_loadsmart.carrier_key
+	toColumn: dim_carriers.carrier_key
+
+relationship AutoDetected_326fb5ce-a12e-4934-88f2-82c5e8f54065
+	fromColumn: fact_loadsmart.lane_key
+	toColumn: dim_lanes.lane_key
+

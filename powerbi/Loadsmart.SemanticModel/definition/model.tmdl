@@ -1,0 +1,30 @@
+model Model
+	culture: en-US
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	sourceQueryCulture: en-US
+	dataAccessOptions
+		legacyRedirects
+		returnErrorValuesAsNull
+
+annotation __PBI_TimeIntelligenceEnabled = 1
+
+annotation PBI_QueryOrder = ["fact_loadsmart","dim_shippers","dim_carriers","dim_lanes"]
+
+annotation PBI_ProTooling = ["DevMode"]
+
+ref table dim_shippers
+ref table dim_carriers
+ref table _measures
+ref table fact_loadsmart
+ref table DateTableTemplate_1a1b3898-84b2-40af-a181-4b2f3c7e4b0a
+ref table LocalDateTable_7876a795-55b9-40d7-bb07-2396f2e38808
+ref table LocalDateTable_d82e389e-794f-4331-a1df-f8dacd11cae0
+ref table LocalDateTable_89b2fbfb-1657-4b38-9d5f-9b9533ca71b0
+ref table LocalDateTable_74970bda-f26f-4ae5-8147-00ffcc276eab
+ref table LocalDateTable_9fca21e8-db7e-42f5-bd20-3c413db1416a
+ref table LocalDateTable_ccc0e22f-cb88-4436-891c-bc14947d37af
+ref table LocalDateTable_ec370237-adb2-4d85-8c36-f2a93f1f9e5e
+ref table dim_lanes
+
+ref cultureInfo en-US
+

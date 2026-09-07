@@ -1,0 +1,81 @@
+table dim_lanes
+	lineageTag: c7cfd249-ae13-4c45-9ca3-bd7ca98c233e
+
+	column lane_key
+		dataType: string
+		lineageTag: 6c67c46a-a87e-4a35-90b6-83e443bbf128
+		summarizeBy: none
+		sourceColumn: lane_key
+
+		annotation SummarizationSetBy = Automatic
+
+	column lane
+		dataType: string
+		lineageTag: 9d89d313-2448-4f81-b5f0-6fae74a571b6
+		summarizeBy: none
+		sourceColumn: lane
+
+		annotation SummarizationSetBy = Automatic
+
+	column pickup_city
+		dataType: string
+		lineageTag: 10041f3d-6403-4c26-8737-996a88160a43
+		summarizeBy: none
+		sourceColumn: pickup_city
+
+		annotation SummarizationSetBy = Automatic
+
+	column pickup_state
+		dataType: string
+		lineageTag: 559a3f3c-e348-4432-8dc9-1103601fced1
+		summarizeBy: none
+		sourceColumn: pickup_state
+
+		annotation SummarizationSetBy = Automatic
+
+	column pickup_state_name
+		dataType: string
+		lineageTag: 8222e13f-7097-4bf6-8df5-ec0d9b57a28b
+		summarizeBy: none
+		sourceColumn: pickup_state_name
+
+		annotation SummarizationSetBy = Automatic
+
+	column delivery_city
+		dataType: string
+		lineageTag: 4a8ab838-771b-4c9a-b782-2481be1f95f6
+		summarizeBy: none
+		sourceColumn: delivery_city
+
+		annotation SummarizationSetBy = Automatic
+
+	column delivery_state
+		dataType: string
+		lineageTag: 83f73f2a-14cc-40cb-b935-70beb6652050
+		summarizeBy: none
+		sourceColumn: delivery_state
+
+		annotation SummarizationSetBy = Automatic
+
+	column delivery_state_name
+		dataType: string
+		lineageTag: fc4cdea7-04ec-45b2-ab3c-aa03a1779dda
+		summarizeBy: none
+		sourceColumn: delivery_state_name
+
+		annotation SummarizationSetBy = Automatic
+
+	partition dim_lanes = m
+		mode: import
+		source =
+				let
+				  Source = Csv.Document(File.Contents("C:\Users\Leonardo Martins\Documents\GitHub\loadsmart-techtest\powerbi\dim_lanes.csv"), [Delimiter = ",", Columns = 8, QuoteStyle = QuoteStyle.None]),
+				    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"lane_key", type text}, {"lane", type text}, {"pickup_city", type text}, {"pickup_state", type text}, {"pickup_state_name", type text}, {"delivery_city", type text}, {"delivery_state", type text}, {"delivery_state_name", type text}})
+				in
+				  #"Changed Type"
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+

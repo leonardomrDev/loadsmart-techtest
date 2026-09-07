@@ -1,0 +1,33 @@
+table dim_shippers
+	lineageTag: 92616ad7-8af0-4c41-9727-867fa4eb1564
+
+	column shipper_key
+		dataType: string
+		lineageTag: 1d304d7f-db04-4030-9a4c-0763982954b9
+		summarizeBy: none
+		sourceColumn: shipper_key
+
+		annotation SummarizationSetBy = Automatic
+
+	column shipper_name
+		dataType: string
+		lineageTag: d65c0d85-f449-45be-95a1-4124db22d870
+		summarizeBy: none
+		sourceColumn: shipper_name
+
+		annotation SummarizationSetBy = Automatic
+
+	partition dim_shippers = m
+		mode: import
+		source =
+				let
+				  Source = Csv.Document(File.Contents("C:\Users\Leonardo Martins\Documents\GitHub\loadsmart-techtest\powerbi\dim_shippers.csv"),[Delimiter=",", Columns=2, QuoteStyle=QuoteStyle.None]),
+				    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"shipper_key", type text}, {"shipper_name", type text}})
+				in
+				  #"Changed Type"
+
+	annotation PBI_ResultType = Table
+
+	annotation PBI_NavigationStepName = Navigation
+

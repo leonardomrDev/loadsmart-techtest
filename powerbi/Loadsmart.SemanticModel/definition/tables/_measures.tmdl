@@ -1,0 +1,57 @@
+table _measures
+	lineageTag: 91a9d496-3aff-4449-ba77-fe46b57e0506
+
+	measure Revenue = CALCULATE(SUM(fact_loadsmart[book_price]), fact_loadsmart[load_was_cancelled] = FALSE())
+		formatString: \$#,0;(\$#,0);\$#,0
+		lineageTag: 5de09a9c-6730-4302-be70-a2f1aae8820f
+
+	measure carrier_cost = SUM(fact_loadsmart[source_price])
+		formatString: \$#,0;(\$#,0);\$#,0
+		lineageTag: dbc13b04-738e-4901-9dca-f6e0be7e502d
+
+	measure 'Gross Margin' = CALCULATE(SUM(fact_loadsmart[pnl]), fact_loadsmart[load_was_cancelled] = FALSE())
+		formatString: \$#,0;(\$#,0);\$#,0
+		lineageTag: 5305d27e-0ca9-4d8d-8400-e30e6fbeb58c
+
+	measure 'Gross Margin %' = DIVIDE([Gross Margin], [Revenue])
+		formatString: 0%;-0%;0%
+		lineageTag: 37f042ad-314a-4edf-ada0-e1a8df18325a
+
+	measure cancellation_rate = DIVIDE([cancelled_loads], COUNTROWS(fact_loadsmart))
+		formatString: 0%;-0%;0%
+		lineageTag: 26635d1e-9c1f-46a5-93c6-aa6b7909886a
+
+	measure cancelled_loads = CALCULATE(COUNTROWS(fact_loadsmart), fact_loadsmart[load_was_cancelled] = TRUE())
+		formatString: 0
+		lineageTag: e5f3f8dc-a095-4cd6-bde3-0bf66554b9d7
+
+	measure on_time_% =
+			
+			DIVIDE(
+			    CALCULATE(COUNTROWS(fact_loadsmart), fact_loadsmart[carrier_on_time_to_delivery] = TRUE()),
+			    CALCULATE(COUNTROWS(fact_loadsmart), NOT ISBLANK(fact_loadsmart[carrier_on_time_to_delivery]))
+			)
+		formatString: 0%;-0%;0%
+		lineageTag: d6085dad-e5dd-457f-ad5b-642fd5518293
+
+	measure 'Load Count' = CALCULATE(COUNTROWS(fact_loadsmart), fact_loadsmart[load_was_cancelled] = FALSE())
+		formatString: 0
+		lineageTag: f9b99a00-fd66-44b8-923a-90909970ae0c
+
+	column Column
+		formatString: 0
+		lineageTag: 448b5ba0-43e6-41d9-9af0-6d3a1111707d
+		summarizeBy: sum
+		isNameInferred
+		sourceColumn: [Column]
+
+		annotation SummarizationSetBy = Automatic
+
+	partition _measures = calculated
+		mode: import
+		source = Row("Column", BLANK())
+
+	annotation PBI_Id = ff6a338a05274d40801cb4546bfe2bd9
+
+	annotation 436ba87b-9c83-4389-a31b-ebd06a36be98 = {"Expression":""}
+

@@ -1,0 +1,323 @@
+table fact_loadsmart
+	lineageTag: 4966f6e0-5f26-47d2-a327-05bed0c09972
+
+	column loadsmart_id
+		dataType: int64
+		formatString: 0
+		lineageTag: e0a63936-9311-4551-992c-192c4ff81384
+		summarizeBy: sum
+		sourceColumn: loadsmart_id
+
+		annotation SummarizationSetBy = Automatic
+
+	column shipper_key
+		dataType: string
+		lineageTag: c6c23e48-ffb4-4459-9bfd-a3a9a2316897
+		summarizeBy: none
+		sourceColumn: shipper_key
+
+		annotation SummarizationSetBy = Automatic
+
+	column carrier_key
+		dataType: string
+		lineageTag: d55b99ad-7f0f-42c0-8389-311ad584adbf
+		summarizeBy: none
+		sourceColumn: carrier_key
+
+		annotation SummarizationSetBy = Automatic
+
+	column lane_key
+		dataType: string
+		lineageTag: a141870f-c0d0-4721-81ae-ae7a3164d95c
+		summarizeBy: none
+		sourceColumn: lane_key
+
+		annotation SummarizationSetBy = Automatic
+
+	column quote_date
+		dataType: dateTime
+		formatString: General Date
+		lineageTag: a5434710-2cc6-406f-b517-bb442b08ab6b
+		summarizeBy: none
+		sourceColumn: quote_date
+
+		variation Variation
+			isDefault
+			relationship: a5f71550-989a-420c-8809-32a9dc60b423
+			defaultHierarchy: LocalDateTable_7876a795-55b9-40d7-bb07-2396f2e38808.'Date Hierarchy'
+
+		annotation SummarizationSetBy = Automatic
+
+	column book_date
+		dataType: dateTime
+		formatString: General Date
+		lineageTag: dd5e4ee5-e0e7-4e79-afca-19f85f5c45a8
+		summarizeBy: none
+		sourceColumn: book_date
+
+		variation Variation
+			isDefault
+			relationship: 66afd8a5-5ef8-48b2-bcfb-fa718895dd72
+			defaultHierarchy: LocalDateTable_d82e389e-794f-4331-a1df-f8dacd11cae0.'Date Hierarchy'
+
+		annotation SummarizationSetBy = Automatic
+
+	column source_date
+		dataType: dateTime
+		formatString: General Date
+		lineageTag: fa467a7d-2b07-4a81-ab74-5bffacc1cd33
+		summarizeBy: none
+		sourceColumn: source_date
+
+		variation Variation
+			isDefault
+			relationship: dc2edf6e-9b23-4a72-9194-d870c6d330d4
+			defaultHierarchy: LocalDateTable_89b2fbfb-1657-4b38-9d5f-9b9533ca71b0.'Date Hierarchy'
+
+		annotation SummarizationSetBy = Automatic
+
+	column pickup_date
+		dataType: dateTime
+		formatString: General Date
+		lineageTag: 33d46675-45a1-41ab-9b56-8bcbc8b4df59
+		summarizeBy: none
+		sourceColumn: pickup_date
+
+		variation Variation
+			isDefault
+			relationship: 450e0dfa-bedc-4ccc-bd74-d9529eefbb6a
+			defaultHierarchy: LocalDateTable_74970bda-f26f-4ae5-8147-00ffcc276eab.'Date Hierarchy'
+
+		annotation SummarizationSetBy = Automatic
+
+	column delivery_date
+		dataType: dateTime
+		formatString: General Date
+		lineageTag: 469fafe7-3d81-4b32-8a03-76505e933867
+		summarizeBy: none
+		sourceColumn: delivery_date
+
+		variation Variation
+			isDefault
+			relationship: 81b2b2e8-f343-4805-a01d-36a10790d361
+			defaultHierarchy: LocalDateTable_9fca21e8-db7e-42f5-bd20-3c413db1416a.'Date Hierarchy'
+
+		annotation SummarizationSetBy = Automatic
+
+	column book_price
+		dataType: double
+		lineageTag: 100bc43b-cb15-4d4b-829d-862e11aca0e9
+		summarizeBy: sum
+		sourceColumn: book_price
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column source_price
+		dataType: double
+		lineageTag: e78ad032-8e44-421e-85ad-16b653ec389b
+		summarizeBy: sum
+		sourceColumn: source_price
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column pnl
+		dataType: double
+		lineageTag: 473cac8b-f4ba-43e4-a8be-3f04412e931a
+		summarizeBy: sum
+		sourceColumn: pnl
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column mileage
+		dataType: double
+		lineageTag: 32d5a9eb-fce6-4436-9507-a0990e6e4a4d
+		summarizeBy: sum
+		sourceColumn: mileage
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column equipment_type
+		dataType: string
+		lineageTag: 8862fd2d-49c8-4b47-b83a-0174429f98fa
+		summarizeBy: none
+		sourceColumn: equipment_type
+
+		annotation SummarizationSetBy = Automatic
+
+	column carrier_rating
+		dataType: int64
+		formatString: 0
+		lineageTag: 92de587a-077f-4025-819f-c184558343a2
+		summarizeBy: sum
+		sourceColumn: carrier_rating
+
+		annotation SummarizationSetBy = Automatic
+
+	column sourcing_channel
+		dataType: string
+		lineageTag: 6e9b05eb-62d3-47e0-9ddd-8573de62ab3d
+		summarizeBy: none
+		sourceColumn: sourcing_channel
+
+		annotation SummarizationSetBy = Automatic
+
+	column carrier_dropped_us_count
+		dataType: int64
+		formatString: 0
+		lineageTag: 37f6eb4f-865b-48f5-b00a-c466101f342a
+		summarizeBy: sum
+		sourceColumn: carrier_dropped_us_count
+
+		annotation SummarizationSetBy = Automatic
+
+	column carrier_on_time_to_pickup
+		dataType: boolean
+		formatString: """TRUE"";""TRUE"";""FALSE"""
+		lineageTag: 4e7c6a66-e397-4a42-8ecb-68374f28c2ed
+		summarizeBy: none
+		sourceColumn: carrier_on_time_to_pickup
+
+		annotation SummarizationSetBy = Automatic
+
+	column carrier_on_time_to_delivery
+		dataType: boolean
+		formatString: """TRUE"";""TRUE"";""FALSE"""
+		lineageTag: 911cc39e-2703-400a-af60-ea555897acad
+		summarizeBy: none
+		sourceColumn: carrier_on_time_to_delivery
+
+		annotation SummarizationSetBy = Automatic
+
+	column carrier_on_time_overall
+		dataType: boolean
+		formatString: """TRUE"";""TRUE"";""FALSE"""
+		lineageTag: 667983bf-81cc-416a-bf60-625ce6fe8cb0
+		summarizeBy: none
+		sourceColumn: carrier_on_time_overall
+
+		annotation SummarizationSetBy = Automatic
+
+	column pickup_appointment_time
+		dataType: dateTime
+		formatString: General Date
+		lineageTag: e9bbb833-4998-4d3d-be90-b30f32d5c30f
+		summarizeBy: none
+		sourceColumn: pickup_appointment_time
+
+		variation Variation
+			isDefault
+			relationship: 5659ee03-b1ba-4f07-afc1-b981f7a7770a
+			defaultHierarchy: LocalDateTable_ccc0e22f-cb88-4436-891c-bc14947d37af.'Date Hierarchy'
+
+		annotation SummarizationSetBy = Automatic
+
+	column delivery_appointment_time
+		dataType: dateTime
+		formatString: General Date
+		lineageTag: 260f9f32-cb78-412c-aaa5-0109d52ef554
+		summarizeBy: none
+		sourceColumn: delivery_appointment_time
+
+		variation Variation
+			isDefault
+			relationship: 0c365db9-3632-42b3-bc05-0a489ecd67b5
+			defaultHierarchy: LocalDateTable_ec370237-adb2-4d85-8c36-f2a93f1f9e5e.'Date Hierarchy'
+
+		annotation SummarizationSetBy = Automatic
+
+	column has_mobile_app_tracking
+		dataType: boolean
+		formatString: """TRUE"";""TRUE"";""FALSE"""
+		lineageTag: c98cb0af-c1d7-4f55-b58b-a3379ad0dc2e
+		summarizeBy: none
+		sourceColumn: has_mobile_app_tracking
+
+		annotation SummarizationSetBy = Automatic
+
+	column has_macropoint_tracking
+		dataType: boolean
+		formatString: """TRUE"";""TRUE"";""FALSE"""
+		lineageTag: 30b9fa8d-e0b4-4700-ac35-e73e10241e03
+		summarizeBy: none
+		sourceColumn: has_macropoint_tracking
+
+		annotation SummarizationSetBy = Automatic
+
+	column has_edi_tracking
+		dataType: boolean
+		formatString: """TRUE"";""TRUE"";""FALSE"""
+		lineageTag: 922c485d-c6a2-4c30-abc0-d085a12d49b2
+		summarizeBy: none
+		sourceColumn: has_edi_tracking
+
+		annotation SummarizationSetBy = Automatic
+
+	column contracted_load
+		dataType: boolean
+		formatString: """TRUE"";""TRUE"";""FALSE"""
+		lineageTag: b7037066-21b5-4cb0-86c0-17ff5b8abdbc
+		summarizeBy: none
+		sourceColumn: contracted_load
+
+		annotation SummarizationSetBy = Automatic
+
+	column load_booked_autonomously
+		dataType: boolean
+		formatString: """TRUE"";""TRUE"";""FALSE"""
+		lineageTag: 45564996-a8e8-42be-b902-b583d117d1ab
+		summarizeBy: none
+		sourceColumn: load_booked_autonomously
+
+		annotation SummarizationSetBy = Automatic
+
+	column load_sourced_autonomously
+		dataType: boolean
+		formatString: """TRUE"";""TRUE"";""FALSE"""
+		lineageTag: a55df1f4-e813-4ded-8703-30aa457c3c99
+		summarizeBy: none
+		sourceColumn: load_sourced_autonomously
+
+		annotation SummarizationSetBy = Automatic
+
+	column load_was_cancelled
+		dataType: boolean
+		formatString: """TRUE"";""TRUE"";""FALSE"""
+		lineageTag: f080ece9-2c55-4bc2-8e6f-1814433c142c
+		summarizeBy: none
+		sourceColumn: load_was_cancelled
+
+		annotation SummarizationSetBy = Automatic
+
+	column Profitability =
+			
+			SWITCH(TRUE(),
+			    fact_loadsmart[pnl] < 0, "Loss-making",
+			    fact_loadsmart[pnl] = 0, "Break-even",
+			    "Profitable")
+		lineageTag: 8edfeaa2-0322-420d-b79b-64add999d7b3
+		summarizeBy: none
+
+		annotation SummarizationSetBy = Automatic
+
+	partition fact_loadsmart = m
+		mode: import
+		source =
+				let
+				  Source = Csv.Document(File.Contents("C:\Users\Leonardo Martins\Documents\GitHub\loadsmart-techtest\powerbi\fact_loadsmart.csv"), [Delimiter = ",", Columns = 29, QuoteStyle = QuoteStyle.None]),
+				  #"Promoted headers" = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+				  #"Changed column type" = Table.TransformColumnTypes(#"Promoted headers", {{"loadsmart_id", Int64.Type}, {"shipper_key", type text}, {"carrier_key", type text}, {"lane_key", type text}, {"quote_date", type datetime}, {"book_date", type datetime}, {"source_date", type datetime}, {"pickup_date", type datetime}, {"delivery_date", type datetime}, {"book_price", type number}, {"source_price", type number}, {"pnl", type number}, {"mileage", type number}, {"equipment_type", type text}, {"carrier_rating", Int64.Type}, {"sourcing_channel", type text}, {"carrier_dropped_us_count", Int64.Type}, {"carrier_on_time_to_pickup", type logical}, {"carrier_on_time_to_delivery", type logical}, {"carrier_on_time_overall", type logical}, {"pickup_appointment_time", type datetime}, {"delivery_appointment_time", type datetime}, {"has_mobile_app_tracking", type logical}, {"has_macropoint_tracking", type logical}, {"has_edi_tracking", type logical}, {"contracted_load", type logical}, {"load_booked_autonomously", type logical}, {"load_sourced_autonomously", type logical}, {"load_was_cancelled", type logical}})
+				in
+				  #"Changed column type"
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+
