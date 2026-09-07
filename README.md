@@ -112,7 +112,5 @@ The main findings from the raw CSV. Full detail is in `models/staging/schema.yml
 ## dbt model
 
 Star schema: `fact_loadsmart` joined to `dim_shippers`, `dim_carriers`, `dim_lanes`. The fact
-carries keys and measures only - names, cities and states live in the dimensions. Every column
-is documented in `schema.yml`, because that documentation is what gets fed to the LLM.
-
-On 7b the geography questions fail. The iteration log in `text_to_sql.ipynb` has the detail.
+carries keys and measures only. Names, cities and states live in the dimensions. Every column
+is documented in `schema.yml`, because that documentation is used by the LLM.
