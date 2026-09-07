@@ -1,0 +1,1571 @@
+lane_key,lane,pickup_city,pickup_state,delivery_city,delivery_state
+0690b9e221cc43fb66453c03ce5ecb4a,"Monte Vista,CO -> Roanoke,TX",Monte Vista,CO,Roanoke,TX
+58b8289a4715809db3320b2d11df02b8,"Fort Collins,CO -> Kalispell,MT",Fort Collins,CO,Kalispell,MT
+3d32c9fa7d723709f8e6582efc0f1083,"Wilson,NC -> Cranston,RI",Wilson,NC,Cranston,RI
+ee88012a00326ed854c5b1ed2726593c,"Taft,CA -> Tracy,CA",Taft,CA,Tracy,CA
+d1d4243ebcbd264403c159b65906f039,"Cartersville,GA -> Columbus,GA",Cartersville,GA,Columbus,GA
+bac962cee11cd3c535e7d0057e0662f6,"Savannah,GA -> Gastonia,NC",Savannah,GA,Gastonia,NC
+b32a38cbf4931a12fbbf9221bf21883e,"Arlington,TX -> Houston,TX",Arlington,TX,Houston,TX
+1aff84e41dad2a3d90a7fddb029bd3b3,"York,PA -> Williamsport,MD",York,PA,Williamsport,MD
+92598034159d5ee8ce31b068fa457601,"Xenia,OH -> Reno,NV",Xenia,OH,Reno,NV
+e251fb84652151a1e8e3ac22ed0fd17f,"Santa Ana,CA -> Monrovia,MD",Santa Ana,CA,Monrovia,MD
+d28e4e323c9bfc65e880f2031a11b9b1,"North Charleston,SC -> Reno,NV",North Charleston,SC,Reno,NV
+e4282ae5368876d93d330192e0ebb347,"Carson,CA -> Monrovia,MD",Carson,CA,Monrovia,MD
+c250a79ff2cd19405f7fa14348ffb312,"Newark,NJ -> Pensacola,FL",Newark,NJ,Pensacola,FL
+7138da9d97b2f1aaf9ed21af98fe05ec,"Compton,CA -> Aurora,CO",Compton,CA,Aurora,CO
+d7aedf2f5bf28d6f9ffd8c4da53ab4f2,"Commerce,CA -> Clackamas,OR",Commerce,CA,Clackamas,OR
+02294c4885e29fc7db0ada46a5c7ca4d,"Plainfield,IL -> Cleveland,NC",Plainfield,IL,Cleveland,NC
+1168b668c41c8a2a80d9d3f4300c6a13,"Bellevue,WA -> Irvine,CA",Bellevue,WA,Irvine,CA
+7dcdca7b8feac1dda06e3cae8fd6f55e,"Springfield,TN -> Charlotte,NC",Springfield,TN,Charlotte,NC
+55ab4baffbdceb35af1b3a21fb33bd5c,"Williamsburg,VA -> Winchester,VA",Williamsburg,VA,Winchester,VA
+74aa059c5681336cb162cedd15aecce6,"Los Angeles,CA -> Santa Maria,CA",Los Angeles,CA,Santa Maria,CA
+7b59a9484fa1ccfdb31beff2b9fc65e7,"Plant City,FL -> Cleveland,TN",Plant City,FL,Cleveland,TN
+46eae2d73aa96ca7821ec8f0c9c775a0,"Plant City,FL -> Athens,TN",Plant City,FL,Athens,TN
+1940eba3fc5cc39b30d4b2e05d4f17e4,"Pennsauken Township,NJ -> York,PA",Pennsauken Township,NJ,York,PA
+c3cc90d6a2e019cd9ea82d8c01787110,"1,LA -> Homewood,AL",1,LA,Homewood,AL
+fe5e5101e4ce74f47dab28162261bf16,"Houston,TX -> Beaumont,TX",Houston,TX,Beaumont,TX
+54d1a595dd86aaaee9ccacaffbc692e6,"Ontario,CA -> El Monte,CA",Ontario,CA,El Monte,CA
+60680910bc3a37530f62fd85a73bcee8,"Garfield,NM -> Los Alamitos,CA",Garfield,NM,Los Alamitos,CA
+1b94e0a1672a9425645d0bb42c9072a4,"Stockton,CA -> Palm City,FL",Stockton,CA,Palm City,FL
+803684bbffea3db33d6bdf09651b7204,"Laceys Spring,AL -> Tullytown,PA",Laceys Spring,AL,Tullytown,PA
+5289e275cb18d50ba7ac1cd36f142deb,"St. Louis,MO -> Muscle Shoals,AL",St. Louis,MO,Muscle Shoals,AL
+067e29eea04fa42cc4afa23d82e7450c,"Granite City,IL -> Starkville,MS",Granite City,IL,Starkville,MS
+15dca8313ddbe8a49cb5432e19a3d656,"McCook,NE -> Chicago,IL",McCook,NE,Chicago,IL
+eba3474ea5b7aa7f4859212750e237c0,"Houston,TX -> Abilene,TX",Houston,TX,Abilene,TX
+f67e73d2e912ac6c1dbb66aced8a0d9e,"Philadelphia,PA -> Elyria,OH",Philadelphia,PA,Elyria,OH
+c732b4d142b6967672b0f18b70e07f5e,"Cowarts,AL -> Montgomery,AL",Cowarts,AL,Montgomery,AL
+12065971f7dd6b57d7e9b93cd6200594,"Saint Michael,MN -> Wilkes-Barre,PA",Saint Michael,MN,Wilkes-Barre,PA
+00eb47f4531a8104b846f8bcff9395be,"Plant City,FL -> Dallas,TX",Plant City,FL,Dallas,TX
+8966dd057d0b09d5085cd6e4239d841b,"Canton,OH -> Memphis,TN",Canton,OH,Memphis,TN
+91227ac1ba16fb8350606e73b6c34104,"Jacksonville,FL -> Dallas,TX",Jacksonville,FL,Dallas,TX
+335c3d75878775fd5eacc836cc032648,"Granite City,IL -> Fostoria,OH",Granite City,IL,Fostoria,OH
+26a0408f358f07ae335de68b43752e2d,"Newark,NJ -> Jackson,MI",Newark,NJ,Jackson,MI
+ab0e35ca112bb307d173d5d36b8fdc1c,"Wilkes-Barre,PA -> Jackson,TN",Wilkes-Barre,PA,Jackson,TN
+76d04ca9fe620a27361f4985663e6d1e,"Bolingbrook,IL -> Fort Worth,TX",Bolingbrook,IL,Fort Worth,TX
+db34a755a48de71c746579f04471d3fb,"St. Louis,MO -> Hooksett,NH",St. Louis,MO,Hooksett,NH
+22f6a7c6604c1883471edec6acb2e2f0,"Mount Sterling,IL -> Pittston,PA",Mount Sterling,IL,Pittston,PA
+c0c636e8ad50e4c517f93dbce681e0d7,"St. Louis,MO -> Camden,AR",St. Louis,MO,Camden,AR
+ac3d5b1066762c6c4d2b5dbef6e678d4,"La Porte,TX -> Gulfport,MS",La Porte,TX,Gulfport,MS
+f7e9f53971aa14c1faf4ccad566ba4ec,"Alton,IL -> Columbus,OH",Alton,IL,Columbus,OH
+5a0d36d33c87f25bcf742a3ab175eb8e,"Kingston,NY -> New Bedford,MA",Kingston,NY,New Bedford,MA
+7977c4cbd712cf9fa767c97a8ff02cb1,"Jacksonville,FL -> Sanford,FL",Jacksonville,FL,Sanford,FL
+22c4ed807e47c2dc7a989661cbde7365,"Bethlehem,PA -> Santa Ana,CA",Bethlehem,PA,Santa Ana,CA
+b556a0ed78aa8789c6cce379861f38dd,"Brighton,MI -> Statesville,NC",Brighton,MI,Statesville,NC
+b1343dede20b6bc9f5c12accadb5feff,"Pottstown,PA -> Newark,NJ",Pottstown,PA,Newark,NJ
+7c2c5701f1d07b957312a3c157996f10,"Fairfield,CA -> Newark,NJ",Fairfield,CA,Newark,NJ
+856bbf58f6707b825a50a5f37b6d6456,"Houston,TX -> Richland,MS",Houston,TX,Richland,MS
+b08c73920274a1d8ba599ad612a86440,"Crete,IL -> Santa Ana,CA",Crete,IL,Santa Ana,CA
+9d3cc890a732bd3ee6f9764afd9036c9,"Santa Ana,CA -> Fife,WA",Santa Ana,CA,Fife,WA
+dd8e4674fa0486e00e996fd09e4ab5ff,"Georgetown,SC -> Millwood,WV",Georgetown,SC,Millwood,WV
+c8066c5a10b85c9d2debdd790d7f3278,"Colonial Heights,VA -> Salem,VA",Colonial Heights,VA,Salem,VA
+282ce62a64e7f35af8ea7790eb065a5b,"Carlisle,PA -> West Greenwich,RI",Carlisle,PA,West Greenwich,RI
+c0cce5fe0882d6a0e4cefa817b2c3c37,"Merrimack,NH -> Jacksonville,FL",Merrimack,NH,Jacksonville,FL
+4a1351950677e7a6a4ee0686d9b5e24e,"Los Angeles,CA -> Missoula,MT",Los Angeles,CA,Missoula,MT
+04da50587e055083e387bcdf6d54dd32,"Fort Collins,CO -> Elkton,MD",Fort Collins,CO,Elkton,MD
+6e13b4694d05b6d5712ff71dd0006fbc,"Big Sandy,TX -> Madera,CA",Big Sandy,TX,Madera,CA
+4854bd2aa095c8e432df7c95cfa82987,"Houston,TX -> Lubbock,TX",Houston,TX,Lubbock,TX
+a3520c602ab293bb9105d686c0035565,"Congers,NY -> Saint Albans City,VT",Congers,NY,Saint Albans City,VT
+1868284ca349a5a14949368b2aec4840,"Columbus,OH -> Port Huron,MI",Columbus,OH,Port Huron,MI
+01554843811a93c9e4aaab7fb4bf4e12,"Newark,NJ -> Brooklyn,NY",Newark,NJ,Brooklyn,NY
+248701c8eb09e22f105a0b8be8dcaa5a,"Wendover,UT -> Meridian,ID",Wendover,UT,Meridian,ID
+03aef342a2597c2b492bd725f13a241d,"Hillside,NJ -> Auburn,NY",Hillside,NJ,Auburn,NY
+a2de92588339fac2b8ebd58a7fbe6975,"Jacksonville,FL -> Lakeland,FL",Jacksonville,FL,Lakeland,FL
+bb5647e5679d5875fef8288220e8f80b,"Dunn,NC -> Bronx,NY",Dunn,NC,Bronx,NY
+9b551aafc3412967a1994c8a27100c44,"North East,MD -> South Windsor,CT",North East,MD,South Windsor,CT
+12cc6d86ca447a506b8a6e5902d96a77,"Cartersville,GA -> Washington,DC",Cartersville,GA,Washington,DC
+02a36f3f9b35f006db66e688fc950b7a,"Granite City,IL -> Rogers,MN",Granite City,IL,Rogers,MN
+97575da007a6a951a4e21dbc081e5dcb,"Houston,TX -> West Palm Beach,FL",Houston,TX,West Palm Beach,FL
+4ed60507dad420531f59de2aea78c22b,"Paris,TN -> Danville,VA",Paris,TN,Danville,VA
+63608059814beb79a650461b5c3fb76a,"Granite City,IL -> Rapid City,SD",Granite City,IL,Rapid City,SD
+37696b43e3fc2a20e0280782e4b24e59,"Aurora,CO -> Independence,KS",Aurora,CO,Independence,KS
+e5ecd0a82c2327e4e2a2638e48977015,"Winchester,VA -> Pompano Beach,FL",Winchester,VA,Pompano Beach,FL
+df9a17963fd51519c99b5745d5b5b234,"Delano,MN -> Austin,TX",Delano,MN,Austin,TX
+450e836361f47da78553341bd5155866,"Cartersville,GA -> Lake Charles,LA",Cartersville,GA,Lake Charles,LA
+1cac84f8445ec0b1fa58bdec27dfc901,"Georgetown,SC -> Willacoochee,GA",Georgetown,SC,Willacoochee,GA
+e5a81ee82e9e046b7ce22f7412aac972,"Washington,PA -> Philadelphia,PA",Washington,PA,Philadelphia,PA
+626a7616bd365d26865ac356ceaec736,"Pittsburgh,PA -> Fairfield,NJ",Pittsburgh,PA,Fairfield,NJ
+bf5b09352661d6a8c5716505476cfbe8,"Gastonia,NC -> Reidsville,NC",Gastonia,NC,Reidsville,NC
+36e92333262bae156b9b9937bd058741,"Portland,OR -> Canton,OH",Portland,OR,Canton,OH
+70a0f2e9b91b213029c09068fd900982,"St. Louis,MO -> La Porte,TX",St. Louis,MO,La Porte,TX
+24458a11f291299f6fefe94a280b838c,"Fort Collins,CO -> Poteau,OK",Fort Collins,CO,Poteau,OK
+da6a04971f4486f074da262747d304bb,"Fort Collins,CO -> Jamestown,ND",Fort Collins,CO,Jamestown,ND
+f0f7723f7ae3d6cbade19fcc9ab513f0,"Houston,TX -> El Dorado,AR",Houston,TX,El Dorado,AR
+413e842e487a94cf90360ec7671baa83,"Aurora,CO -> Grand Forks,ND",Aurora,CO,Grand Forks,ND
+600b266e6d377bbcc7673dacaf3204d7,"Williamsburg,VA -> Cranston,RI",Williamsburg,VA,Cranston,RI
+bd92496e0a8070bf045b359bbc2e9287,"Cartersville,GA -> Longview,TX",Cartersville,GA,Longview,TX
+ae3a5798c92603c8a29304afddc0f340,"Granite City,IL -> Soddy-Daisy,TN",Granite City,IL,Soddy-Daisy,TN
+64c374f57a92df7c5fb698deeb6e8228,"Knoxville,TN -> Wauconda,IL",Knoxville,TN,Wauconda,IL
+ca45b39bd3886eeca9c83183efebfbdf,"Wanaque,NJ -> Savannah,NY",Wanaque,NJ,Savannah,NY
+d524d63d2df4da345034e00df56a9156,"Dublin,VA -> Laredo,TX",Dublin,VA,Laredo,TX
+f8035e46c1de92ff8a3a7d34effce7ba,"Sioux City,IA -> Bolingbrook,IL",Sioux City,IA,Bolingbrook,IL
+720bd498b7e3a4cdf4411da76cc91969,"Lebanon,IN -> Auburn,NY",Lebanon,IN,Auburn,NY
+163692e3c17643006efeb30e9cf990a1,"Colonial Heights,VA -> Bristol,VA",Colonial Heights,VA,Bristol,VA
+7c97744fb47d0437495f3978666f2a75,"Fairfield,CA -> Eugene,OR",Fairfield,CA,Eugene,OR
+f0375046eb228f369c75e29afae69e83,"Delray Beach,FL -> Asheboro,NC",Delray Beach,FL,Asheboro,NC
+4b727412178807d82e4dc3a45e874c7e,"Fairfield,CA -> South San Francisco,CA",Fairfield,CA,South San Francisco,CA
+6b62acb0b0b4b8f96d2718b1bb7c4250,"Christiansburg,VA -> Columbus,OH",Christiansburg,VA,Columbus,OH
+31d46feda8118a8f92eb201710376d3b,"Lancaster,PA -> Newark,NJ",Lancaster,PA,Newark,NJ
+bfbb9777164634ebe070aff9cb683f8c,"New Castle,DE -> Midlothian,VA",New Castle,DE,Midlothian,VA
+c840f0124d34056eb7b5747e25400110,"Laredo,TX -> Troy,AL",Laredo,TX,Troy,AL
+46b6788f4dc228bfe2f30fa7a1121755,"Compton,CA -> Commerce,GA",Compton,CA,Commerce,GA
+42ce4d4367ecabece08825c62c75841f,"Plant City,FL -> Eugene,OR",Plant City,FL,Eugene,OR
+13119e7a5337ab153e51e3733ae6f9f9,"Lewisville,ID -> Tolleson,AZ",Lewisville,ID,Tolleson,AZ
+5ba094d30cce5900ebd84b6f1f7dd181,"Oxnard,CA -> Eagan,MN",Oxnard,CA,Eagan,MN
+e98f070daf8254b12af837f98f4e7c8e,"Fort Collins,CO -> Miles City,MT",Fort Collins,CO,Miles City,MT
+4bc0ae7d2dc18cebee017de129c95896,"Carlisle,PA -> Newark,NJ",Carlisle,PA,Newark,NJ
+072ed093875487cda67142a35eee9da4,"St. Louis,MO -> Olive Branch,MS",St. Louis,MO,Olive Branch,MS
+a83a33b90162895717d9a5d3d242c0fc,"Idaho Falls,ID -> Spokane,WA",Idaho Falls,ID,Spokane,WA
+3c0c8dcc74a432738f517556a28603e0,"Newport,TN -> Laceys Spring,AL",Newport,TN,Laceys Spring,AL
+f81bc215566a3cef2fcf30ee23561eab,"Lakeland,FL -> Piedmont,SC",Lakeland,FL,Piedmont,SC
+9391db76321267a329d3f3e46a64a57d,"Bridgewater,NJ -> San Antonio,TX",Bridgewater,NJ,San Antonio,TX
+007b894660328c2b4719ff57a6225e98,"Bolingbrook,IL -> Memphis,TN",Bolingbrook,IL,Memphis,TN
+44df7cdb09f28fa73fe992156e60ac62,"Newark,NJ -> Grand Rapids,MI",Newark,NJ,Grand Rapids,MI
+8b8e94134011c400a4c73478684f495f,"Stamford,CT -> Newark,NJ",Stamford,CT,Newark,NJ
+78883ef3dfb18a2bcfca2dc47bce7603,"Vineland,NJ -> Canby,OR",Vineland,NJ,Canby,OR
+28bb11701d8cd7746f17c4ce922c9aa1,"Idaho Falls,ID -> Auburn,WA",Idaho Falls,ID,Auburn,WA
+a040838993eb0c22267abb94a59e9904,"Williams,MN -> Coloma,WI",Williams,MN,Coloma,WI
+f8b908e7e4725e42b124036ba26f08d4,"Cartersville,GA -> Richland,MS",Cartersville,GA,Richland,MS
+ecdc89134e4db8cb618cda40861795d7,"Livermore,CA -> Gardena,CA",Livermore,CA,Gardena,CA
+3f91f32d9e7fb0e95f30f22a79b7b3c1,"Green Bay,WI -> Newark,NJ",Green Bay,WI,Newark,NJ
+e668076406b0fc32dd43d94cabf35839,"La Porte,TX -> San Antonio,TX",La Porte,TX,San Antonio,TX
+9ff013ab5aa295482fcd05a51f41a600,"Idaho Falls,ID -> Tracy,CA",Idaho Falls,ID,Tracy,CA
+691eb9937c5fff292537ed3fb23dddc0,"Baldwinsville,NY -> Santa Fe Springs,CA",Baldwinsville,NY,Santa Fe Springs,CA
+37a4943d42ef2ce3fd4a5d9b0df46ddc,"Baldwinsville,NY -> Goldsboro,NC",Baldwinsville,NY,Goldsboro,NC
+dbcaaabddd7b29bef93cc340bf2ef975,"Aurora,CO -> Mobridge,SD",Aurora,CO,Mobridge,SD
+7d1218087dec1a1caf018c9e5134a17d,"Beaumont,CA -> Tolleson,AZ",Beaumont,CA,Tolleson,AZ
+7355dfca1008b235cdc7684406702afe,"Pocomoke City,MD -> Rockville,MD",Pocomoke City,MD,Rockville,MD
+8cbc10975125023c36bf9f5308f151b7,"Raleigh,NC -> Gastonia,NC",Raleigh,NC,Gastonia,NC
+826fb5ca542c23fb5ca3fd62d1b3d8d3,"La Porte,TX -> Shreveport,LA",La Porte,TX,Shreveport,LA
+2e5a0f390de3343c625e36e5b2c2763d,"Xenia,OH -> Wood Dale,IL",Xenia,OH,Wood Dale,IL
+645c95f22b3c621b3a2574c8847b8651,"Linden,NJ -> Frederick,MD",Linden,NJ,Frederick,MD
+f9b3eaabc5c53a29178f1530d6a003f4,"Naperville,IL -> Memphis,TN",Naperville,IL,Memphis,TN
+73ce0fc62c36f7202be9f2d4079f8054,"Johnstown,PA -> Baldwinsville,NY",Johnstown,PA,Baldwinsville,NY
+b26a1a6fe73cce11cfdc99106e8dc632,"Erie,PA -> Cartersville,GA",Erie,PA,Cartersville,GA
+b374ec757cf954f7f0979914a5a23e0a,"Charlotte,NC -> Memphis,TN",Charlotte,NC,Memphis,TN
+0801767c3983d02dd551bc3b83a54620,"Pandora,OH -> Tipton,IA",Pandora,OH,Tipton,IA
+789cb247ebd4618ba193afc87278f181,"Kansas City,MO -> Troy,MO",Kansas City,MO,Troy,MO
+1479a6f35d2880b902a1db20cddf2773,"Cartersville,GA -> Forest Park,GA",Cartersville,GA,Forest Park,GA
+7400a3212667c0c8c64ce142ce55df9d,"Fort Collins,CO -> Hayden,ID",Fort Collins,CO,Hayden,ID
+e06b6141b7ed66447ba1a993e4d488c4,"Columbus,OH -> Peoria,IL",Columbus,OH,Peoria,IL
+f53e4e5fc09a1009b654e3310d594f5d,"Williamsburg,VA -> Nottingham,MD",Williamsburg,VA,Nottingham,MD
+8cc1f48bc4d97844da3d92d9ebd6837f,"Jacksonville,FL -> LaGrange,GA",Jacksonville,FL,LaGrange,GA
+104d9032ce7d0bafcc8f0ef031e47b6a,"Colonial Heights,VA -> Wilmington,NC",Colonial Heights,VA,Wilmington,NC
+533a09dace1ee53319a4612604d4e78f,"Davenport,IA -> Normal,IL",Davenport,IA,Normal,IL
+7e63f09769934cb0b0cba7b6066dee9c,"St. Louis,MO -> Jacksonville,FL",St. Louis,MO,Jacksonville,FL
+2f2f287881e60c361dbebe7f7b5643ef,"St. Louis,MO -> Albert Lea,MN",St. Louis,MO,Albert Lea,MN
+db1c1aa8db3c804c5a3d2ebcf4314ad4,"Atlanta,GA -> Morrow,GA",Atlanta,GA,Morrow,GA
+7af007eca17e4634247e2f5e841308c5,"Elk Grove,CA -> Commerce,CA",Elk Grove,CA,Commerce,CA
+412a5cdf4d5038138854e73b9b905d61,"Casa Grande,AZ -> Commerce,CA",Casa Grande,AZ,Commerce,CA
+f075d79e97cde23b1128e8c47e2bc90a,"Hackettstown,NJ -> Long Branch,NJ",Hackettstown,NJ,Long Branch,NJ
+94268fc341c1e4cac0da7713ce10bc2e,"Saint Anthony,ID -> Bancroft,WI",Saint Anthony,ID,Bancroft,WI
+a6b7d2bb37c76ae05c527da8c2cad26c,"St. Louis,MO -> Youngstown,OH",St. Louis,MO,Youngstown,OH
+5b4d434baf05e76ccc487e3c4aa80ddc,"Jacksonville,FL -> Loxley,AL",Jacksonville,FL,Loxley,AL
+6170f2570482309f46a7f0cf295cde8e,"St. Louis,MO -> Dowagiac,MI",St. Louis,MO,Dowagiac,MI
+f2661026bca15b97dbe9e7e06522e881,"Toledo,OH -> Memphis,TN",Toledo,OH,Memphis,TN
+9031f99dd5c99c2e6577ee0cc4aa0640,"Hawkins,TX -> Canton,OH",Hawkins,TX,Canton,OH
+15a5b9dac308cb0815037821d80bb2af,"Oxnard,CA -> Irvine,CA",Oxnard,CA,Irvine,CA
+81992d6540b124e9b8564920dd994603,"Shafter,CA -> Plant City,FL",Shafter,CA,Plant City,FL
+e3722fa3aeeff7a4a7362abbc2d9cb79,"Johnstown,CO -> Greenville,SC",Johnstown,CO,Greenville,SC
+21c53d47827717494a06d5eb54363de2,"Fairfield,CA -> Union Gap,WA",Fairfield,CA,Union Gap,WA
+c9183fdbe25e3b4bc152fd11ab8b8efd,"Granite City,IL -> Beloit,KS",Granite City,IL,Beloit,KS
+0c6fd5544ff0a5bd198c0315c96b09c2,"Granite City,IL -> Saint Paul,MN",Granite City,IL,Saint Paul,MN
+85c6b1884c126b0ccd4b42b95cf69304,"Cartersville,GA -> Meridian,MS",Cartersville,GA,Meridian,MS
+0ce1af4d965114cfda35ad3dc8d20385,"Houston,TX -> Natchitoches,LA",Houston,TX,Natchitoches,LA
+d1c633ac9719d0c2ef55c2d558e8be3f,"Rio Rico,AZ -> Los Angeles,CA",Rio Rico,AZ,Los Angeles,CA
+f753473744354e7831aaa5f620b77c39,"Shippensburg,PA -> Upper Marlboro,MD",Shippensburg,PA,Upper Marlboro,MD
+d53db10a5a016828bd186c3239d6c1f2,"Salisbury,NC -> Memphis,TN",Salisbury,NC,Memphis,TN
+f9ade55b42d96fd0c373fd3f6edf6eee,"Laredo,TX -> Muenster,TX",Laredo,TX,Muenster,TX
+1505830a23f040ebc8719f0f6835e19e,"Wilkes-Barre,PA -> Port Orange,FL",Wilkes-Barre,PA,Port Orange,FL
+0959512bdcf6d5fc2454f10fb390020e,"Williamsburg,VA -> Goldsboro,NC",Williamsburg,VA,Goldsboro,NC
+77a165b9310a8edf66d247daaeec3cdb,"Baldwinsville,NY -> Clifton,CO",Baldwinsville,NY,Clifton,CO
+ba107c2fe06092142244c4b447e02101,"Rensselaer,IN -> Swedesboro,NJ",Rensselaer,IN,Swedesboro,NJ
+66493006008e3d0c4367dc8ab8616fc0,"St. Louis,MO -> Longview,TX",St. Louis,MO,Longview,TX
+0beeb5147b1aacd7f5765d16b76d0224,"Santa Ana,CA -> Portland,OR",Santa Ana,CA,Portland,OR
+a443c55e59322d50a6dc7f1a5caa52d7,"La Pine,OR -> Methuen,MA",La Pine,OR,Methuen,MA
+6877f798406704c0d07d21f0cfb034c7,"Williams,MN -> Elmer,NJ",Williams,MN,Elmer,NJ
+ac97721f8e69a2f42ad6459033a29c29,"Joplin,MO -> Athens,TN",Joplin,MO,Athens,TN
+62e5b5ed1d6a8785b3e2ca1856ac1bf1,"Parma,OH -> Mount Vernon,OH",Parma,OH,Mount Vernon,OH
+43e98f8616d8845cd0ceaf3ae8f7af9e,"St. Louis,MO -> Pueblo,CO",St. Louis,MO,Pueblo,CO
+55d91e406ea27d4efa4ec861db92a7a9,"St. Louis,MO -> Alexandria,LA",St. Louis,MO,Alexandria,LA
+d2ed723451e90d8211b6c675ad6e1a5c,"Romeoville,IL -> York,PA",Romeoville,IL,York,PA
+75f040151b6d0b405a1732b94988178a,"Jacksonville,FL -> Hickory,NC",Jacksonville,FL,Hickory,NC
+98d6ae1238fc8f2fd5cb9d99ec736fa8,"Fairfield,CA -> Idaho Falls,ID",Fairfield,CA,Idaho Falls,ID
+2e894c7a24e195b709e510be9a257bd0,"Ontario,CA -> Laredo,TX",Ontario,CA,Laredo,TX
+e7a1fd1d121a0cbe5849a6c0fdc85093,"Baldwinsville,NY -> Bronx,NY",Baldwinsville,NY,Bronx,NY
+bf90aa57a0204df5a3d8436a7ffb9a3f,"Idaho Falls,ID -> Pacific,WA",Idaho Falls,ID,Pacific,WA
+60eb1ff0c0419761739f85963f93e069,"Medley,FL -> Calhoun,KY",Medley,FL,Calhoun,KY
+07b1b77a945335bc02a4dbb03e0732be,"Braitwaite,LA -> Brazil,IN",Braitwaite,LA,Brazil,IN
+b3899f59dd0b91250a9f1d8f2a296aa9,"Akron,OH -> Statesville,NC",Akron,OH,Statesville,NC
+f1f7de96e66ca7562c5d0854a1984cba,"Walnut Ridge,AR -> Massillon,OH",Walnut Ridge,AR,Massillon,OH
+09d550590ba48d44a2adaf0f58f6573b,"Indianapolis,IN -> Clinton,IA",Indianapolis,IN,Clinton,IA
+786b036430352db0c8a54a8b559fe322,"Newark,NJ -> Shirley,NY",Newark,NJ,Shirley,NY
+f578ab0067d41de985633eabccdb99ae,"Houston,TX -> Alexandria,LA",Houston,TX,Alexandria,LA
+d271d767bac4698a04a7435960308921,"Philadelphia,PA -> Fleetwood,PA",Philadelphia,PA,Fleetwood,PA
+d8f5c3b29300e309533a5c1016249e6e,"Bolingbrook,IL -> York,PA",Bolingbrook,IL,York,PA
+358f8dd86d5cc8f8a2fffeb6d65ead4c,"St. Louis,MO -> Mobile,AL",St. Louis,MO,Mobile,AL
+90c5ff5ea35e35b1e765458b28ad74b7,"Decatur,IN -> Mount Holly,NC",Decatur,IN,Mount Holly,NC
+bb70d93667a11c79f7d0ac78d0ebc0c2,"Williamsburg,VA -> Harrisburg,PA",Williamsburg,VA,Harrisburg,PA
+67d2a036ff5ff9b7444ef78ad0a88ada,"Jacksonville,FL -> Johnson City,TN",Jacksonville,FL,Johnson City,TN
+618a654ea53430427935621706fc40c7,"New York,NY -> Clifton Park,NY",New York,NY,Clifton Park,NY
+054e20973f47ba22a2eb8f9ffe16fef8,"Jacksonville,FL -> Rock Hill,SC",Jacksonville,FL,Rock Hill,SC
+d257e18be20329ba57521476a8a97737,"Cartersville,GA -> Columbia,SC",Cartersville,GA,Columbia,SC
+448f1f592476ce5fc1bfde536655a404,"La Pine,OR -> Tempe,AZ",La Pine,OR,Tempe,AZ
+50e096f23e284342272b45f82359c1bc,"Bolingbrook,IL -> Wells,ME",Bolingbrook,IL,Wells,ME
+9233390610f741c217b1ca4608d47fda,"Colonial Heights,VA -> Huntington,WV",Colonial Heights,VA,Huntington,WV
+7f47a6258006e30e63a2fd008b3321fa,"Aurora,CO -> Salt Lake City,UT",Aurora,CO,Salt Lake City,UT
+678304e27ca144aafc653892208b9aab,"Granite City,IL -> Huron,SD",Granite City,IL,Huron,SD
+6209fd7238e9516b7cb1f94ec93e6fe5,"Aurora,CO -> Tulsa,OK",Aurora,CO,Tulsa,OK
+4f986ba5704150bba6a919b26fc2ac48,"Conover,NC -> West Chester Township,OH",Conover,NC,West Chester Township,OH
+5e3e289516db01d46b6933db87d402cf,"1,LA -> Birmingham,AL",1,LA,Birmingham,AL
+638bc9f69152e3f20fd2766383b8a9dd,"Hackettstown,NJ -> York,PA",Hackettstown,NJ,York,PA
+0f3af58e3515f3dc6224d61d70cb7665,"Cartersville,GA -> Vidalia,GA",Cartersville,GA,Vidalia,GA
+8ddebbacf489ef035e9c7ac5ba3ac3c3,"McCook,NE -> Sterling,IL",McCook,NE,Sterling,IL
+3f8cd3bb267c56b3646c8bdd9040d69d,"St. Louis,MO -> Missoula,MT",St. Louis,MO,Missoula,MT
+c123c23a1b621a6d092fe1711e65fc23,"Decatur,IN -> Laredo,TX",Decatur,IN,Laredo,TX
+e4622930d8d3893c672288686c0207f3,"Plant City,FL -> Melrose Park,IL",Plant City,FL,Melrose Park,IL
+63f8082175d54adf94ab16e3e326dc32,"Madison Heights,MI -> Mount Holly,NC",Madison Heights,MI,Mount Holly,NC
+4456ec74058ffc9856735d8fd2a75b62,"Columbus,IN -> Statesville,NC",Columbus,IN,Statesville,NC
+7767c5deb316a43218db3515bdaeebe8,"Plant City,FL -> Newark,NJ",Plant City,FL,Newark,NJ
+24decbaad5366f829a3f15d4331c32f0,"Colonial Heights,VA -> Wrightsville,PA",Colonial Heights,VA,Wrightsville,PA
+f2590a9f7d13ce6d60953e65e3556321,"Bolingbrook,IL -> Wood Dale,IL",Bolingbrook,IL,Wood Dale,IL
+1f9a9f903edd2cb2e680df6334916c90,"Omaha,NE -> Kansas City,MO",Omaha,NE,Kansas City,MO
+ebaa3a5a6b863a3b0287b1db0c27da3d,"Conover,NC -> Laredo,TX",Conover,NC,Laredo,TX
+78bd9d3b0c426a378ea537887395f45f,"Newark,NJ -> Loxley,AL",Newark,NJ,Loxley,AL
+b24124159ff70c422004a6c7ec00b54e,"Houston,TX -> Loxley,AL",Houston,TX,Loxley,AL
+c1c14e296b6529ae747b5f787573766f,"Williamsburg,VA -> Florence,SC",Williamsburg,VA,Florence,SC
+e53ca67ee725f1ac0f1be60c45ee6456,"Newark,NJ -> South San Francisco,CA",Newark,NJ,South San Francisco,CA
+a328a01a0beab5670539a8b15e0f11f1,"Trenton,MO -> Cleveland,NC",Trenton,MO,Cleveland,NC
+5f9e7b83caab772326abc47bc22ccaa7,"Cartersville,GA -> Lake City,FL",Cartersville,GA,Lake City,FL
+62ce4ef166bf14961bded5d6094d8dcc,"Conover,NC -> Claremont,NC",Conover,NC,Claremont,NC
+21072682ef674eff8f774c9c89c461c1,"Baltimore,MD -> Altoona,PA",Baltimore,MD,Altoona,PA
+39b7235114783bd6272411225e8c6cc9,"Saint Albans City,VT -> Plant City,FL",Saint Albans City,VT,Plant City,FL
+b87616e62d6522d3d47eb06c11329a7a,"Fort Collins,CO -> Harlingen,TX",Fort Collins,CO,Harlingen,TX
+a99bcc2f7d3e987d15d3ca8500dc61f1,"Granite City,IL -> Hibbing,MN",Granite City,IL,Hibbing,MN
+3107593039164fbd8ca799847012d3d0,"Reading,PA -> Olean,NY",Reading,PA,Olean,NY
+2f6b0c47e2fe20abe90477e7e33c6ff1,"Houston,TX -> Vicksburg,MS",Houston,TX,Vicksburg,MS
+a6d969a966d9a4b98d9426334e540ffe,"Cartersville,GA -> Spartanburg,SC",Cartersville,GA,Spartanburg,SC
+4c31d98a004317de2c51c48a699cb923,"Granite City,IL -> Minot,ND",Granite City,IL,Minot,ND
+cd5929bff6143c823272d74c766f3c08,"Greenfield,IN -> Commerce,GA",Greenfield,IN,Commerce,GA
+412a30610c250a4edb68ecd73b7b0a63,"Los Angeles,CA -> Granite City,IL",Los Angeles,CA,Granite City,IL
+bfc3e9ddab7ea1452a362fa9ca37281f,"Fort Collins,CO -> Spokane Valley,WA",Fort Collins,CO,Spokane Valley,WA
+f3359ece56fe8b9efafea74e59c53a95,"Jacksonville,FL -> Rocky Mount,NC",Jacksonville,FL,Rocky Mount,NC
+4e1df48ea283fb5a7f5b63f11c6d8039,"Kansas City,MO -> Cedar Rapids,IA",Kansas City,MO,Cedar Rapids,IA
+851a3b96fd445567b19ed8e736d77f50,"Fairfield,CA -> Granite City,IL",Fairfield,CA,Granite City,IL
+ff0a6c870400f0a93ff3a13bf5df54d5,"Pittsburgh,PA -> Salt Lake City,UT",Pittsburgh,PA,Salt Lake City,UT
+2ffbcc6754a2180ebf8873f700d39210,"Los Angeles,CA -> Temecula,CA",Los Angeles,CA,Temecula,CA
+31c866c86de78a020e6908daf1a32286,"Greenville,SC -> Fort Payne,AL",Greenville,SC,Fort Payne,AL
+1440261d9bbbfeefdc5a14a8c5b3cf98,"Richmond,CA -> Roanoke,TX",Richmond,CA,Roanoke,TX
+7831947a76017c632fe67ad573caeb15,"Hamlin,TX -> Ronkonkoma,NY",Hamlin,TX,Ronkonkoma,NY
+25b8ab0560812017dde8538a77a4cebf,"Granite City,IL -> Knoxville,TN",Granite City,IL,Knoxville,TN
+d4fa8707050759ea9b8cc47ed682d58f,"Angier,NC -> Brooklyn,NY",Angier,NC,Brooklyn,NY
+48a21b06b29fb93564e0de0678cd16ef,"Quincy,IL -> Lafayette,IN",Quincy,IL,Lafayette,IN
+648b3336836865826efb9ab0a63ce598,"Raleigh,NC -> York,PA",Raleigh,NC,York,PA
+d2a69fb14eaf7a24fc32d8010e9e336a,"Bremen,IN -> Elk Grove Village,IL",Bremen,IN,Elk Grove Village,IL
+626f1fed56b1bca520aee6f6d1656384,"Merrimack,NH -> Norwich,CT",Merrimack,NH,Norwich,CT
+11c65fa40897c35cb3dda32b8ece7856,"Warren,OH -> Laredo,TX",Warren,OH,Laredo,TX
+a25e15b53890910971b3b1b2ca1cc3ea,"Altoona,PA -> Plant City,FL",Altoona,PA,Plant City,FL
+aea60bc910bfc8bb18716ec84a46d578,"Granite City,IL -> El Dorado,KS",Granite City,IL,El Dorado,KS
+b53946c47e1d122a7e70ec5503bead19,"Opa-locka,FL -> Calhoun,KY",Opa-locka,FL,Calhoun,KY
+81a31938b3b2c0692aeeff2d8108aa9b,"Granite City,IL -> Leland,MS",Granite City,IL,Leland,MS
+0f0a8b7bd39fc89d063cd8bae334d3a0,"Bridgewater,NJ -> Ankeny,IA",Bridgewater,NJ,Ankeny,IA
+3bcae87e7b2bb329a63d8abdd044ae0f,"Salisbury,NC -> Reno,NV",Salisbury,NC,Reno,NV
+ef0f8faa4cd1256cc8364e32be9c8597,"Rio Rico,AZ -> Denver,CO",Rio Rico,AZ,Denver,CO
+ab2f20f71dd6af7e59babb578b738dd2,"Fort Collins,CO -> Lewistown,MT",Fort Collins,CO,Lewistown,MT
+b9f0c1642ea60878409e81b9be9e3113,"Botkins,OH -> Mount Vernon,OH",Botkins,OH,Mount Vernon,OH
+00b7fd91f521d524b41b58e16d9fd867,"Georgetown,SC -> Tinton Falls,NJ",Georgetown,SC,Tinton Falls,NJ
+35bf43dbc9a73016af5e252482f849a1,"Granite City,IL -> Kingsford,MI",Granite City,IL,Kingsford,MI
+84c121291d603d10ad9acc4cde8ac7a0,"Plant City,FL -> Atlanta,GA",Plant City,FL,Atlanta,GA
+e1b78b4a7755bb954e1fb5dfdea3aca5,"Granite City,IL -> Oklahoma City,OK",Granite City,IL,Oklahoma City,OK
+0dc14b8c6afd4414d5b0ca0dcc918485,"St. Louis,MO -> Laurel,MS",St. Louis,MO,Laurel,MS
+49138ea54aef6463c3594b9df86b8a02,"Hawthorne,CA -> Los Angeles,CA",Hawthorne,CA,Los Angeles,CA
+05470fc7576984785e91d3122528f52e,"Pompano Beach,FL -> Los Angeles,CA",Pompano Beach,FL,Los Angeles,CA
+cea30d22be0d52d1813b3df413678a8a,"Houston,TX -> Lafayette,LA",Houston,TX,Lafayette,LA
+56915254d53e4582db3cf6db5366a285,"Oconto,WI -> Alton,IL",Oconto,WI,Alton,IL
+daa60fc1310f186d9ffb2035edced382,"Granite City,IL -> Villa Park,IL",Granite City,IL,Villa Park,IL
+aed3e1bf471c72f6d647fbba2522e738,"Newton,NJ -> Newark,NJ",Newton,NJ,Newark,NJ
+40546b36666e18b8d42e1c8433a32195,"Salinas,CA -> Upper Marlboro,MD",Salinas,CA,Upper Marlboro,MD
+6b3dd4c3b951475334923877f8d11241,"Williamsburg,VA -> Rapid City,SD",Williamsburg,VA,Rapid City,SD
+83f56109f4e5e1e068f5b9c31b9c02a8,"Sycamore,IL -> Plant City,FL",Sycamore,IL,Plant City,FL
+4f5e4eb30dc7e6ccb43eb581276f005b,"Canton,NC -> Laredo,TX",Canton,NC,Laredo,TX
+c3d6ba6d85841e72fc31d43335986e54,"Piedmont,SC -> Laredo,TX",Piedmont,SC,Laredo,TX
+b4122367b8840cb69d66a9af8c00b8bd,"Aurora,CO -> Williston,ND",Aurora,CO,Williston,ND
+9e41b2432235130876d91e03f6ae9fa1,"Rossville,GA -> Cleveland,NC",Rossville,GA,Cleveland,NC
+f7040fc068cb6fde09d182ceef518da8,"Fort Collins,CO -> Cody,WY",Fort Collins,CO,Cody,WY
+8e6deab54f1a7f24605fc261ac1476be,"Newton,NC -> Romeoville,IL",Newton,NC,Romeoville,IL
+4cb1ad3ee543b3fdede7b3bf6dc8c5b1,"Everett,MA -> Newark,NJ",Everett,MA,Newark,NJ
+e9f0d766adcb9a14bdd553af82671cdc,"Gaston,SC -> Gastonia,NC",Gaston,SC,Gastonia,NC
+abc0c0b2099163223d88fb92621de2eb,"Fort Collins,CO -> Beloit,KS",Fort Collins,CO,Beloit,KS
+44e0b43bf0479959aa226409e4bf29f5,"Merrimack,NH -> Newark,NJ",Merrimack,NH,Newark,NJ
+a393c24ddf6df037e62ce3706bdc8279,"Minneapolis,MN -> Denver,CO",Minneapolis,MN,Denver,CO
+51c3cc53e6db509a70f10af04ec4606c,"Miami,FL -> Commerce,GA",Miami,FL,Commerce,GA
+6f6382ad677582ceb718326d22cc27c6,"Lodi,CA -> Roanoke,TX",Lodi,CA,Roanoke,TX
+653aaf68475f8cac72235615a915398d,"Beecher,IL -> Santa Ana,CA",Beecher,IL,Santa Ana,CA
+0147ef6509319f76de476325ce1381b5,"St. Louis,MO -> Rock Springs,WY",St. Louis,MO,Rock Springs,WY
+6c6c5f88831aae91b24b92f8ba74d94b,"Sioux City,IA -> Brookhaven,MS",Sioux City,IA,Brookhaven,MS
+56e5a1c15095d4254769abc265c18146,"Jacksonville,FL -> Columbus,OH",Jacksonville,FL,Columbus,OH
+6d79f85393f0259a012019d25a9b7b52,"Pueblo,CO -> Sioux City,IA",Pueblo,CO,Sioux City,IA
+83bd9ce7ec6d2c574e9b2efbf1186e3a,"St. Louis,MO -> Omaha,NE",St. Louis,MO,Omaha,NE
+50ad8eab20003ff4c9904720faea06e4,"Plant City,FL -> Brook Park,OH",Plant City,FL,Brook Park,OH
+85133b254ab019dcbd7c1f7906724a3c,"Fairfield,CA -> Carson,CA",Fairfield,CA,Carson,CA
+4706b63da6f00885ed19ed947abc6756,"South Windsor,CT -> Bernhards Bay,NY",South Windsor,CT,Bernhards Bay,NY
+2b473d2063814e0b5875dd303f6fa1e2,"Conover,NC -> Hartselle,AL",Conover,NC,Hartselle,AL
+bd440d5b28f4804a4f4c028e2db5f2fc,"Jackson,TN -> Laceys Spring,AL",Jackson,TN,Laceys Spring,AL
+23b0c0b8dbd5f68631b1b3e7f7ddff88,"Los Angeles,CA -> Safford,AZ",Los Angeles,CA,Safford,AZ
+cf79ce3ae2d185e9111e0640984ace54,"Los Angeles,CA -> Cartersville,GA",Los Angeles,CA,Cartersville,GA
+8b9f47ea4cbec9b642eb8654884ef969,"Los Angeles,CA -> Hayden,ID",Los Angeles,CA,Hayden,ID
+7febf55d1e291e1aaca6df2779242d47,"Jacksonville,FL -> Miami,FL",Jacksonville,FL,Miami,FL
+bf2ad7c00f75cc350d3c7d5e0ff182b0,"Fort Payne,AL -> Conover,NC",Fort Payne,AL,Conover,NC
+03491814fb319a69cb443ab82664d80b,"Braithwaite,LA -> Chapel Hill,TN",Braithwaite,LA,Chapel Hill,TN
+086395895b4ddd7bbd6aa9d2b8804cf8,"Olyphant,PA -> Berne,IN",Olyphant,PA,Berne,IN
+648de6961ca98d96ecb60e044a8f3251,"Colonial Heights,VA -> Myrtle Beach,SC",Colonial Heights,VA,Myrtle Beach,SC
+e48846331a4eaaa1d9ede2e7511d4081,"Lakewood,NY -> Portland,OR",Lakewood,NY,Portland,OR
+3c47530e536e10b7e95b341cbc737946,"Missouri City,TX -> Altamonte Springs,FL",Missouri City,TX,Altamonte Springs,FL
+cc653bccfe1cde79f14b610682907191,"Burlington,NC -> Sacramento,CA",Burlington,NC,Sacramento,CA
+1074b2708db44a305f52a9b0d6963a34,"Sioux City,IA -> Lubbock,TX",Sioux City,IA,Lubbock,TX
+0e0528456114b10c9875b1eb91c681de,"Baldwinsville,NY -> Merrimack,NH",Baldwinsville,NY,Merrimack,NH
+6454564c7be6c984a94cbbf5c2e02ba8,"Williamsburg,VA -> Upper Marlboro,MD",Williamsburg,VA,Upper Marlboro,MD
+52fb4bbacdf08b00cbe3e1ed682540f8,"St. Louis,MO -> Shannon,MS",St. Louis,MO,Shannon,MS
+5a2c5eb82f0a295209b3cfb9473f5b11,"Houston,TX -> Odessa,TX",Houston,TX,Odessa,TX
+56281ae4cb9e137bea2aa4f50c06266c,"Louisville,KY -> Nashville,IL",Louisville,KY,Nashville,IL
+8d10462d47b95c62a8281bf946f8c5db,"Jackson,MS -> Athens,TN",Jackson,MS,Athens,TN
+2598bbc0f5bd95d58e1e4ca280e982b9,"Paris,TN -> Sharonville,OH",Paris,TN,Sharonville,OH
+8a7505417645ad8844e1151676d1ce99,"Neenah,WI -> Minneapolis,MN",Neenah,WI,Minneapolis,MN
+829e0bf04af45478320a5f4406eaf5c8,"Houston,TX -> Corpus Christi,TX",Houston,TX,Corpus Christi,TX
+8d846e014929789d9f400ac7911bb526,"Columbus,OH -> Owosso,MI",Columbus,OH,Owosso,MI
+2c59567da66ed6ab529d6c86badb623a,"Edgemere,MD -> Fleetwood,PA",Edgemere,MD,Fleetwood,PA
+f64356fc040c0c412f4d79addcd088dd,"Cartersville,GA -> LaGrange,GA",Cartersville,GA,LaGrange,GA
+4533311933dc346142627c3d72e1afe4,"Fort Collins,CO -> Jacksonville,FL",Fort Collins,CO,Jacksonville,FL
+c70118b07ffe5d8bfd02572586386b91,"Brownsville,TX -> Swedesboro,NJ",Brownsville,TX,Swedesboro,NJ
+6981eb9c706b2c442d34a4488df73b7f,"Fort Collins,CO -> Moab,UT",Fort Collins,CO,Moab,UT
+3cbe03f986d058c51e2e3aa14a20adeb,"Hood River,OR -> Upper Marlboro,MD",Hood River,OR,Upper Marlboro,MD
+486c3cefcbfc60d961368bf12564bee3,"Piedmont,SC -> Columbus,OH",Piedmont,SC,Columbus,OH
+f0104bc9933ae2521913827677441f71,"Williamsburg,VA -> Rocky Mount,NC",Williamsburg,VA,Rocky Mount,NC
+8030f5b4dbb06b10e49a96360f9fe5e3,"Long Beach,CA -> Long Beach,CA",Long Beach,CA,Long Beach,CA
+dd42adc87eac18edeceafcddff0b31fd,"Carson,CA -> Stockton,CA",Carson,CA,Stockton,CA
+c99476bdb146df1bd0e798f54c3d87b9,"Portland,OR -> Ukiah,CA",Portland,OR,Ukiah,CA
+c671fc252e61bde75319cc94a1012702,"Newark,NJ -> Deerfield Beach,FL",Newark,NJ,Deerfield Beach,FL
+d123102c35e2e13b5a56e88c6314d78c,"Aurora,CO -> Glasgow,MT",Aurora,CO,Glasgow,MT
+f942f32437ec42deb499781c71541134,"Granite City,IL -> Mankato,MN",Granite City,IL,Mankato,MN
+a0e9bbf5e89007bbb15439732e3b4215,"Irvington,NJ -> Chicago,IL",Irvington,NJ,Chicago,IL
+dc2cf22b98e959957304ccdd14197c87,"Tuscaloosa,AL -> Xenia,OH",Tuscaloosa,AL,Xenia,OH
+f330dc6b82369a13b4b961a2a183ac12,"Los Angeles,CA -> Raleigh,NC",Los Angeles,CA,Raleigh,NC
+cc4fdf4a2cae0f6aa98e4a6131935e9a,"Santa Ana,CA -> Sumner,WA",Santa Ana,CA,Sumner,WA
+5744d6f71448aeedcf468417e681ead2,"Denver,CO -> Bolingbrook,IL",Denver,CO,Bolingbrook,IL
+f9194dbaef7d81b37d5ffb9e305777c8,"La Porte,TX -> Lubbock,TX",La Porte,TX,Lubbock,TX
+587a1b6cb16707287a307683cffdc480,"Livingston,CA -> Commerce,CA",Livingston,CA,Commerce,CA
+bf0920f00e7bac3841b689366250d3b4,"Candler,NC -> Atlanta,GA",Candler,NC,Atlanta,GA
+bcb1b09ddc35b5dd7ca036198f2ef926,"Ontario,CA -> Roanoke,TX",Ontario,CA,Roanoke,TX
+c66151b59d7f026a9eda38253df64097,"San Antonio,TX -> Houston,TX",San Antonio,TX,Houston,TX
+66d557fc186a6f7361a6bcd19a30401f,"La Porte,TX -> Ferriday,LA",La Porte,TX,Ferriday,LA
+6f1c86944069fb7e18d48096d4cd12e9,"Greenville,SC -> Evans City,PA",Greenville,SC,Evans City,PA
+39f21addbe3ababe5c86d957f4fe6f09,"Wylie,TX -> Statesville,NC",Wylie,TX,Statesville,NC
+53a49f5b08718cd1ec787b44f12f755a,"Brooklyn,NY -> Plant City,FL",Brooklyn,NY,Plant City,FL
+8834522c995e71bcc55b5f7cf655101f,"Newark,NJ -> Fredericksburg,VA",Newark,NJ,Fredericksburg,VA
+d6423fb2ace5d32e04dc9c773b145b98,"Wanaque,NJ -> Farmingdale,NY",Wanaque,NJ,Farmingdale,NY
+127bd0dff563dcf2983ee1e6e68766be,"Plant City,FL -> McCook,IL",Plant City,FL,McCook,IL
+64e4e9b46e7eb77daff43827879acb40,"Paragould,AR -> Reno,NV",Paragould,AR,Reno,NV
+73ce0d6f9e674d3b6b8e9cd520966f96,"Eagan,MN -> Fife,WA",Eagan,MN,Fife,WA
+fbcd86d4a2af838f03bd1650086ae253,"Manning,SC -> Portland,OR",Manning,SC,Portland,OR
+1f874f45f978bb21c6c7b05572e84f6e,"Fairfield,CA -> Salem,OR",Fairfield,CA,Salem,OR
+9c5a85000e44065cd75d5dad588a6742,"Los Angeles,CA -> McAllen,TX",Los Angeles,CA,McAllen,TX
+6d5bc6aafe8c5b55ed56bbbc4ea71fe1,"Baltimore,MD -> Sayreville,NJ",Baltimore,MD,Sayreville,NJ
+ae6886902c9621ae2acd034e6da37d41,"Alexandria,VA -> Gastonia,NC",Alexandria,VA,Gastonia,NC
+8b6938de3bea3ccc385f11393760ab54,"Sioux City,IA -> Rocky Mount,NC",Sioux City,IA,Rocky Mount,NC
+4378218b6400493b6b772e445f848dbf,"Jacksonville,FL -> Bronx,NY",Jacksonville,FL,Bronx,NY
+c7acc65d350d141ade78ab3efe2cd774,"Granite City,IL -> Alpena,MI",Granite City,IL,Alpena,MI
+d0e1ee0dc8dd13fa893baa870cecbb77,"Orlando,FL -> Laceys Spring,AL",Orlando,FL,Laceys Spring,AL
+6d7c499d17a08214f82e7f34bc9bda37,"Newark,NJ -> Medford,MA",Newark,NJ,Medford,MA
+8d231d885de50f0ca16dbea70afc304f,"Tampa,FL -> Prinsburg,MN",Tampa,FL,Prinsburg,MN
+0d2ed789e811095716dcb8bc8c638c4b,"Newark,NJ -> Highland Park,MI",Newark,NJ,Highland Park,MI
+7cb3c19c46e3d888ae60777cf1fbaf79,"Newark,DE -> Cleveland,NC",Newark,DE,Cleveland,NC
+8f6a31090872b6333cbcc46eeaae15b8,"Fort Collins,CO -> Sioux City,IA",Fort Collins,CO,Sioux City,IA
+0011bddd824434c23a0c46eaa7418f4f,"Fresno,CA -> Methuen,MA",Fresno,CA,Methuen,MA
+a7eed6f9bf2279e4d4e0705d5a105f7f,"Fort Collins,CO -> Orlando,FL",Fort Collins,CO,Orlando,FL
+e2e2bc892f36c0121884bee2b0dcf45c,"Florence,KY -> Swedesboro,NJ",Florence,KY,Swedesboro,NJ
+89c88a8a7071539faefd41f0ade3117a,"St. Louis,MO -> Devils Lake,ND",St. Louis,MO,Devils Lake,ND
+ec6a3348c5f37fb9645df6ac6f90f21a,"Granite City,IL -> Moraine,OH",Granite City,IL,Moraine,OH
+7e5b459b68385c0a876c361fe96f7432,"Annapolis,MD -> Baldwinsville,NY",Annapolis,MD,Baldwinsville,NY
+7f3ca084cb4bdc5ec03b458ce3265b78,"Portland,OR -> Portland,OR",Portland,OR,Portland,OR
+992c8df0e8b732e82905c6c551cb8e8f,"Williamsburg,VA -> Charleston,SC",Williamsburg,VA,Charleston,SC
+ecd6287d6e99c7f71e618da542a8d2c8,"Timberville,VA -> Forest Park,GA",Timberville,VA,Forest Park,GA
+7eafa7dbb2f0a01ca08218c9a7fc4cbf,"Etowah,TN -> Memphis,TN",Etowah,TN,Memphis,TN
+9ad77f37e9be2795a878460558afe233,"San Antonio,TX -> Lowell,AR",San Antonio,TX,Lowell,AR
+e3fc70b8fe786a0811c87c67a1f4b2e3,"Alton,IL -> Channahon,IL",Alton,IL,Channahon,IL
+05de83ee4034cce8501ecce1c1b95a6c,"Colonial Heights,VA -> Danville,VA",Colonial Heights,VA,Danville,VA
+711cc9b1cd37db6af580e7185a049807,"Sioux City,IA -> Nicholasville,KY",Sioux City,IA,Nicholasville,KY
+136d18309808e2bbd1ea941dab24ab25,"Jacksonville,FL -> Homestead,FL",Jacksonville,FL,Homestead,FL
+6b1a84b170515b1ceeb6410a5d800550,"Clarksville,TN -> Clinton,IA",Clarksville,TN,Clinton,IA
+700398f1deebf191f86cdeaac86ffcd4,"Montgomery,AL -> Conover,NC",Montgomery,AL,Conover,NC
+c2276090406d9645dd58b279069cd154,"Columbia,PA -> Newark,NJ",Columbia,PA,Newark,NJ
+1bbd0c49f12d1fc6deed9e72eb9b0a97,"Merced,CA -> Hayward,CA",Merced,CA,Hayward,CA
+d1217c18028658c5e8a1c9aa61ad9d2d,"Wellton,AZ -> Garden Grove,CA",Wellton,AZ,Garden Grove,CA
+7934b72a956e1ffa5055e69a111543cb,"Cartersville,GA -> Aurora,CO",Cartersville,GA,Aurora,CO
+b59ca561276c900c0c29c0fd278ce112,"St. Louis,MO -> McAllen,TX",St. Louis,MO,McAllen,TX
+815568a7e148bb11d4355086fd31074f,"Los Angeles,CA -> Elko,NV",Los Angeles,CA,Elko,NV
+531955784f2deb98a2de7adea351f332,"Burley,ID -> Fife,WA",Burley,ID,Fife,WA
+35ed3758d5a7125e8235f2eacf9200e4,"Braselton,GA -> Laceys Spring,AL",Braselton,GA,Laceys Spring,AL
+19aa24da2995a4cc11244dc114d7e7a7,"Fort Collins,CO -> Mobridge,SD",Fort Collins,CO,Mobridge,SD
+8f0b16bc14fb5d383143ded12ae3340d,"Plant City,FL -> Monrovia,MD",Plant City,FL,Monrovia,MD
+9e3c5dc7e1cb4c199f6f73e183fd20bb,"Fort Collins,CO -> Union Gap,WA",Fort Collins,CO,Union Gap,WA
+d2dfca7e57eb6fca25014ac491dbc386,"Los Angeles,CA -> Sparks,NV",Los Angeles,CA,Sparks,NV
+1d622c27eaa5eb84d305970663e0ef0f,"St. Louis,MO -> Traverse City,MI",St. Louis,MO,Traverse City,MI
+547bf61de7de362e77fd9c7858a4475f,"Burlington,NC -> York,PA",Burlington,NC,York,PA
+3f00c779226ab99a87bb6da0b207d02e,"Philadelphia,PA -> Seymour,CT",Philadelphia,PA,Seymour,CT
+7f24e5b4807d2b241e163abb5dd177aa,"McAllen,TX -> Houston,TX",McAllen,TX,Houston,TX
+7b18ffd5160be4549fa3de9c3116511d,"York,PA -> Hackettstown,NJ",York,PA,Hackettstown,NJ
+8a3c017b595d63ab2cb14c91c9bf1668,"Gonzales,CA -> Roanoke,TX",Gonzales,CA,Roanoke,TX
+2cea8e5aed962fdfc9801b3e49127002,"Newark,NJ -> Romney,WV",Newark,NJ,Romney,WV
+0197098734346423ecb9d66a676cf78d,"Plant City,FL -> Burlington,NJ",Plant City,FL,Burlington,NJ
+b8699583f3c020e43b3cc35cfc8e1c4a,"Houston,TX -> Harpersville,AL",Houston,TX,Harpersville,AL
+07ee7960162065579201de37d88d1020,"Granite City,IL -> Bardstown,KY",Granite City,IL,Bardstown,KY
+946eee38f74fbdb7d12518b13b7613ed,"Sidney,OH -> Laceys Spring,AL",Sidney,OH,Laceys Spring,AL
+87c2f8647c412d1cbcbead24efa5c00f,"Medley,FL -> Richburg,SC",Medley,FL,Richburg,SC
+463615a16cd9e2faacb78eaf6af970b4,"Erie,PA -> Milford,MA",Erie,PA,Milford,MA
+1cf141f3414be4bd16e5a08f51b33db1,"Wapakoneta,OH -> Canton,OH",Wapakoneta,OH,Canton,OH
+213628640805fe9a680776d4e461ffcc,"Newark,NJ -> Lancaster,NY",Newark,NJ,Lancaster,NY
+e14dc757e23169830d5fe65335352f1f,"Jacksonville,FL -> Tampa,FL",Jacksonville,FL,Tampa,FL
+e7c858209fce4208ff82e9af6f906699,"Erie,PA -> Portland,OR",Erie,PA,Portland,OR
+137166edd2c1236618e1ad230a19b7f7,"Vineland,NJ -> Portland,OR",Vineland,NJ,Portland,OR
+4ef8d679e6f8492bf1b765d89f16d817,"Santa Ana,CA -> McCook,IL",Santa Ana,CA,McCook,IL
+7cd0d9377b06e4fd731872adcfe69fba,"Lake Park,GA -> Hyattsville,MD",Lake Park,GA,Hyattsville,MD
+99bf7e354bbd3463b539501ed13990f3,"Williamsburg,VA -> Erie,PA",Williamsburg,VA,Erie,PA
+17d7bee1c072f01dddaef238f7ed2bcc,"Santa Maria,CA -> Salt Lake City,UT",Santa Maria,CA,Salt Lake City,UT
+89a5eec920ed1c35beaf1f41f727e643,"Watertown,WI -> Santa Ana,CA",Watertown,WI,Santa Ana,CA
+ca9e898e926fec9858db73d87ad1ff8b,"Granite City,IL -> Rochester,MN",Granite City,IL,Rochester,MN
+39ad3b31fa33f4adb6caada106c74d23,"Fort Collins,CO -> Glasgow,MT",Fort Collins,CO,Glasgow,MT
+a034f7374d99c0e5d4a6849358deb7d7,"Erie,PA -> Baldwinsville,NY",Erie,PA,Baldwinsville,NY
+2fb00b09a2a9c0567360bf5ffd19bd6a,"Morris,IL -> Denison,TX",Morris,IL,Denison,TX
+4c8e6b6cf7a39773b2b6d436e126cd29,"Reading,PA -> Everett,MA",Reading,PA,Everett,MA
+55548a2ff642fd74046f8b95bf0d7079,"Paris,TN -> Wixom,MI",Paris,TN,Wixom,MI
+ac1a53c9da7f4859ffec0c905ce17312,"Fort Collins,CO -> Newark,NJ",Fort Collins,CO,Newark,NJ
+7c10450ca5c26686b6ab763a76313584,"Plainfield,IL -> Swedesboro,NJ",Plainfield,IL,Swedesboro,NJ
+53bcb1df0cbd989a9cf7332f06ee8208,"Houston,TX -> Albuquerque,NM",Houston,TX,Albuquerque,NM
+39c53dafd116ee01f7b2dbfebb1c484f,"Newark,NJ -> La Vergne,TN",Newark,NJ,La Vergne,TN
+bafd2b839f9acc42525a11a2c020b2ee,"Colonial Heights,VA -> Homestead,FL",Colonial Heights,VA,Homestead,FL
+f7951ffc83212ef09c2a9846f87c6331,"Cartersville,GA -> Pensacola,FL",Cartersville,GA,Pensacola,FL
+9f0392dea5d9b97bb859ae0de6b19c8c,"Kansas City,MO -> Dallas,TX",Kansas City,MO,Dallas,TX
+aea01b5ca7ba738970c3e11e153be927,"Sacramento,CA -> Tracy,CA",Sacramento,CA,Tracy,CA
+f140ff22449a0a658d19419b1da5dd4b,"Fort Collins,CO -> International Falls,MN",Fort Collins,CO,International Falls,MN
+16b3d1fd7553fbb64a11ee9d297c16da,"Williamsburg,VA -> Baldwinsville,NY",Williamsburg,VA,Baldwinsville,NY
+28dc494cb84799defe946f3edef3d5b3,"Williamsburg,VA -> Sun Prairie,WI",Williamsburg,VA,Sun Prairie,WI
+a6670386c78200dce432ce41dbd72f18,"Cartersville,GA -> Soddy-Daisy,TN",Cartersville,GA,Soddy-Daisy,TN
+f8edb1dbad65b633cbb1bbf7839c7c92,"Fort Collins,CO -> Durant,OK",Fort Collins,CO,Durant,OK
+66e4be5bf4d6f083e4444c677e66b65a,"Fort Collins,CO -> Sheridan,WY",Fort Collins,CO,Sheridan,WY
+4baa913f2bab02d936e711a29486f7a3,"Plant City,FL -> Claysburg,PA",Plant City,FL,Claysburg,PA
+c92ff4c9b165dc8b439c52cfc0963705,"Granite City,IL -> Council Bluffs,IA",Granite City,IL,Council Bluffs,IA
+331daf4d3f22383cf7b74461ace6bd5d,"Cherry Hill,NJ -> North Kingstown,RI",Cherry Hill,NJ,North Kingstown,RI
+df06bbba0aa8f088ddd479b4cceb0a76,"Paris,TN -> Clinton,IA",Paris,TN,Clinton,IA
+c202dab9bc603475affe192870827718,"Plant City,FL -> Schenectady,NY",Plant City,FL,Schenectady,NY
+2636fbbcff0994140c1bcace55198d22,"Granite City,IL -> Niagara,WI",Granite City,IL,Niagara,WI
+633fc52121eccc4aad7843b77666e62a,"Erie,PA -> Perry,GA",Erie,PA,Perry,GA
+d15057122d5e36e73da2c24af50fd587,"Walled Lake,MI -> El Paso,TX",Walled Lake,MI,El Paso,TX
+515888c0f13490a3ac9fb742a641271a,"Cartersville,GA -> La Porte,TX",Cartersville,GA,La Porte,TX
+a6ebe9bd6b89ed42d5721ac59c6df3fe,"Paris,TN -> Brighton,MI",Paris,TN,Brighton,MI
+277ebe21b847b688e230750ecdf3f237,"Colonial Heights,VA -> Philadelphia,PA",Colonial Heights,VA,Philadelphia,PA
+20ddd1e3f5fa5524734a053a0e11454e,"Edison,NJ -> Auburn,NY",Edison,NJ,Auburn,NY
+670023537be891409b3ec16b6085640e,"Newark,NJ -> Orange,CT",Newark,NJ,Orange,CT
+3678d2ccdbfd0588d52f25c475270528,"Williamsburg,VA -> Saratoga Springs,NY",Williamsburg,VA,Saratoga Springs,NY
+599c1b4d384efe05cccb9ab18d1469be,"West Palm Beach,FL -> Tampa,FL",West Palm Beach,FL,Tampa,FL
+857eb2ec291c39abfb5499df68745d39,"Jamestown,NY -> Toledo,OH",Jamestown,NY,Toledo,OH
+794497b58161d8823cb08c1da6ae0c23,"Poynette,WI -> Denver,CO",Poynette,WI,Denver,CO
+e93a48371b696f1140b9912ae22f7053,"Nogales,AZ -> Spokane,WA",Nogales,AZ,Spokane,WA
+914cdda3d5f1be6f57c5523d16beb801,"Columbus,OH -> Marquette,MI",Columbus,OH,Marquette,MI
+8b8bad46195a30cf913510e5d1145110,"Carlisle,PA -> Medford,MA",Carlisle,PA,Medford,MA
+512018c5b0a39098c3965a3e818da8d3,"Newark,NJ -> Oneonta,NY",Newark,NJ,Oneonta,NY
+2c224ad69ab3ec565af44e7b8b381bac,"Ocean Township,NJ -> Newark,NJ",Ocean Township,NJ,Newark,NJ
+fbb9ea0b19e3b2a4fa3927620d17e9d9,"Topton,PA -> Cleveland,NC",Topton,PA,Cleveland,NC
+54046b768b1421973ebb2ad74b0f7b08,"Fairfield,CA -> Rapid City,SD",Fairfield,CA,Rapid City,SD
+19f2aa493cb92a9ff61f861c0ecd18cc,"Plant City,FL -> Methuen,MA",Plant City,FL,Methuen,MA
+f166b6fd6a1572b3b3aee3f49e6a95ab,"Del Rio,TX -> Mount Holly,NC",Del Rio,TX,Mount Holly,NC
+fed852f13c9f021ecbeb1b918b5cc67e,"Carlisle,PA -> Sarasota,FL",Carlisle,PA,Sarasota,FL
+adf0f9abf7520c41854f2516663c4dd1,"Newark,NJ -> Harrisburg,PA",Newark,NJ,Harrisburg,PA
+cefc1b6441d8f850ee7d674834e49f4d,"Lodi,CA -> Auburn,WA",Lodi,CA,Auburn,WA
+2a23bb0c3f7079ca2f483516307460af,"Granite City,IL -> La Vergne,TN",Granite City,IL,La Vergne,TN
+2b804f018fd0d2178ddf42464e8c6b30,"Decatur,IN -> Memphis,TN",Decatur,IN,Memphis,TN
+a0123524dd06ae19270f02a426d36d77,"La Porte,TX -> Granite City,IL",La Porte,TX,Granite City,IL
+9035dfa9b018ae2605c3d4350f1d5920,"Aurora,CO -> Sioux Falls,SD",Aurora,CO,Sioux Falls,SD
+2ecfa5e1f3f6ebc3f5815709656f0132,"Romulus,MI -> Atlanta,GA",Romulus,MI,Atlanta,GA
+16326aac2b3a61c175f60424cd03dee1,"Conover,NC -> Denton,TX",Conover,NC,Denton,TX
+08102f1b917fc33d27c526d4ecb30436,"Granite City,IL -> Portland,IN",Granite City,IL,Portland,IN
+385bed4c582ee7431992470021025fac,"Henderson,NV -> Tracy,CA",Henderson,NV,Tracy,CA
+b0a1e71c07a18972d9972c85ed0d3de8,"Kent,WA -> Spokane,WA",Kent,WA,Spokane,WA
+cdb06fac2d0cdacdab37e9dd99389170,"Long Branch,NJ -> York,PA",Long Branch,NJ,York,PA
+cab4c0c415ad7fd7157addb8ac6b98ae,"Lancaster,TX -> Denison,TX",Lancaster,TX,Denison,TX
+f7470c9fbc8e1ff749527443b3da8f19,"Decatur,IN -> Canton,OH",Decatur,IN,Canton,OH
+f2e694d253b97701c8bc0ffb81f6c407,"Moxee,WA -> Methuen,MA",Moxee,WA,Methuen,MA
+007c5339bf23f2c6af84629c5a567b50,"Timberville,VA -> Memphis,TN",Timberville,VA,Memphis,TN
+bee4eec578ed3347a0d123c5f9f93b02,"Jacksonville,FL -> Fort Lauderdale,FL",Jacksonville,FL,Fort Lauderdale,FL
+a48bbafdaf225a5da6b955576d4835b3,"Braitwaite,LA -> Herculaneum,MO",Braitwaite,LA,Herculaneum,MO
+450fcb296f1949241443809cd00f1866,"Laredo,TX -> DeQuincy,LA",Laredo,TX,DeQuincy,LA
+808cdd5b19f7cd2790d7bc550d62fff4,"Bronx,NY -> Newark,NJ",Bronx,NY,Newark,NJ
+a46e82c244918430b5f2d9a8ef1efb4f,"Carthage,MO -> Pryor,OK",Carthage,MO,Pryor,OK
+884856547252ab4036d6b53dd34da218,"Baltimore,MD -> Syracuse,NY",Baltimore,MD,Syracuse,NY
+70847be69ad0a3a45ee8ed279aef95e6,"Pleasant Prairie,WI -> Sapulpa,OK",Pleasant Prairie,WI,Sapulpa,OK
+ec9f12dee4a4b547f01492a19451355a,"Fort Collins,CO -> Cartersville,GA",Fort Collins,CO,Cartersville,GA
+f57bb277f485af71e0b2c2222ec573e5,"Walla Walla,WA -> North Salt Lake,UT",Walla Walla,WA,North Salt Lake,UT
+93d146d88b2eda73e75e863d18b5e2a0,"Baldwinsville,NY -> Manchester,CT",Baldwinsville,NY,Manchester,CT
+fe35482176a4266a3ed84d36d020ac7a,"Newark,NJ -> Springfield,VA",Newark,NJ,Springfield,VA
+4125a7d764c4b630d1b524135225f3cc,"Columbus,OH -> Hatfield,PA",Columbus,OH,Hatfield,PA
+524145dd191a73acf44ef130801a446c,"St. Louis,MO -> Decatur,AL",St. Louis,MO,Decatur,AL
+1fc3875ec3592514c5a4033a4b7b8e8e,"Conover,NC -> McKinney,TX",Conover,NC,McKinney,TX
+baac351ceb52887c0c75a6e5ef610d35,"Cartersville,GA -> Mobile,AL",Cartersville,GA,Mobile,AL
+f6a6069b1ae4e61e2c1abfcf50796a7f,"Williamsburg,VA -> Martinsburg,WV",Williamsburg,VA,Martinsburg,WV
+a189bd4a4e7abd99abc60dd213539a82,"Columbus,OH -> Bay City,MI",Columbus,OH,Bay City,MI
+005f1524ddbe8d1ac51b87f452236904,"Colonial Heights,VA -> Clarksburg,WV",Colonial Heights,VA,Clarksburg,WV
+e33ccd5769d37aecaebbdd0f3c88fa6b,"Colonial Heights,VA -> Morgantown,WV",Colonial Heights,VA,Morgantown,WV
+af2f0bf5369b6b3cdd2e216aeb639bbb,"Clifton,NJ -> Rochester,NY",Clifton,NJ,Rochester,NY
+0a1e13090e56300c0efe05d58ee3b2d7,"Stockton,CA -> Tracy,CA",Stockton,CA,Tracy,CA
+0e3d438079eb8e4bcb83d87efa9b5646,"McDonough,GA -> College Park,GA",McDonough,GA,College Park,GA
+5a5711cfe22af4615f70ccdeda90dd92,"Naperville,IL -> Swedesboro,NJ",Naperville,IL,Swedesboro,NJ
+75b5b54b9805600748f90d2f13e0fb42,"Vineland,NJ -> Vernon,CA",Vineland,NJ,Vernon,CA
+4ef2a5193777f79fd45755519fcb9d31,"Vernon,CA -> South Plainfield,NJ",Vernon,CA,South Plainfield,NJ
+cc88153863071762c8f6e8a3f37b9762,"Los Angeles,CA -> La Vergne,TN",Los Angeles,CA,La Vergne,TN
+880ac941363b9295dfc023e2802cb504,"Green Bay,WI -> Wilkes-Barre,PA",Green Bay,WI,Wilkes-Barre,PA
+13a9575607cce9c1941be8a9b0a00bf3,"Granite City,IL -> Bay City,MI",Granite City,IL,Bay City,MI
+0ae5b2db9b692667500d10c4b17da244,"Cherry Hill,NJ -> Hebron,KY",Cherry Hill,NJ,Hebron,KY
+5189466551a50aa1f9d062987037ab61,"Brooks,OR -> Coos Bay,OR",Brooks,OR,Coos Bay,OR
+581fcd0d41630556d1c781d29a4394ff,"Prescott,WA -> Denver,CO",Prescott,WA,Denver,CO
+87c62af16cafee60f1f34d920a925099,"Lebanon,KY -> Mount Holly,NC",Lebanon,KY,Mount Holly,NC
+2482fc1bdfdacb860c3f1466edb46532,"Atlanta,GA -> Roanoke,TX",Atlanta,GA,Roanoke,TX
+7d1eff48fa9fc51e1018475e9ee57f14,"North Richland Hills,TX -> Laceys Spring,AL",North Richland Hills,TX,Laceys Spring,AL
+dfc6cef0db7f510f05a71e685203b124,"Medley,FL -> Montgomery,AL",Medley,FL,Montgomery,AL
+c9bdd479234c2fe59c0935da6d1f1951,"Jacksonville,FL -> Merrimack,NH",Jacksonville,FL,Merrimack,NH
+78542f71eaa3d697e4cc0929e4a67a2e,"St. Louis,MO -> Yazoo City,MS",St. Louis,MO,Yazoo City,MS
+9263f8d866474aa038af53fd640b34e3,"Granite City,IL -> Jackson,MS",Granite City,IL,Jackson,MS
+2967ccc35e8a45e71f4cad296ed2f3e2,"Jacksonville,FL -> Melbourne,FL",Jacksonville,FL,Melbourne,FL
+c1fafd5361089da3fd849d1fa697ddc6,"Plant City,FL -> Stockton,CA",Plant City,FL,Stockton,CA
+294df236d6d89cebaaa288c7fac6cba6,"Fort Collins,CO -> Pittsburgh,PA",Fort Collins,CO,Pittsburgh,PA
+d910e1cd7d6b2e15913c6edd30aa1152,"Fort Collins,CO -> Trinity,TX",Fort Collins,CO,Trinity,TX
+243b6084822ba00321302b76dbbdaa36,"Plant City,FL -> Des Moines,IA",Plant City,FL,Des Moines,IA
+916c772887f81c06540e102709410572,"Aurora,CO -> Vernal,UT",Aurora,CO,Vernal,UT
+678c3d703ee36188c3001ca93967415c,"Fort Collins,CO -> Yankton,SD",Fort Collins,CO,Yankton,SD
+94d474e230e1577cb942fb9dfbd9249d,"Jacksonville,FL -> Cartersville,GA",Jacksonville,FL,Cartersville,GA
+fd425cb3ee5d32d71dd5c76de322ea6d,"Cartersville,GA -> South Burlington,VT",Cartersville,GA,South Burlington,VT
+28f9b895ebfd46ed9ba3b50dd0973510,"Granite City,IL -> Eau Claire,WI",Granite City,IL,Eau Claire,WI
+e8fee62aec9f01a60e24d73d84654a0e,"Williamsburg,VA -> Winston-Salem,NC",Williamsburg,VA,Winston-Salem,NC
+6399511a025b263ed48f23a11b3f1830,"Cartersville,GA -> Tullahoma,TN",Cartersville,GA,Tullahoma,TN
+03ebd4c5a7354b8e6d92cf771f23d1fc,"La Palma,CA -> Lakeland,FL",La Palma,CA,Lakeland,FL
+c33308fd3e70e0630a47b26cc70f95c4,"Warren,OH -> Mount Holly,NC",Warren,OH,Mount Holly,NC
+825f9042b0fbb064f518acec3e4062d5,"Williamsburg,VA -> Norcross,GA",Williamsburg,VA,Norcross,GA
+e00bd25be1e2c9e919d59e4e5d7e09a2,"Jacksonville,FL -> West Palm Beach,FL",Jacksonville,FL,West Palm Beach,FL
+05508732322741441c821b9db1623c78,"Santa Ana,CA -> Fontana,CA",Santa Ana,CA,Fontana,CA
+8f6cb0b70ee02689b3f27376a8a961e6,"Houston,TX -> Rock Springs,WY",Houston,TX,Rock Springs,WY
+a1f67623dd382c202bcf2ed388175f21,"Baldwinsville,NY -> Pittsburgh,PA",Baldwinsville,NY,Pittsburgh,PA
+8fcec1fa85da316caa99d9a21f4a9ee5,"La Porte,TX -> Natchitoches,LA",La Porte,TX,Natchitoches,LA
+66bae21ec20f569941f00dd9cf23a16a,"Halls,TN -> Dallas,TX",Halls,TN,Dallas,TX
+06b36939f8ad6b262f5af01e59828489,"Compton,CA -> Irvine,CA",Compton,CA,Irvine,CA
+6dd0f03ee7230b3c769cd25213e1afc0,"Lakewood,NY -> Laredo,TX",Lakewood,NY,Laredo,TX
+0c2bad758a72d7d2837b3e496aefac68,"Aurora,CO -> Oklahoma City,OK",Aurora,CO,Oklahoma City,OK
+9f1a5892ae83cb37c407bf852fbcf341,"Fort Collins,CO -> Adelanto,CA",Fort Collins,CO,Adelanto,CA
+47040d4b2ab40fc4304593f3c7303318,"Granite City,IL -> Lawrence,KS",Granite City,IL,Lawrence,KS
+a8eb810a7cd67d8c21266b0d72d9eefa,"Granite City,IL -> Dubuque,IA",Granite City,IL,Dubuque,IA
+6ee3e17fd1d541323b9d09b1deb38518,"Aurora,CO -> Logan,UT",Aurora,CO,Logan,UT
+dfa6b3bcfd116456423d664bdd08b235,"Houston,TX -> Summit,MS",Houston,TX,Summit,MS
+7024bc97bdcbf005e92db69424cb91b0,"Kenilworth,NJ -> Mount Clemens,MI",Kenilworth,NJ,Mount Clemens,MI
+2909e56d472119864eb0dec6e1bb6db1,"Austin,TX -> Wayzata,MN",Austin,TX,Wayzata,MN
+0e9e7d6a42864237108e094a69bed267,"Tampa,FL -> Compton,CA",Tampa,FL,Compton,CA
+6da7116a3e72614152d3af726414701a,"Kent,WA -> Waukegan,IL",Kent,WA,Waukegan,IL
+25a450bc2344b3619d67b3833aba0d6a,"Jackson,WY -> Fort Collins,CO",Jackson,WY,Fort Collins,CO
+f362c03b64d8f9fd1d0fbb90b7d3a6c8,"Carlisle,PA -> Shirley,NY",Carlisle,PA,Shirley,NY
+9e86f2e2f71cf146961bfc029d21a172,"Columbus,OH -> Hagerstown,MD",Columbus,OH,Hagerstown,MD
+d6385b914e2eccf51d9a585aa6c3df07,"Modesto,CA -> Tracy,CA",Modesto,CA,Tracy,CA
+844bf097c7270135cfa7d8bea91830d3,"Williamsburg,VA -> Wilmington,NC",Williamsburg,VA,Wilmington,NC
+af88f9a04899809409d258a1a94081b4,"Chester,VA -> Gastonia,NC",Chester,VA,Gastonia,NC
+1096d61776ed20ac8d63ea7cf483eaee,"Granite City,IL -> Hannibal,MO",Granite City,IL,Hannibal,MO
+c866f08c568b485d6ed7787502c9515f,"Port Wentworth,GA -> Katy,TX",Port Wentworth,GA,Katy,TX
+8af2590f25e250f1c7115286b95fbd2f,"Wills Point,TX -> Northlake,IL",Wills Point,TX,Northlake,IL
+8a052d8816bca9bd3957cdc32ae7ce38,"Brownsville,TX -> Portland,OR",Brownsville,TX,Portland,OR
+d622e8bae510897e1796ea1ba1dd62a0,"Colonial Heights,VA -> Fort Pierce,FL",Colonial Heights,VA,Fort Pierce,FL
+d2fb299a2ffd2d75293ebe98b5e0c808,"Newark,NJ -> Linwood,NC",Newark,NJ,Linwood,NC
+ed67e0f8f16a507792c7486b3925019b,"Aurora,CO -> Scottsbluff,NE",Aurora,CO,Scottsbluff,NE
+72bd1a7f6674466888b46924446d389c,"Somerset,WI -> Clinton,IA",Somerset,WI,Clinton,IA
+a603d8f333e7e8c1f99d9a2b6363c02f,"Carlisle,PA -> Hatfield,PA",Carlisle,PA,Hatfield,PA
+4ebe20c9106e9122b6b6a89681cd094e,"Granite City,IL -> Dixon,IL",Granite City,IL,Dixon,IL
+12901a10b381d42faa205bba8232731b,"Batavia,IL -> Reno,NV",Batavia,IL,Reno,NV
+0b207ff9c3b514a2f6500a199400b64e,"Carlisle,PA -> Hooksett,NH",Carlisle,PA,Hooksett,NH
+43843a5d21ca29d9b9adc9284216c1bf,"Fort Collins,CO -> Lubbock,TX",Fort Collins,CO,Lubbock,TX
+99a702e002e22aaccafb33e6e982d3d3,"Granite City,IL -> Decatur,AL",Granite City,IL,Decatur,AL
+8b37b762b5675db2dae1d02c169af79a,"Jacksonville,FL -> Savannah,GA",Jacksonville,FL,Savannah,GA
+11764821ee79dcd13a678c490a4f4f60,"Troy,AL -> Laceys Spring,AL",Troy,AL,Laceys Spring,AL
+5861044d3e842c37c14e028402c05238,"Montpelier,OH -> Reno,NV",Montpelier,OH,Reno,NV
+f3ccb1718e39a179e9dd1cbd6bf8796b,"Yakima,WA -> Methuen,MA",Yakima,WA,Methuen,MA
+a021bceb4a10ad02cbb5aac3e77684a3,"Green Bay,WI -> Baldwinsville,NY",Green Bay,WI,Baldwinsville,NY
+e335b2f7fe10b4992a425356e6611306,"Bridgewater,NJ -> Miami,FL",Bridgewater,NJ,Miami,FL
+4c7e79832dc28128d1c1f4461e31e6e0,"Newark,NJ -> Milford,MA",Newark,NJ,Milford,MA
+bf9c7ef200110eb69b7adb18d0fe33ce,"St. Louis,MO -> Hibbing,MN",St. Louis,MO,Hibbing,MN
+08ae27ff108509ca47f60f857fce7dee,"Aurora,CO -> Riverton,WY",Aurora,CO,Riverton,WY
+92c10c6badb40b384a4c56ea1cac7601,"Brighton,MI -> Canton,OH",Brighton,MI,Canton,OH
+8770a0431bc07cb61fd409df49ab42d7,"Bridgewater,NJ -> Rochester,NY",Bridgewater,NJ,Rochester,NY
+b0f741f6509f0cce8d7fb7c705b7f63b,"Sinking Spring,PA -> Brook Park,OH",Sinking Spring,PA,Brook Park,OH
+dcfa529c8e6206d12e9d8e4d7ef70b2f,"Buffalo,NY -> New Brunswick,NJ",Buffalo,NY,New Brunswick,NJ
+e0a5bc4e45ef332e4a5c6c50297f63fd,"Fort Collins,CO -> Great Falls,MT",Fort Collins,CO,Great Falls,MT
+e2c4e418e7ed79f8891984fc3e40b272,"Georgetown,SC -> Akron,OH",Georgetown,SC,Akron,OH
+f5bc575352fac6a7f3619deb60ff684d,"St. Louis,MO -> West Union,IA",St. Louis,MO,West Union,IA
+c040d119f9486ae5bc99f7a0412c29e2,"1,LA -> Brazil,IN",1,LA,Brazil,IN
+01b824a2e106c17bd1df3392686afc40,"Colfax,NC -> Abbottstown,PA",Colfax,NC,Abbottstown,PA
+2018444d8d5de4d173de94caf33aa4c1,"Paris,TN -> New Haven,IN",Paris,TN,New Haven,IN
+2c80afe4b19bc91cfc8e9fa4a2b7c9e7,"Los Angeles,CA -> Newark,NJ",Los Angeles,CA,Newark,NJ
+ebda9d8cbb52f2163c2a3c2e40c5b304,"Clackamas,OR -> Roanoke,TX",Clackamas,OR,Roanoke,TX
+0bdf9f7cb7af8db9564d27e3810b5690,"Los Angeles,CA -> Visalia,CA",Los Angeles,CA,Visalia,CA
+90d9d2bfd07dc8a9393173307f54ee15,"Santa Ana,CA -> Carson,CA",Santa Ana,CA,Carson,CA
+9883f53d0fb298f53e78a914c79a1db4,"Brooklyn,NY -> Newark,NJ",Brooklyn,NY,Newark,NJ
+d2f0b1477f415cf4735c3f1033e61a52,"Sioux City,IA -> Temple,TX",Sioux City,IA,Temple,TX
+b9148ef11f897436e09d73f73c6e276c,"Janesville,WI -> Tucson,AZ",Janesville,WI,Tucson,AZ
+7782d8ac47a92bd59931c4f4e8675b35,"Newark,NJ -> Grand Forks,ND",Newark,NJ,Grand Forks,ND
+b6b7aa9a247018e659690c90b888121e,"Baldwinsville,NY -> Rapid City,SD",Baldwinsville,NY,Rapid City,SD
+2b9946a49b9fafff42aa6957a5c3d572,"Walled Lake,MI -> Laredo,TX",Walled Lake,MI,Laredo,TX
+150893be3596197f82fcebd937ba0594,"Idaho Falls,ID -> Denver,CO",Idaho Falls,ID,Denver,CO
+ec637f761fff876d73862e8d25aedb3d,"St. Louis,MO -> Indian River,MI",St. Louis,MO,Indian River,MI
+3ebe68883f1687be0669174389c1731b,"Colonial Heights,VA -> Sanford,FL",Colonial Heights,VA,Sanford,FL
+e014a34772b7093cb7176d9ed07f20e5,"Gastonia,NC -> Clinton,IA",Gastonia,NC,Clinton,IA
+40de2c30b0bb1f5f614e45a450f59f06,"Newark,NJ -> Norwich,CT",Newark,NJ,Norwich,CT
+7c2c7935978306a56785394b973c078d,"Austell,GA -> Cincinnati,OH",Austell,GA,Cincinnati,OH
+09cdaacd61d600275c4451991ca5724c,"Conover,NC -> Crothersville,IN",Conover,NC,Crothersville,IN
+6cc3e53ab52f6bf80b2fce77ca026b0b,"Newark,NJ -> Sanford,FL",Newark,NJ,Sanford,FL
+9b4bd06059102460d9f64532e2906b7c,"Fort Collins,CO -> Salem,OR",Fort Collins,CO,Salem,OR
+305cd1f03ccc2c64bd4df66a1b9d0ae6,"De Soto,KS -> Fort Collins,CO",De Soto,KS,Fort Collins,CO
+dff334ec9400923391d5b4c223cff70c,"Fort Collins,CO -> Grand Forks,ND",Fort Collins,CO,Grand Forks,ND
+90911ab0763a576b10d80e8a17241af2,"Denver,CO -> Las Vegas,NV",Denver,CO,Las Vegas,NV
+cf83dc2095760402ceda29b002383e07,"Covesville,VA -> Jacksonville,FL",Covesville,VA,Jacksonville,FL
+eb0beff67bcf90904e32f1ac54f787b9,"Los Angeles,CA -> Bisbee,AZ",Los Angeles,CA,Bisbee,AZ
+f651ab146e6ff3659dd791a661076d4a,"Englewood,CO -> Ponca City,OK",Englewood,CO,Ponca City,OK
+8d41d0cd9891781592ef22bf3fe42cd5,"St. Louis,MO -> Des Moines,IA",St. Louis,MO,Des Moines,IA
+fe72f99f559ab419974481726b4c0014,"Morris,IL -> Grand Rapids,MI",Morris,IL,Grand Rapids,MI
+120dd2e633ba696d19f56693d51386be,"Plant City,FL -> Monroe Township,NJ",Plant City,FL,Monroe Township,NJ
+c2ad4a4f0ee2c0ff7e300045bf81e44e,"Denver,PA -> Ponca City,OK",Denver,PA,Ponca City,OK
+ac05883f72d1db2d0de145186e260a7a,"Aurora,CO -> Huron,SD",Aurora,CO,Huron,SD
+6d87375e5f96eec55271b0821d93445b,"Granite City,IL -> Carroll,IA",Granite City,IL,Carroll,IA
+3bc9f2de26c91201576c5acb25e598e2,"Wellton,AZ -> Bakersfield,CA",Wellton,AZ,Bakersfield,CA
+2dc027ac9c708479ea0dc36ca1274868,"Franklin,IN -> Mount Vernon,OH",Franklin,IN,Mount Vernon,OH
+8d113235b5aa032e03432449f9c14968,"Casa Grande,AZ -> Palmdale,CA",Casa Grande,AZ,Palmdale,CA
+58075d9746e60b07226a175554eebd73,"Rio Rico,AZ -> Salt Lake City,UT",Rio Rico,AZ,Salt Lake City,UT
+1eff739b2cbe7ddbaa7a808269207d0e,"Baldwinsville,NY -> Milford,MA",Baldwinsville,NY,Milford,MA
+2ddbc7db13827e882c7339bea0bc9bfc,"St. Louis,MO -> Lincoln,NE",St. Louis,MO,Lincoln,NE
+992cba724a1c62832cb616cc527c5d99,"Fort Collins,CO -> Las Cruces,NM",Fort Collins,CO,Las Cruces,NM
+f446ce3818ec321928ec7735b3d3ddee,"Bloomington,CA -> Phoenix,AZ",Bloomington,CA,Phoenix,AZ
+d0ece6e69032ae68a0cc08b12e870162,"Bethlehem,PA -> Pittsburgh,PA",Bethlehem,PA,Pittsburgh,PA
+e33412d4ecf9ded6e075f2349e6bc9b6,"Jurupa Valley,CA -> Brea,CA",Jurupa Valley,CA,Brea,CA
+e2d63c0824812b4a4d3784de291fa38d,"North Salt Lake,UT -> Roanoke,TX",North Salt Lake,UT,Roanoke,TX
+f6e1e61ac8bbb60607525b01e19e66f2,"Granite City,IL -> Muskogee,OK",Granite City,IL,Muskogee,OK
+111d750c86098fbc97f4f0d218f4c9da,"Pleasant Prairie,WI -> Pevely,MO",Pleasant Prairie,WI,Pevely,MO
+5d43169fb54b1c56ecad65c2d9460f89,"Newark,NJ -> Aurora,IN",Newark,NJ,Aurora,IN
+830700c6abde082933ddfcb848690726,"Portland,OR -> Tracy,CA",Portland,OR,Tracy,CA
+bf7e4e6cdbcdfcddd8c4c838a4e1436f,"Pennsauken Township,NJ -> Farmingdale,NY",Pennsauken Township,NJ,Farmingdale,NY
+f9c8ce7b57ee967c39b873c8fd8582e7,"Compton,CA -> Portland,OR",Compton,CA,Portland,OR
+899de8597874a1aca9b5df9806ff26ed,"Granite City,IL -> Highland Park,MI",Granite City,IL,Highland Park,MI
+806fc2826c2246f8d2559076dfeff201,"Opelika,AL -> Bryan,OH",Opelika,AL,Bryan,OH
+81ce37c42a7d6884f9a1e70cee62cd63,"McCook,NE -> Russellville,KY",McCook,NE,Russellville,KY
+4f939b60bddf49175f0a60b0c59f9e7b,"Colonial Heights,VA -> Nashville,TN",Colonial Heights,VA,Nashville,TN
+83ba59d121427768bc179081b5f7ddf9,"Fort Collins,CO -> Rock Springs,WY",Fort Collins,CO,Rock Springs,WY
+4e168992171b3c86a404e5056d1b73ce,"Carlisle,PA -> Springfield,VA",Carlisle,PA,Springfield,VA
+8368cf3d924ca438dcf5bb2bae253df4,"Windsor Locks,CT -> York,PA",Windsor Locks,CT,York,PA
+d58e1f9f26f6c740568c31724247b078,"Granite City,IL -> Calumet Township,MI",Granite City,IL,Calumet Township,MI
+b99fdee906a479e3735c8824256123d9,"Granite City,IL -> Marshfield,WI",Granite City,IL,Marshfield,WI
+8fb79f2c2ad8d14070dcbd25259624c7,"Fort Collins,CO -> Missoula,MT",Fort Collins,CO,Missoula,MT
+d471ce32f989a4d8168412660ecd3094,"Newark,NJ -> Green Bay,WI",Newark,NJ,Green Bay,WI
+a54d0dfc7b17aa8ed9175b027e2cc064,"Cerritos,CA -> Tracy,CA",Cerritos,CA,Tracy,CA
+0aad73e397dfc594b0475616c9930a11,"Aurora,CO -> Colorado Springs,CO",Aurora,CO,Colorado Springs,CO
+b55e56d7c2768db20d50fec25625e56e,"Jacksonville,FL -> Evans,GA",Jacksonville,FL,Evans,GA
+f0350502bb0316524a2ad05d0a58fc7c,"St. Louis,MO -> Fletcher,NC",St. Louis,MO,Fletcher,NC
+fadae79018528d6fc676d9d1f546012b,"Atlanta,GA -> South Brunswick Township,NJ",Atlanta,GA,South Brunswick Township,NJ
+78ad1cf5714d5ae6c53c7e973a2a5810,"Bellevue,WA -> Momence,IL",Bellevue,WA,Momence,IL
+b88e75f58c93a8f16af36547e9f96245,"Yakima,WA -> Upper Marlboro,MD",Yakima,WA,Upper Marlboro,MD
+3ca91e11ae5e1b2c3ea9af09d48fbd0e,"Sapulpa,OK -> Warner Robins,GA",Sapulpa,OK,Warner Robins,GA
+c7ee9be3adaada33e263f6a065b58421,"Houston,TX -> Gallup,NM",Houston,TX,Gallup,NM
+6d2c982656849c3d64a03211e9c79033,"St. Louis,MO -> Tulsa,OK",St. Louis,MO,Tulsa,OK
+f5f099fffc3bbca85296fff0ee989cc5,"Yuma,AZ -> Delano,CA",Yuma,AZ,Delano,CA
+92767bffc0a20a232503026a8cfdb927,"Baldwinsville,NY -> Port Huron,MI",Baldwinsville,NY,Port Huron,MI
+5d470d974cefa16b453afe4ea00aacdd,"Portland,OR -> Memphis,TN",Portland,OR,Memphis,TN
+dd75bb6c1f0bafe9fa93ce2311326692,"Granite City,IL -> Houston,TX",Granite City,IL,Houston,TX
+4a0ff29c7211f442422e5b7c0bc9d015,"Braithwaite,LA -> Cleveland,OH",Braithwaite,LA,Cleveland,OH
+ae879e303be0ff6534c822c6f8ed078b,"Fort Collins,CO -> San Antonio,TX",Fort Collins,CO,San Antonio,TX
+677c7313975ce2839ce0b84cc23de240,"Cartersville,GA -> Hickory,NC",Cartersville,GA,Hickory,NC
+1f41b2e3495740a5c3446f92a9369d3f,"Cartersville,GA -> Vicksburg,MS",Cartersville,GA,Vicksburg,MS
+32d2be2019ed8397f9496d6f32ce3efa,"Newark,NJ -> Winchester,VA",Newark,NJ,Winchester,VA
+52e1d6888cb7d207814985a37c9adb7a,"Newark,NJ -> Lincolnwood,IL",Newark,NJ,Lincolnwood,IL
+48db9ee035638ad14a0d62bbf4977b16,"Granite City,IL -> New Albany,IN",Granite City,IL,New Albany,IN
+6b5a185d92e309a47433111fd22add05,"Los Angeles,CA -> Yuma,AZ",Los Angeles,CA,Yuma,AZ
+d700194653a37edfc7aa99a83b264141,"Columbus,OH -> Baldwinsville,NY",Columbus,OH,Baldwinsville,NY
+de91311bde2a49b63ac22a53231d9884,"Los Angeles,CA -> Aurora,CO",Los Angeles,CA,Aurora,CO
+736739ace503273dd34a5ceef0858232,"Atlanta,GA -> Ephrata,PA",Atlanta,GA,Ephrata,PA
+363f3409f283dcdcbf24fe325ac94036,"Oxnard,CA -> Tolleson,AZ",Oxnard,CA,Tolleson,AZ
+38e8e0d47bf98c251e3d1381d47f8e15,"Tracy,CA -> Tolleson,AZ",Tracy,CA,Tolleson,AZ
+f2e1b7b3a477cb582a0821f22837e0b6,"Franklin,VA -> Bringhurst,IN",Franklin,VA,Bringhurst,IN
+fdf791857a58ee699534cd1ecf3dc506,"Conover,NC -> Florence,AL",Conover,NC,Florence,AL
+a04b0394db5d5ca1e7d2a3e2053b1e8b,"St. Louis,MO -> Bowling Green,KY",St. Louis,MO,Bowling Green,KY
+5c11e38ea14e80fb6a3b4f82386ac8cf,"Romulus,MI -> Toledo,OH",Romulus,MI,Toledo,OH
+98f23fb31c23a89acb4ebb73a319d8ce,"Laredo,TX -> Waco,TX",Laredo,TX,Waco,TX
+d55354aeec2cf8604cb9857444d1b78a,"Bridgewater,NJ -> Woodlawn,MD",Bridgewater,NJ,Woodlawn,MD
+f8ac6091e175b50cdf1d23502f4b560a,"Plant City,FL -> Commerce,GA",Plant City,FL,Commerce,GA
+48c6e9ed9743f138adca129e3b662006,"Narvon,PA -> Philadelphia,PA",Narvon,PA,Philadelphia,PA
+f2d9d9cc2c0e929cfec5f55c796fe8f1,"Decatur,IN -> Portland,OR",Decatur,IN,Portland,OR
+33090484225ec78c00dc72bb6a5c46d7,"Newark,NJ -> Norcross,GA",Newark,NJ,Norcross,GA
+1472e71e0dfbecec547e73f5ab73035d,"Fort Collins,CO -> Minot,ND",Fort Collins,CO,Minot,ND
+820ecaae1119863d6c026333d1b48d9f,"Pleasant Prairie,WI -> Cartersville,GA",Pleasant Prairie,WI,Cartersville,GA
+e3a5319075f58eda016218ced7cfaab1,"Plant City,FL -> Queens,NY",Plant City,FL,Queens,NY
+b223b1ae73900b7825719fcbdfe570ef,"Granite City,IL -> Seneca,KS",Granite City,IL,Seneca,KS
+940baa6682b68df7f50547a552968f82,"St. Louis,MO -> La Vergne,TN",St. Louis,MO,La Vergne,TN
+13c5456a59a57dcaf00e421a63395c7c,"Houston,TX -> Hot Springs,AR",Houston,TX,Hot Springs,AR
+ce6ac0c0267ff647dc7e886fdd506352,"Jacksonville,FL -> Myrtle Beach,SC",Jacksonville,FL,Myrtle Beach,SC
+bcaccd253c43a1d0b31536f9639a1ef4,"Broadalbin,NY -> Frankfort,NY",Broadalbin,NY,Frankfort,NY
+34efc9f0ef30d68ca583cf564caa6c10,"Mount Vernon,OH -> Botkins,OH",Mount Vernon,OH,Botkins,OH
+3a5d43a3cb132cfcbd4a604d788e42ba,"Fort Collins,CO -> Steamboat Springs,CO",Fort Collins,CO,Steamboat Springs,CO
+80bc7a89aac3cd7287ecedc447d7b9cd,"Newark,NJ -> Merrimack,NH",Newark,NJ,Merrimack,NH
+3ae0780c8179ccf3925f8b8e2e7531c4,"Reidsville,NC -> Edison,NJ",Reidsville,NC,Edison,NJ
+a847abef62b7aa852f1218231830c878,"Breinigsville,PA -> Upper Marlboro,MD",Breinigsville,PA,Upper Marlboro,MD
+4ec4017b3c52f9e108d4f52cde285082,"Medley,FL -> Orlando,FL",Medley,FL,Orlando,FL
+3c2f607fd6b347bc400ddcae5f051ea1,"Carson,CA -> McDonough,GA",Carson,CA,McDonough,GA
+94d0ab4ab26881f0e0404cb391faaff0,"Aurora,CO -> Kalispell,MT",Aurora,CO,Kalispell,MT
+7bd1359f1f4ef565b0bc85cadbf14a44,"Houston,TX -> Leonardtown,MD",Houston,TX,Leonardtown,MD
+4e1e6cba6f2215dd5389b232a1dea2ab,"Carlisle,PA -> Manchester,CT",Carlisle,PA,Manchester,CT
+b5b0a3af53d18f4267f08f74e63132ed,"Davenport,IA -> Columbus,OH",Davenport,IA,Columbus,OH
+d6ef60c08a5acc3fbddfe3f3486d3cf1,"Jacksonville,FL -> Charlotte,NC",Jacksonville,FL,Charlotte,NC
+7105c2a0f21577cf2790544efcfab608,"Brighton,MI -> Laredo,TX",Brighton,MI,Laredo,TX
+847233fe7bb661b8ee78d1ba3cd546cd,"Compton,CA -> Tracy,CA",Compton,CA,Tracy,CA
+0439dc7081e146508f1b591c6d697aec,"Newark,NJ -> Granite City,IL",Newark,NJ,Granite City,IL
+2642e35b95818f911e92433a137898a0,"Granite City,IL -> Marquette,MI",Granite City,IL,Marquette,MI
+ff96425c631cd95437833134d815be56,"Lebanon,IN -> York,PA",Lebanon,IN,York,PA
+b76ca160dfd774a6d3ff3dec960fff43,"Flowery Branch,GA -> Canton,OH",Flowery Branch,GA,Canton,OH
+6474dd361b394d9d8cf937ea9bd11196,"Denver,CO -> Layton,UT",Denver,CO,Layton,UT
+f482bac2c0864479ea3cbd0949d5099c,"Brooklyn Park,MN -> Tampa,FL",Brooklyn Park,MN,Tampa,FL
+679002906b0b78dfc30274e01f63f01b,"Newark,NJ -> Cranston,RI",Newark,NJ,Cranston,RI
+72376df9deaafd046a7e5b7210524ba8,"Wanaque,NJ -> Rochester,NY",Wanaque,NJ,Rochester,NY
+9835a15f0490439e26efbfce334de78f,"Philadelphia,PA -> Florence,SC",Philadelphia,PA,Florence,SC
+4067b8d54261c1710510a35efc65a84d,"Newark,NJ -> Olean,NY",Newark,NJ,Olean,NY
+d019aa2e5cdd098f524df2506a4ca28c,"Fort Collins,CO -> Pueblo,CO",Fort Collins,CO,Pueblo,CO
+079fde720368efd3e57f5f87dfe29ffa,"Stowe,PA -> Chapel Hill,TN",Stowe,PA,Chapel Hill,TN
+d5c3aaa7f34139da25ff697a924d563b,"Tracy,CA -> Hebron,KY",Tracy,CA,Hebron,KY
+209d67917368d58ba3dc94fef60afc9a,"St. Louis,MO -> Dundas,MN",St. Louis,MO,Dundas,MN
+33347e97720c9781ee4264fbb090adbf,"Lewistown,PA -> Baldwinsville,NY",Lewistown,PA,Baldwinsville,NY
+645ba85d6298fe7d1a877a7cc48fb278,"Baldwinsville,NY -> Cody,WY",Baldwinsville,NY,Cody,WY
+8d066079e7344ee25e59e908e81cf318,"Sioux City,IA -> Danville,IL",Sioux City,IA,Danville,IL
+96589fb3f694b523ea934e01b5b11563,"Edmond,OK -> Roanoke,TX",Edmond,OK,Roanoke,TX
+24a8c0622919785865a3db574228f963,"Newark,NJ -> Leetsdale,PA",Newark,NJ,Leetsdale,PA
+9352d8c5829e4190a366aeaa6b201dd6,"Nashville,TN -> Laceys Spring,AL",Nashville,TN,Laceys Spring,AL
+3de716c4c1370baf8dc7a4f92211614a,"Newark,NJ -> Schofield,WI",Newark,NJ,Schofield,WI
+f8dd58b6c98b2f24e9306cb7a5e44ebe,"Granite City,IL -> Aurora,IN",Granite City,IL,Aurora,IN
+7a134504a7313f585a4011146d3f344b,"Tampa,FL -> La Palma,CA",Tampa,FL,La Palma,CA
+bff217f398989b4cd88db941a43b40f0,"Compton,CA -> Sacramento,CA",Compton,CA,Sacramento,CA
+5e38fdc5409d9a0ee3b93e228dd57c35,"Chatsworth,IL -> Roseboro,NC",Chatsworth,IL,Roseboro,NC
+c90eb4f1c23f2c87184ccc6c331e941a,"Jacksonville,FL -> Colonial Heights,VA",Jacksonville,FL,Colonial Heights,VA
+3910256bb9b8371218936eb1123e55cd,"Fort Collins,CO -> Wichita Falls,TX",Fort Collins,CO,Wichita Falls,TX
+31c1841ec55c9abc4675a2b6feabe87d,"Porterville,CA -> Garden Grove,CA",Porterville,CA,Garden Grove,CA
+fea6a219bf097a6a9a44d30e451849ae,"Fort Collins,CO -> Upper Marlboro,MD",Fort Collins,CO,Upper Marlboro,MD
+15998472f3cab882a24fbd40e49b4acf,"Sioux City,IA -> Northfield,MN",Sioux City,IA,Northfield,MN
+21f3c822a60abe5f2debbcc116875279,"Cranbury Township,NJ -> Annapolis,MD",Cranbury Township,NJ,Annapolis,MD
+bb27f9250296d697c5f81ce7cd32249c,"Cartersville,GA -> Attalla,AL",Cartersville,GA,Attalla,AL
+adf8d767339d710fefd48460099e3aab,"Fairfield,CA -> Kalispell,MT",Fairfield,CA,Kalispell,MT
+455a0f37489f61a99bcd9359ea7b980d,"Connelly Springs,NC -> Warren,OH",Connelly Springs,NC,Warren,OH
+16173248ee368dc26f702fc79e687552,"Colonial Heights,VA -> Bridgeport,WV",Colonial Heights,VA,Bridgeport,WV
+57ab7e756f693c6e5449a60c401a75f8,"Cartersville,GA -> Bardstown,KY",Cartersville,GA,Bardstown,KY
+118bb2c8a7b709427d6126bdf73803e6,"Freeport,NY -> Brooklyn,NY",Freeport,NY,Brooklyn,NY
+0fcecd5d36c82d01b98e7eb374cb6093,"Lost Hills,CA -> Pacific,WA",Lost Hills,CA,Pacific,WA
+c046024102ef4ce839dfb189dd268b67,"Newark,NJ -> Homestead,FL",Newark,NJ,Homestead,FL
+de1d99d3e66288853cc55fd798e4b8cd,"Bridgewater,NJ -> Rayne,LA",Bridgewater,NJ,Rayne,LA
+5987f61e37c21f69b98ebddddc46b0f2,"Merrimack,NH -> Elizabeth City,NC",Merrimack,NH,Elizabeth City,NC
+129d2c239f3e5248ed4d29d3f89ac093,"Colonial Heights,VA -> Loxley,AL",Colonial Heights,VA,Loxley,AL
+14ba76a3117166010fb13c022fcc81ab,"Aurora,CO -> Miles City,MT",Aurora,CO,Miles City,MT
+2a58aa223a29b62bfb4cecd74570532b,"Newark,NJ -> Auburn,NY",Newark,NJ,Auburn,NY
+a9b339111711ad99b8419d3ba47485de,"Compton,CA -> Forest Park,GA",Compton,CA,Forest Park,GA
+73b41ea6f172a586c823f04baccab9c9,"St. Louis,MO -> Beaumont,TX",St. Louis,MO,Beaumont,TX
+605037fb1db794102beae68230963474,"Cartersville,GA -> Saint Augustine,FL",Cartersville,GA,Saint Augustine,FL
+9cdcb0009d5c3ebce81ceaa8d2016205,"Wapato,WA -> Methuen,MA",Wapato,WA,Methuen,MA
+71f39ce206f96da0296d4637cc13dbd1,"Fairfield,CA -> Cartersville,GA",Fairfield,CA,Cartersville,GA
+6fcd3cc2e0295785d304e0b37c17dda5,"Dunn,NC -> Moonachie,NJ",Dunn,NC,Moonachie,NJ
+467ef44c2ef5fa195cff42ba228740a0,"Dallas,TX -> Davenport,IA",Dallas,TX,Davenport,IA
+1239a73f8c0d6e983c1f0fdbe6e8110c,"Colonial Heights,VA -> Upper Marlboro,MD",Colonial Heights,VA,Upper Marlboro,MD
+f30cdba93c6f52ff4abbecd030e49b0d,"Pine Mountain Valley,GA -> Gastonia,NC",Pine Mountain Valley,GA,Gastonia,NC
+280947c10aef825838fb76ae6f5a277b,"Taft,CA -> Pacific,WA",Taft,CA,Pacific,WA
+71ff64590f379fc03f2eca3ab29d342b,"Fort Collins,CO -> Texarkana,TX",Fort Collins,CO,Texarkana,TX
+d59a7fece673c8a30a7cc091110a4594,"Granite City,IL -> Kokomo,IN",Granite City,IL,Kokomo,IN
+ecbf839fe004f5482d4fbd38690b03a0,"Williamsburg,VA -> Trenton,NJ",Williamsburg,VA,Trenton,NJ
+cea3cdc3287048e0c581e35b44056019,"La Porte,TX -> Lake Charles,LA",La Porte,TX,Lake Charles,LA
+8879b3568cc79ebd1116774155e81a06,"Cartersville,GA -> Savannah,GA",Cartersville,GA,Savannah,GA
+a8b67f4b8ac63c94cd3293cc597a59a0,"Columbus,OH -> Muscle Shoals,AL",Columbus,OH,Muscle Shoals,AL
+22e173b5af40d82a367f37136dc8b2de,"Portland,OR -> Auburn,WA",Portland,OR,Auburn,WA
+851c1985d1d77b7d1c96701bf757779f,"Cartersville,GA -> Knoxville,TN",Cartersville,GA,Knoxville,TN
+7844be4b31cb2eab50b504223face7f3,"Decatur,IN -> Cleveland,NC",Decatur,IN,Cleveland,NC
+018c3887bb72cdaf128d4eced247471b,"North Charleston,SC -> Laredo,TX",North Charleston,SC,Laredo,TX
+07e6fb8fe9643b822abee3ba4192c845,"Laredo,TX -> Conover,NC",Laredo,TX,Conover,NC
+91a171eb1ede735a6e231c0b87043cc6,"St. Louis,MO -> Schofield,WI",St. Louis,MO,Schofield,WI
+5f4e97385a9c9ca5e8a62d7ebcd9f09b,"Brooklyn,NY -> Augusta,GA",Brooklyn,NY,Augusta,GA
+b754edea2e0d3ab47f563e05366a2aad,"La Porte,TX -> Longview,TX",La Porte,TX,Longview,TX
+302fb322b401b2c6c00eb8e215ce3c57,"Winchester,VA -> East Berlin,PA",Winchester,VA,East Berlin,PA
+f6256a25de6252277d6b30bd7194c74d,"Jacksonville,FL -> Spartanburg,SC",Jacksonville,FL,Spartanburg,SC
+6750c7de7dac770f74c99344d94829a1,"Christiansburg,VA -> Lebanon,OH",Christiansburg,VA,Lebanon,OH
+11089b18db875b232f7b7501af9586a7,"Hillsborough Township,NJ -> Philadelphia,PA",Hillsborough Township,NJ,Philadelphia,PA
+bc8b8e6ef67dcfc431c125fdaeaa1ddf,"Fort Collins,CO -> Grand Island,NE",Fort Collins,CO,Grand Island,NE
+5787a74af9977089351f425264801f5f,"Plant City,FL -> Woodbridge Township,NJ",Plant City,FL,Woodbridge Township,NJ
+106614e5a451a08796784b5b487d994f,"Trenton,MO -> Laredo,TX",Trenton,MO,Laredo,TX
+4211c278fe76c00232790c9587855a55,"Sioux City,IA -> Longmont,CO",Sioux City,IA,Longmont,CO
+daea1affdeba64df3e75f4a620c9db48,"Fort Collins,CO -> Moorhead,MN",Fort Collins,CO,Moorhead,MN
+76fb7d8cfab880b086456a7eee1a57ca,"Aurora,CO -> Ogden,UT",Aurora,CO,Ogden,UT
+07522c4ab4dd8ec5b7013c3b209e7732,"Fort Collins,CO -> Cedar City,UT",Fort Collins,CO,Cedar City,UT
+484a2e49a0b23f7b2ced303f27fad5c7,"Reading,PA -> Mundelein,IL",Reading,PA,Mundelein,IL
+b6dd8769d2496839f2a4f22d81f6a2ad,"Normal,IL -> Bryan,OH",Normal,IL,Bryan,OH
+46ab9b7d467bd71c51f6e2757cbf5cbb,"Santa Ana,CA -> Jurupa Valley,CA",Santa Ana,CA,Jurupa Valley,CA
+69cb72dd2ea61c2458a5715e88c61f19,"Dunkirk,IN -> Wilson,NC",Dunkirk,IN,Wilson,NC
+491e74934672eeb4d02f97a174727c0e,"Sycamore,IL -> Lakeland,FL",Sycamore,IL,Lakeland,FL
+f5795191feca53183d8a5b8206a3006f,"Fort Collins,CO -> Portland,OR",Fort Collins,CO,Portland,OR
+ecb69e76be01944a6905202891d57ea9,"Pleasant Prairie,WI -> Williamsburg,VA",Pleasant Prairie,WI,Williamsburg,VA
+1ff6733b0d2953b7dd34f1f0856e6091,"Williamsburg,VA -> Piedmont,SC",Williamsburg,VA,Piedmont,SC
+1ecbbc921a44279aacb7ebd2e6cddf58,"Granite City,IL -> Kirksville,MO",Granite City,IL,Kirksville,MO
+45e31b8991db781c60ec7073ebc247dd,"Cartersville,GA -> Ebro,FL",Cartersville,GA,Ebro,FL
+7218527bf381efc81e468b9e444b0fab,"Medley,FL -> Rome,GA",Medley,FL,Rome,GA
+238adb40847d6c18c5e0bc73f7467a77,"Newark,NJ -> State College,PA",Newark,NJ,State College,PA
+86add9c7948a0dc60662ab731d684336,"Richmond,CA -> Tracy,CA",Richmond,CA,Tracy,CA
+8f0b45bbef650db1824d0ad269addcc4,"Newark,NJ -> Mount Vernon,NY",Newark,NJ,Mount Vernon,NY
+a5bc0ae822e7e436b0e87a090f04db16,"Queens,NY -> Newark,NJ",Queens,NY,Newark,NJ
+3464a85eb0171b9d01c5375b4fd606d3,"Perrysburg,OH -> Toledo,OH",Perrysburg,OH,Toledo,OH
+f5f985c111e32016f6206819e8139dd4,"Miami,FL -> Athens,AL",Miami,FL,Athens,AL
+43d4c0069f5af1257081c97644e8be1f,"Fairfield,CA -> Jacksonville,FL",Fairfield,CA,Jacksonville,FL
+46aa412d72debddd0ccd15b8e312dd07,"Plant City,FL -> Hatfield,MA",Plant City,FL,Hatfield,MA
+adbf22d18ba05ec2d52315df96ba7742,"Wray,CO -> Denver,CO",Wray,CO,Denver,CO
+fff0e397ef4bb5d4a2df36d4371ec7f6,"Georgetown,SC -> Lexington,NC",Georgetown,SC,Lexington,NC
+c151427cafaa314d37c45c435329d103,"Owensboro,KY -> Grand Rapids,MI",Owensboro,KY,Grand Rapids,MI
+f16db9a293d6e1b761d609648f8a0db2,"Dublin,VA -> Mount Holly,NC",Dublin,VA,Mount Holly,NC
+410f9132f624f1c7c36dc2a1cfbd2e45,"Edinburg,VA -> York,PA",Edinburg,VA,York,PA
+219c5cb7c3a28974a480970f7df533c5,"Lakewood,NY -> Statesville,NC",Lakewood,NY,Statesville,NC
+8f2f387468fbdecbc0f0a2d91511e768,"Lakeland,FL -> Compton,CA",Lakeland,FL,Compton,CA
+82cff93f4ce52b1f1363a819fb999c33,"Holiday City,OH -> Baldwinsville,NY",Holiday City,OH,Baldwinsville,NY
+58237539298dd519710268b13f0ccbbe,"St. Louis,MO -> Cartersville,GA",St. Louis,MO,Cartersville,GA
+894fdb76158bac6ebc1bf072dcd148f9,"Spring Valley,NY -> Waterbury,CT",Spring Valley,NY,Waterbury,CT
+e2be1f03a77f13680a13062a0ad9ece5,"Aurora,CO -> Omaha,NE",Aurora,CO,Omaha,NE
+e686f1eea83b1c41fcf4a84300a3acff,"Pennsauken Township,NJ -> Newark,NJ",Pennsauken Township,NJ,Newark,NJ
+30b76096158689cc8c892d8c556cd75e,"Fairfield,CA -> Merrimack,NH",Fairfield,CA,Merrimack,NH
+d41c1f8164cbe937868cdb47c96d45cd,"Santa Ana,CA -> Sacramento,CA",Santa Ana,CA,Sacramento,CA
+b713f1f470862a672caec5c474ee3ee5,"Las Vegas,NV -> Chicago,IL",Las Vegas,NV,Chicago,IL
+ea4876b649954bc78b593cdfd77e60b1,"Granite City,IL -> Charter Township of Clinton,MI",Granite City,IL,Charter Township of Clinton,MI
+a35e99913ffee3b361a86e16b5871d5b,"Granite City,IL -> Sauk Rapids,MN",Granite City,IL,Sauk Rapids,MN
+73d03e96722d2dcedbe743095af8a42e,"Columbus,OH -> Johnstown,PA",Columbus,OH,Johnstown,PA
+ae5c00374ad0a0ad09a26de442de58e5,"Commerce,CA -> Chandler,AZ",Commerce,CA,Chandler,AZ
+d664f3f6240d7f6dd47ebc9963d6df1e,"Baldwinsville,NY -> Little Falls,NY",Baldwinsville,NY,Little Falls,NY
+7fef6d6d3c5f883356866d3804b079ee,"Newark,NJ -> Tampa,FL",Newark,NJ,Tampa,FL
+c0e0f0699a86b5af9945bea99683b4c1,"Lockport,IL -> Cleveland,NC",Lockport,IL,Cleveland,NC
+7680d5c93a90a2054a78bca3f3fac0e5,"Georgetown,SC -> Anaheim,CA",Georgetown,SC,Anaheim,CA
+d9b55bc4add4c4d7ea5f4f011d37842d,"Laredo,TX -> Milwaukee,WI",Laredo,TX,Milwaukee,WI
+321372e7243d967eefa01aaf1919c04a,"Columbus,OH -> Erie,PA",Columbus,OH,Erie,PA
+65122734a605a362d72e0eb8f620cbef,"Huntingdon,TN -> Darlington,SC",Huntingdon,TN,Darlington,SC
+1a4cd07b5d1ef91abf37f73825d5156a,"La Palma,CA -> Plant City,FL",La Palma,CA,Plant City,FL
+bf0f74965495aa62122a443cc9e40480,"Baldwinsville,NY -> Columbus,OH",Baldwinsville,NY,Columbus,OH
+0793f0bc2d869d4fb035365cdd701902,"St. Louis,MO -> Metairie,LA",St. Louis,MO,Metairie,LA
+5b5255e6d337e62eb898904e4511d085,"Aurora,CO -> Amarillo,TX",Aurora,CO,Amarillo,TX
+37de9e9f207e8f67686fd0aeb2331730,"La Porte,TX -> Madisonville,LA",La Porte,TX,Madisonville,LA
+941c897175021ba352f907d2aa599068,"Fort Collins,CO -> Durango,CO",Fort Collins,CO,Durango,CO
+bc7f43195c7ab61355fa65edc10ba5c2,"Bridgewater,NJ -> York,PA",Bridgewater,NJ,York,PA
+729cc7924a40eb4a48f0afca2888e303,"Aurora,CO -> Glenwood Springs,CO",Aurora,CO,Glenwood Springs,CO
+554308f3f821fc22d69d660c750feb8d,"Chillicothe,OH -> Portland,OR",Chillicothe,OH,Portland,OR
+7922999ad95b399472194d537bbbee7d,"Fort Collins,CO -> Puyallup,WA",Fort Collins,CO,Puyallup,WA
+2ef38921b106a48d8962cfff5299c259,"Columbus,OH -> Jacksonville,FL",Columbus,OH,Jacksonville,FL
+4c40a7916b626a6f8ec306635471f3ab,"Vineland,NJ -> Bronx,NY",Vineland,NJ,Bronx,NY
+a4fb9e8e685efe985128bd3838673d8d,"Houston,TX -> Houma,LA",Houston,TX,Houma,LA
+f2056bf224f8a1194d563aabfce05d6c,"Statesville,NC -> Canton,OH",Statesville,NC,Canton,OH
+aa893a344049f2f61d936f9ad76c5519,"Warrenton,VA -> Ephrata,PA",Warrenton,VA,Ephrata,PA
+fc8d7b3bfaeb3f413df5da101571d3b8,"Casa Grande,AZ -> San Diego,CA",Casa Grande,AZ,San Diego,CA
+1af7ea14b8ff389140b40d1c31e12f48,"Bolingbrook,IL -> Tracy,CA",Bolingbrook,IL,Tracy,CA
+c2312dff519279a8e73390d067a94af9,"Houston,TX -> Pacific,WA",Houston,TX,Pacific,WA
+c9a726ae0b71bc2b2414cc533c190fe1,"Goose Creek,SC -> Charlotte,NC",Goose Creek,SC,Charlotte,NC
+f217674c41032c1cedaa29ee31d49419,"Lynn,MA -> Newark,NJ",Lynn,MA,Newark,NJ
+d4471085ef8e2fc0086b9858d5b9a49d,"Trenton,MO -> Mount Holly,NC",Trenton,MO,Mount Holly,NC
+5fe93a8f269a2a7c0a534d67adfdd310,"Granite City,IL -> Brecksville,OH",Granite City,IL,Brecksville,OH
+7e85d41d57a1f067b18eaef49316233c,"Statesboro,GA -> Brooklyn,NY",Statesboro,GA,Brooklyn,NY
+e6354df2808879ff04db37d483c43e5d,"Baldwinsville,NY -> Chesapeake,VA",Baldwinsville,NY,Chesapeake,VA
+d3d5e00e14384a0a0f0f51d67cbf6275,"Houston,TX -> Hutchinson,KS",Houston,TX,Hutchinson,KS
+e8de23bf64c0dbb200cc0128574c99e2,"Pittsburgh,PA -> Tolleson,AZ",Pittsburgh,PA,Tolleson,AZ
+04474b8cfbee7705d78d6f8e16e81960,"Quincy,WA -> Brea,CA",Quincy,WA,Brea,CA
+a8b5b833224e6e6f1a54144d322c4259,"Los Angeles,CA -> Watsonville,CA",Los Angeles,CA,Watsonville,CA
+43ee035c6e9f21e0f1b548f0c9211ed5,"La Pine,OR -> Tolleson,AZ",La Pine,OR,Tolleson,AZ
+2aa3e857fbeefd7d5ca1423efe61fae9,"Gulfport,MS -> Upper Marlboro,MD",Gulfport,MS,Upper Marlboro,MD
+31728a1d092e63e0a190109857ba64eb,"Granite City,IL -> Thief River Falls,MN",Granite City,IL,Thief River Falls,MN
+80e48a5b3a5d47eb8e6fd01cab648813,"Upper Marlboro,MD -> Methuen,MA",Upper Marlboro,MD,Methuen,MA
+ea6e20f767fdb067dbb8f2c3fe2d84cd,"Wyomissing,PA -> Mundelein,IL",Wyomissing,PA,Mundelein,IL
+5255c824b96f3dbfb9c934729e1f23e7,"Williamsburg,VA -> Elkins,WV",Williamsburg,VA,Elkins,WV
+2097d2fbb15fac5d64ab761259f8b741,"Phoenix,AZ -> Downey,CA",Phoenix,AZ,Downey,CA
+b499b47cd1a7189e8bf966e812bfabb6,"Williamsburg,VA -> San Antonio,TX",Williamsburg,VA,San Antonio,TX
+da4af4cdc878cafeed1cfad8126ec2cc,"Granite City,IL -> Muskegon Heights,MI",Granite City,IL,Muskegon Heights,MI
+b86be562e5c7edaec5f206c257d026a2,"Brooklyn,NY -> Jersey City,NJ",Brooklyn,NY,Jersey City,NJ
+91bffdf210fa3d006ceeb25518360355,"Pasadena,TX -> Commerce,TX",Pasadena,TX,Commerce,TX
+eaffa58cefaa58553fae537d29f12813,"Tennille,GA -> Vienna,GA",Tennille,GA,Vienna,GA
+ae8822de78e376de22310132211b6ebf,"Tucson,AZ -> Methuen,MA",Tucson,AZ,Methuen,MA
+db0ceb6ee0fa4926780ff5b5c3fc8945,"Anderson,SC -> Warren,OH",Anderson,SC,Warren,OH
+0c876ed442699e92124f212a910379ad,"Los Angeles,CA -> Greensboro,NC",Los Angeles,CA,Greensboro,NC
+675f94375f59446afaecef32260f81a5,"Broomfield,CO -> Las Vegas,NV",Broomfield,CO,Las Vegas,NV
+d8dad47697c248b7371f24c103d0e777,"Columbus,OH -> Danville,VA",Columbus,OH,Danville,VA
+b0b12a73fdcfa6d4b49656fae756aef5,"Granite City,IL -> Muskegon,MI",Granite City,IL,Muskegon,MI
+3225e2c323695ed1c2dc1c45c2969c55,"Carlisle,PA -> Orange,CT",Carlisle,PA,Orange,CT
+6c8823550dfa59ffb84ff9dd0fbc5724,"Williamsburg,VA -> Greensboro,NC",Williamsburg,VA,Greensboro,NC
+4f383d38cf4ec8690ea4fbdb93c15215,"St. Louis,MO -> Rogers,MN",St. Louis,MO,Rogers,MN
+bb14c5222691423095a57648364c6e32,"Newark,NJ -> Warren,MI",Newark,NJ,Warren,MI
+9eebd33390296b8a30577d6b5f58791c,"Brooklyn,NY -> Kearny,NJ",Brooklyn,NY,Kearny,NJ
+fa8ec741e47b59d69218b8534c9d06af,"Granite City,IL -> Albert Lea,MN",Granite City,IL,Albert Lea,MN
+a59159f8e283e89edd422f7dec9f6918,"Fort Collins,CO -> Elko,NV",Fort Collins,CO,Elko,NV
+c025f5c5437bf65bc376d3a27933397a,"Granite City,IL -> Sioux City,IA",Granite City,IL,Sioux City,IA
+4907c17c7f0cb9891aa82d9ab9eaeca0,"Mount Ayr,IA -> Laceys Spring,AL",Mount Ayr,IA,Laceys Spring,AL
+3cd03c2929be7a22d3928f28d666aeed,"St. Louis,MO -> Decatur,IL",St. Louis,MO,Decatur,IL
+a256b03736caec904f1ab7498d71b7c5,"Santa Ana,CA -> Mount Sterling,IL",Santa Ana,CA,Mount Sterling,IL
+f0feb613faf62b476ddcb7b4ac30be8a,"Cartersville,GA -> Charleston,SC",Cartersville,GA,Charleston,SC
+2dd596b8dd223a8c305fb79d747b7506,"Zion,IL -> Athens,TN",Zion,IL,Athens,TN
+bbc4bf7137a515d78a60cc61e82fcb8f,"Newark,NJ -> Baldwinsville,NY",Newark,NJ,Baldwinsville,NY
+967882d33a9640380eb01a9c46c9f783,"Houston,TX -> Victoria,TX",Houston,TX,Victoria,TX
+e1ecbaa482a672537bcac23341859a13,"Marion,VA -> York,PA",Marion,VA,York,PA
+843ba62ed01183e15fae88191112dd56,"La Porte,TX -> Alexandria,LA",La Porte,TX,Alexandria,LA
+d3ecf55011516708805defa1b40363a6,"El Campo,TX -> Snyder,TX",El Campo,TX,Snyder,TX
+43dfc9bffcc00716bc4e6921adaff7a8,"Tampa,FL -> Laceys Spring,AL",Tampa,FL,Laceys Spring,AL
+82e2e3bdf7e572281d2ce546db4712da,"Carlisle,PA -> Gardiner,ME",Carlisle,PA,Gardiner,ME
+31bfd2111657abeeb28644ea93637040,"Trenton,MO -> Reno,NV",Trenton,MO,Reno,NV
+2ddb298668585f46884e3023cf961518,"Mount Vernon,OH -> Dayton,OH",Mount Vernon,OH,Dayton,OH
+03c5e54f886a0f4d1ebc3ff68c964926,"Forest City,NC -> Portland,OR",Forest City,NC,Portland,OR
+e6422bd2101eabdc5dc410dfd0336ab7,"Jacksonville,AL -> Brooklyn Park,MN",Jacksonville,AL,Brooklyn Park,MN
+2452a01ee2d4d60f31c225cfe8544b0d,"Dickson,TN -> Plant City,FL",Dickson,TN,Plant City,FL
+8a1a5d95e30db07d08a84f6a0d364cfe,"Houston,TX -> Attalla,AL",Houston,TX,Attalla,AL
+98a63b993962006578db7d27785ba2ad,"St. Louis,MO -> Cedar Rapids,IA",St. Louis,MO,Cedar Rapids,IA
+69bb900b91c58c1c19d2f71d81c5e397,"Santa Ana,CA -> Goodyear,AZ",Santa Ana,CA,Goodyear,AZ
+9e3178e815f727733924d930a77494ca,"Wapato,WA -> Portland,OR",Wapato,WA,Portland,OR
+6bf2ecda580e5f92ae04292f73392b0e,"Geneva,IL -> Tracy,CA",Geneva,IL,Tracy,CA
+e18a6d717d2bad88e2aa0223385e00d2,"Newark,NJ -> Jacksonville,FL",Newark,NJ,Jacksonville,FL
+727270b468af32d6d267ed98c7f36452,"Los Angeles,CA -> La Porte,TX",Los Angeles,CA,La Porte,TX
+279949fba5e51832ce17788c065a7b93,"Janesville,WI -> Roanoke,TX",Janesville,WI,Roanoke,TX
+0180c1e6cd09ef9c6339d4bc77eab933,"Pittston,PA -> Deerfield Beach,FL",Pittston,PA,Deerfield Beach,FL
+bce7b744d5b41440ac5fcedce7b557d4,"Janesville,WI -> Houston,TX",Janesville,WI,Houston,TX
+a8f90572b5ba9a6800b909e25f292b02,"Valparaiso,IN -> Ankeny,IA",Valparaiso,IN,Ankeny,IA
+9652706d702250ce20d31422c0b3b27a,"Pittston,PA -> Newington,CT",Pittston,PA,Newington,CT
+d73d883b02273efa169d123889941da6,"Waterloo,WI -> Wilmington,IL",Waterloo,WI,Wilmington,IL
+f3daf3950b7580baa33a6edca1cc87ff,"Lathrop,CA -> Tracy,CA",Lathrop,CA,Tracy,CA
+6b50fe664d56cca9be86e9707feddeb4,"Fresno,CA -> Colton,CA",Fresno,CA,Colton,CA
+35f5b9dde263413f735ab86ce0e93315,"Cartersville,GA -> Henderson,NC",Cartersville,GA,Henderson,NC
+f230281cd0a8fc8961de4b0145d290b7,"St. Louis,MO -> Hannibal,MO",St. Louis,MO,Hannibal,MO
+30f3c67637c4c82233fa9f20957353e8,"Reading,PA -> Gouverneur,NY",Reading,PA,Gouverneur,NY
+30bd933b4c31dcf9b4051946d1ef9a27,"Los Angeles,CA -> Tracy,CA",Los Angeles,CA,Tracy,CA
+2d14223555ff1c7ff89f405b361a31fb,"Edison,NJ -> Sandston,VA",Edison,NJ,Sandston,VA
+a31cac4fad53e106e3dd7246f70e7d81,"Winnsboro,TX -> Roanoke,TX",Winnsboro,TX,Roanoke,TX
+68c94558483d757b049e522886c27388,"Compton,CA -> Stockton,CA",Compton,CA,Stockton,CA
+b77adc788273ca1aef04f2304c15e5c6,"Los Angeles,CA -> Fallon,NV",Los Angeles,CA,Fallon,NV
+4c18ea978b1c6bcde717c5efbdf340dd,"Newark,NJ -> Rock Hill,SC",Newark,NJ,Rock Hill,SC
+06343a5c92efad68eb09ec4fd25d2af8,"Edgemere,MD -> Altoona,PA",Edgemere,MD,Altoona,PA
+c1c8d416a85fc0d28ed5f4b9aea7a9e0,"Olean,NY -> Romeoville,IL",Olean,NY,Romeoville,IL
+9fdea333c6909204767b9744cfff3b99,"Little Falls,NY -> Fort Collins,CO",Little Falls,NY,Fort Collins,CO
+facc296aa00dafac18d6bb507263d5e1,"St. Louis,MO -> Eugene,OR",St. Louis,MO,Eugene,OR
+4e5b43b7b978403823a64b08d02d41de,"Newark,NJ -> Athens,GA",Newark,NJ,Athens,GA
+20ebd37c937b1387d774919dde14f4d9,"Philadelphia,PA -> Gastonia,NC",Philadelphia,PA,Gastonia,NC
+bedf468c93a595d9ac0b9088986200c1,"Carlisle,PA -> Philadelphia,PA",Carlisle,PA,Philadelphia,PA
+62661bc6a66ef6914a5619c44697e74a,"Thermal,CA -> Portland,OR",Thermal,CA,Portland,OR
+81b31b6f6ae97b6a83db690ef212310c,"Santa Ana,CA -> Monroe Township,NJ",Santa Ana,CA,Monroe Township,NJ
+a0d3589a06d12e85d4ff022a22a5380a,"St. Louis,MO -> Ocala,FL",St. Louis,MO,Ocala,FL
+64a3ef424ff693db0f23c01d6a5b9b59,"Granite City,IL -> Grand Forks,ND",Granite City,IL,Grand Forks,ND
+f29592c868cf9e15de555c9344ab03b6,"South Jordan,UT -> Tolleson,AZ",South Jordan,UT,Tolleson,AZ
+248fd74d6a70f5bb99a17dc02f07afe9,"St. Louis,MO -> Carroll,IA",St. Louis,MO,Carroll,IA
+52bca50c9422392e53becd1acb6086b6,"Dallas,TX -> Lowell,AR",Dallas,TX,Lowell,AR
+05d443883c9cb96c1e033bae085bfdd8,"Laredo,TX -> Pasadena,TX",Laredo,TX,Pasadena,TX
+f351d6ae38276c4cec7bd0988a8f6757,"Williamsburg,VA -> Aurora,CO",Williamsburg,VA,Aurora,CO
+2d6bc04d091c4cdfa8b812bcd3ed31e6,"Braithwaite,LA -> Fleetwood,PA",Braithwaite,LA,Fleetwood,PA
+1220aabfc4bfc694041dcc63909b9124,"Westfield,MA -> Franklin Park,IL",Westfield,MA,Franklin Park,IL
+cc096a30f8c8046a1f6040b8c5470010,"Toledo,OH -> Canton,OH",Toledo,OH,Canton,OH
+a8399d96318f9ae046cdf2acb0efb463,"Conover,NC -> Newton,NC",Conover,NC,Newton,NC
+83ec0c26f32644a64bc4f5ed4a6c8480,"Stockton,CA -> Pacific,WA",Stockton,CA,Pacific,WA
+10e61ae360b8bd83af1859978647445e,"Granite City,IL -> Bad Axe,MI",Granite City,IL,Bad Axe,MI
+8895f4bf2acc451db6253d6e45762df9,"Fort Collins,CO -> Eugene,OR",Fort Collins,CO,Eugene,OR
+856f256902752bf7cb32252eed151e0a,"La Porte,TX -> Austin,TX",La Porte,TX,Austin,TX
+d689edce374ba57a24be6773cbac093a,"Hood River,OR -> Cowiche,WA",Hood River,OR,Cowiche,WA
+42128f3618d009a4820b8d8a1043cec5,"Houston,TX -> Amarillo,TX",Houston,TX,Amarillo,TX
+a442add6796c1550ac3a2498c708174b,"Xenia,OH -> Swedesboro,NJ",Xenia,OH,Swedesboro,NJ
+2b97e004d20cd660f23539bb1dee68d5,"Sioux City,IA -> Republic,MO",Sioux City,IA,Republic,MO
+840b7fbb75dd928e651aa22e57dcf4ce,"Greenville,SC -> Laceys Spring,AL",Greenville,SC,Laceys Spring,AL
+289d65fe538d8389af0588d75e1a36de,"Bolingbrook,IL -> Swedesboro,NJ",Bolingbrook,IL,Swedesboro,NJ
+97a3245832c50cf9f8894ffba202f192,"Lake Wales,FL -> Evans City,PA",Lake Wales,FL,Evans City,PA
+408238da51b1d156e7400bc34b794a54,"Tampa,FL -> Lockport,NY",Tampa,FL,Lockport,NY
+e1431036dac762f97fa8e47d0976b3da,"Granite City,IL -> Peru,IN",Granite City,IL,Peru,IN
+fb82b1220af9d68cbb9f0109daa13928,"La Porte,TX -> Albuquerque,NM",La Porte,TX,Albuquerque,NM
+bd71a94f96e6e3c8799d1d56bfa2156a,"Tamaqua,PA -> East Jordan,MI",Tamaqua,PA,East Jordan,MI
+f190201d73bb3d5b77baf313a53eebae,"Granite City,IL -> West Union,IA",Granite City,IL,West Union,IA
+0e46f8dee7041539ab363a0aca561e9c,"St. Louis,MO -> Osage City,KS",St. Louis,MO,Osage City,KS
+2724d2b0c4b7a97196ecfb7aa777fef0,"Hackensack,NJ -> Brazil,IN",Hackensack,NJ,Brazil,IN
+b7742be3ee1993062f57c003483f5bfd,"Hanover,PA -> Portland,OR",Hanover,PA,Portland,OR
+6ea3d5a3dc435de4c79f61eb1dd02e09,"St. Louis,MO -> Thief River Falls,MN",St. Louis,MO,Thief River Falls,MN
+93b2377b47928bf2e5a29bf35beccb27,"Granite City,IL -> East Peoria,IL",Granite City,IL,East Peoria,IL
+c758af6fbbf9b6689518b0dda746017d,"Newark,NJ -> Old Forge,PA",Newark,NJ,Old Forge,PA
+417089636d0d8740d572f4d2ed12394b,"St. Louis,MO -> Alexandria,MN",St. Louis,MO,Alexandria,MN
+066b15c96180586154fc69282e61ab5b,"Granite City,IL -> Anderson,IN",Granite City,IL,Anderson,IN
+d452e25ad44a22151e86fd838d56d6ce,"Jacksonville,FL -> Goldsboro,NC",Jacksonville,FL,Goldsboro,NC
+b89c44f59a3ddd3f0bd806ae780f5d0b,"Williamsburg,VA -> Beaver,WV",Williamsburg,VA,Beaver,WV
+09ae3442049559bc002364e57d366291,"Bethlehem,PA -> Plant City,FL",Bethlehem,PA,Plant City,FL
+494f2b671c44a70e789a24ed1e9b438f,"Holiday City,OH -> St. Louis,MO",Holiday City,OH,St. Louis,MO
+64bb6a801dd4c8bbd5804b5f7877a49e,"Fort Collins,CO -> Sauk Rapids,MN",Fort Collins,CO,Sauk Rapids,MN
+5764f7998c6db74b2099722a100ad721,"La Porte,TX -> Abilene,TX",La Porte,TX,Abilene,TX
+663b1e533485da3d7dfd7f8b84b5b83c,"Lodi,CA -> Pacific,WA",Lodi,CA,Pacific,WA
+bdc14a6ed13484761b57f6108a1c2357,"Baldwinsville,NY -> Newark,NJ",Baldwinsville,NY,Newark,NJ
+574f5f205dbf01f520efe7fb9e785047,"Wabash,IN -> Glasgow,KY",Wabash,IN,Glasgow,KY
+8b1ac567186b4c76d917319fd7053901,"Los Angeles,CA -> Richmond,CA",Los Angeles,CA,Richmond,CA
+6808862e894aa92c3954ebdded1762e0,"McKenzie,TN -> West Monroe,LA",McKenzie,TN,West Monroe,LA
+80302ecd5af5e079a9736d684f947d16,"Fairfield,CA -> Visalia,CA",Fairfield,CA,Visalia,CA
+bb639a1b8c4c4cd58da6bd74f159bc8a,"Plant City,FL -> McDonough,GA",Plant City,FL,McDonough,GA
+7a86629c33311911977ea5459e40ed1c,"Jacksonville,FL -> Winston-Salem,NC",Jacksonville,FL,Winston-Salem,NC
+d84400e8f27bf97fb287472b2af06c10,"Hawkins,TX -> Roanoke,TX",Hawkins,TX,Roanoke,TX
+c343565b6de0830a492c0c65091fbe44,"Westfield,MA -> Avon,MA",Westfield,MA,Avon,MA
+07f04a824fa453afb91d10df60f7fe1b,"Philadelphia,PA -> Altoona,PA",Philadelphia,PA,Altoona,PA
+80ee00d4d58fc626660289289f46ebd1,"Sunnyvale,TX -> Roanoke,TX",Sunnyvale,TX,Roanoke,TX
+faee050ea72a7431efb28f10559e9e6b,"Plant City,FL -> Jacksonville,FL",Plant City,FL,Jacksonville,FL
+f0ec952d229a7dc6a4ada3cbd7ee40c1,"Pescadero,CA -> Commerce,CA",Pescadero,CA,Commerce,CA
+0649e1f9c4defa33c5ec8cb228ba1d80,"Williamsburg,VA -> Rock Hill,SC",Williamsburg,VA,Rock Hill,SC
+d082a3bf86dbf9c45ede472cec888a52,"St. Louis,MO -> Parkersburg,WV",St. Louis,MO,Parkersburg,WV
+e97ba3a3983596728a5d39e6a1014ad9,"Tuscaloosa,AL -> Paris,TX",Tuscaloosa,AL,Paris,TX
+2456125bdd024b3f13693fd00abad8e6,"Casa Grande,AZ -> Fremont,CA",Casa Grande,AZ,Fremont,CA
+c9ecfe55f386605835ec29d4a2fa3b08,"Baltimore,MD -> Clinton,NY",Baltimore,MD,Clinton,NY
+1c6ed03d1d29064c7d8161e22ef3b788,"Laredo,TX -> Houston,TX",Laredo,TX,Houston,TX
+047bb83873469848c142a84813e00060,"Mukilteo,WA -> Pacific,WA",Mukilteo,WA,Pacific,WA
+f8d4bb671814cb626d72bd7feaec4d6d,"Orlando,FL -> Commerce,GA",Orlando,FL,Commerce,GA
+42ed7171a2f13a33e94b8156a7ad6dba,"Pleasant Prairie,WI -> St. Louis,MO",Pleasant Prairie,WI,St. Louis,MO
+4c45f030851a120457424494ae922051,"Monte Vista,CO -> Tracy,CA",Monte Vista,CO,Tracy,CA
+a8a5233100e1f46eaf292370ede1a823,"Plant City,FL -> Uxbridge,MA",Plant City,FL,Uxbridge,MA
+c1eeb3ab51147bc717c8569101221c14,"Columbus,OH -> Pevely,MO",Columbus,OH,Pevely,MO
+af53d45c26215a6a3ef02a92539db842,"Pittsburgh,PA -> Greenfield,IN",Pittsburgh,PA,Greenfield,IN
+6c96ab6f7838fa39776d32daad9ff2e1,"Philadelphia,PA -> Chapel Hill,TN",Philadelphia,PA,Chapel Hill,TN
+699f88bd38b3844b6eeeccb311cae608,"Columbus,OH -> York,PA",Columbus,OH,York,PA
+416f7432b20e322c8dda64b59829b494,"Jacksonville,FL -> Bowling Green,KY",Jacksonville,FL,Bowling Green,KY
+9b82be71a8e315a392eac55fd95da8a5,"St. Louis,MO -> Columbus,OH",St. Louis,MO,Columbus,OH
+15427c08a82a27e3baa99024c50b36fe,"Los Angeles,CA -> Layton,UT",Los Angeles,CA,Layton,UT
+e346d5b2d9dc10e7cbe57c5e2f26c3da,"La Porte,TX -> Aurora,CO",La Porte,TX,Aurora,CO
+effc70a8814c6e2ad5c69c39571d1270,"St. Louis,MO -> Dubuque,IA",St. Louis,MO,Dubuque,IA
+e65ec1e1efa5b3fb97f256431c5d1334,"Houston,TX -> Ebro,FL",Houston,TX,Ebro,FL
+5e43d2cf0de786a29476a57ec66f85ea,"Colonial Heights,VA -> Rock Hill,SC",Colonial Heights,VA,Rock Hill,SC
+29ac60a838dbcdbdcfcff20b9612d0a2,"Orlando,FL -> Plant City,FL",Orlando,FL,Plant City,FL
+40a552c6cbfdcd2c82856d0039b64cfe,"Rio Rico,AZ -> Phoenix,AZ",Rio Rico,AZ,Phoenix,AZ
+2306ebb5dfa6b814f7466686b12115da,"Portland,OR -> Wood Dale,IL",Portland,OR,Wood Dale,IL
+c7cf4e3a760d486eb635b0a3bdae3410,"Columbus,OH -> Fredericksburg,VA",Columbus,OH,Fredericksburg,VA
+160e2fa27e59ee80009cc802677c679d,"Aurora,CO -> Grand Island,NE",Aurora,CO,Grand Island,NE
+4a509eb36830146cd94911b46c19815d,"Portsmouth,VA -> Aurora,IL",Portsmouth,VA,Aurora,IL
+808f7093915a189e90f109774345b715,"Harleysville,PA -> Hebron,KY",Harleysville,PA,Hebron,KY
+b435ed5a6bbac06a2934ddedddfebd8f,"St. Louis,MO -> Cranston,RI",St. Louis,MO,Cranston,RI
+6388c118ca4d8560304a24d2edc8e8f2,"McCook,NE -> Rosemount,MN",McCook,NE,Rosemount,MN
+2b8b0fc60d4649a340a3d78e4119b724,"Cartersville,GA -> Goldsboro,NC",Cartersville,GA,Goldsboro,NC
+dc6a50ba130e941ee4cc8d605d53576d,"Tampa,FL -> Santa Ana,CA",Tampa,FL,Santa Ana,CA
+c7b2fff71c613b18969e2e50e6025c5d,"Aurora,CO -> Hayden,ID",Aurora,CO,Hayden,ID
+05716a3ef9030f73f0e6a702b390f587,"La Porte,TX -> Los Angeles,CA",La Porte,TX,Los Angeles,CA
+f4b83ae53e4ef4e819d34c7510236b1d,"St. Louis,MO -> Fridley,MN",St. Louis,MO,Fridley,MN
+4a695b0842138ee209f07b65f65be61d,"Houston,TX -> Metairie,LA",Houston,TX,Metairie,LA
+d479a01056a1f79439a295d270c7afee,"Pittston,PA -> Swedesboro,NJ",Pittston,PA,Swedesboro,NJ
+0189ec8c91dd4b4b3c480ab4ccfd9914,"Orlando,FL -> Fort Payne,AL",Orlando,FL,Fort Payne,AL
+4253f58e99b84a0f1ec3b853a6a834b4,"Fort Collins,CO -> Leonardtown,MD",Fort Collins,CO,Leonardtown,MD
+8b67d55071b176eb61fbcc27f13f5ba6,"Newark,NJ -> Atlanta,GA",Newark,NJ,Atlanta,GA
+59199764840a445bbefb068d988cf861,"Williamsburg,VA -> Pinellas Park,FL",Williamsburg,VA,Pinellas Park,FL
+4ec05654beb22769190489337b613cbb,"Martinsburg,WV -> Flint,MI",Martinsburg,WV,Flint,MI
+6698a20b061e4b79061a16ad0b3628ab,"Brooklyn Park,MN -> Bolingbrook,IL",Brooklyn Park,MN,Bolingbrook,IL
+c657601255ddb78e6686e249364c8fc7,"Fort Payne,AL -> Orlando,FL",Fort Payne,AL,Orlando,FL
+4ae79a4d90d78c04e04a0c2cabed99e1,"Newark,NJ -> Westmoreland,NY",Newark,NJ,Westmoreland,NY
+3aa30e97b019acac1202b9d1d85fc117,"Newark,NJ -> Jackson,TN",Newark,NJ,Jackson,TN
+be4d05755f6f6c02b3bb8fe6673aad39,"Fostoria,OH -> Wells,ME",Fostoria,OH,Wells,ME
+557d4ae65ebff3a9d0f3c71421bfe0d4,"1,LA -> Fleetwood,PA",1,LA,Fleetwood,PA
+6caa3a29d401b9e863953004d4f1fcf4,"Aurora,CO -> Elko,NV",Aurora,CO,Elko,NV
+d5bbd8cbc39416151bfc988836a1aa2c,"Clayton,NC -> Tampa,FL",Clayton,NC,Tampa,FL
+d6e744b914923dcd91b4658efff91b44,"Fort Collins,CO -> Prescott Valley,AZ",Fort Collins,CO,Prescott Valley,AZ
+6c7a00da538b039121eea7bcfab9b6b6,"Kutztown,PA -> Shipshewana,IN",Kutztown,PA,Shipshewana,IN
+a66b335b6a0f8564273890e6af78e454,"Georgetown Township,MI -> York,PA",Georgetown Township,MI,York,PA
+1c788ec3e03022612cb6f5d3a9de79f7,"Colonial Heights,VA -> Daytona Beach,FL",Colonial Heights,VA,Daytona Beach,FL
+7a88211f10cbf8e3ce99b8575bc6ccf9,"Plant City,FL -> Warren,MI",Plant City,FL,Warren,MI
+374bc62bb9968e20efc5eaf5a4436d4e,"Louisville,KY -> Paris,TN",Louisville,KY,Paris,TN
+cdddac14afbeed7205903df3bfcf5c5e,"Portage,IN -> Cleveland,NC",Portage,IN,Cleveland,NC
+844869a05e6bcca539b4c98ceafbec8a,"Gonzales,CA -> Upper Marlboro,MD",Gonzales,CA,Upper Marlboro,MD
+f94298a7f428ce9e4ba2963bc49e397c,"St. Louis,MO -> Wheeling,WV",St. Louis,MO,Wheeling,WV
+a7e1492e6de9fed7b52386275b87fd6c,"Jacksonville,FL -> Meridian,MS",Jacksonville,FL,Meridian,MS
+7ec133698446a355c75c73b111191f6f,"Orlando,FL -> Bryan,OH",Orlando,FL,Bryan,OH
+2b1902cc2f920fa6393d78f8fb2ad705,"Newark,NJ -> Jamestown,NY",Newark,NJ,Jamestown,NY
+df759c94b652c79f3b3f7a62d1fafe10,"Tuscaloosa,AL -> Cincinnati,OH",Tuscaloosa,AL,Cincinnati,OH
+f146cccedb761b053bc3dd22ff2506ad,"Brawley,CA -> Delano,CA",Brawley,CA,Delano,CA
+27339ef38be6a27f2fc73572f816fd51,"Kutztown,PA -> Deer Park,NY",Kutztown,PA,Deer Park,NY
+2baf579f44f3e2995a015535962df96a,"Greencastle,IN -> Winchester,KY",Greencastle,IN,Winchester,KY
+dd97fbf14b3df8a792b270f771298a74,"Waterbury,CT -> Newark,NJ",Waterbury,CT,Newark,NJ
+23a2b114a9db873b8fedf95ab42d48b9,"St. Louis,MO -> Poteau,OK",St. Louis,MO,Poteau,OK
+0e3c20b6b003a5f3723dd0a488777056,"Tracy,CA -> Waddell,AZ",Tracy,CA,Waddell,AZ
+792838b9cd2e8da911a1ccaf7f722314,"Portland,OR -> Fairfield,CA",Portland,OR,Fairfield,CA
+d6439e84e127eb70eb777bcabca5bb63,"Williams Township,PA -> Newark,NJ",Williams Township,PA,Newark,NJ
+0f6bbcfcd5dc3f47591a14fcba51d8bb,"Selah,WA -> Tolleson,AZ",Selah,WA,Tolleson,AZ
+b734371fded6306f9ba6d06485573b8b,"Houston,TX -> Jacksonville,FL",Houston,TX,Jacksonville,FL
+71c15f4a9405a062f6c4527d294c089d,"Geneva,NY -> Ephrata,PA",Geneva,NY,Ephrata,PA
+4fd508908cb1c43044f6a8ffc5747cd7,"Irvington,NJ -> Napoleon,OH",Irvington,NJ,Napoleon,OH
+afec85c0bbc9fb04678effbb394f591a,"Newark,NJ -> Ypsilanti,MI",Newark,NJ,Ypsilanti,MI
+b4974ccfdfdf41d7754d4124cf99647a,"Pittston,PA -> Queens,NY",Pittston,PA,Queens,NY
+90fd4d4d26de2295fb9d9849fa760e5c,"Van Nuys,CA -> Fallon,NV",Van Nuys,CA,Fallon,NV
+477eb79c99db7b9fafa12570d0f0c875,"Los Angeles,CA -> Portland,OR",Los Angeles,CA,Portland,OR
+d68c27b328603ac73632822933c01634,"Pompano Beach,FL -> Methuen,MA",Pompano Beach,FL,Methuen,MA
+a2a08202cc4b48eb44254614b9b78cb5,"Erie,PA -> Statesville,NC",Erie,PA,Statesville,NC
+a6d5d001c48add21e49a6c2e011933dd,"Denver,CO -> Ponca City,OK",Denver,CO,Ponca City,OK
+275d8a6b9208bbd69c2f71e1aefdcf95,"Springfield,MA -> Newark,NJ",Springfield,MA,Newark,NJ
+0235ddfc19c9ee3a3b512481b4639b03,"Santa Ana,CA -> Plant City,FL",Santa Ana,CA,Plant City,FL
+540d5fc94283e225ab0ecb3ffab11417,"Hauppauge,NY -> Plant City,FL",Hauppauge,NY,Plant City,FL
+1aa63e2eaf33e58faaf69cb338525572,"Etowah,TN -> Reno,NV",Etowah,TN,Reno,NV
+ed17b6fe2ccc9902fc02a374c748cc1b,"Plant City,FL -> Compton,CA",Plant City,FL,Compton,CA
+ec8e21c9486ae6d61238f9ef17ab4ffd,"Beecher,IL -> Plant City,FL",Beecher,IL,Plant City,FL
+1635b7ec8eabad21b10612533b5d1689,"Baldwinsville,NY -> Auburn,MA",Baldwinsville,NY,Auburn,MA
+18ebbe32a7cace0cec13e1ac27e59e52,"Statesboro,GA -> Philadelphia,PA",Statesboro,GA,Philadelphia,PA
+d40e05073196a869af4ea535515be021,"Denver,CO -> Charleston,TN",Denver,CO,Charleston,TN
+4ca642d9b766575b93b2334e3f2e6654,"Burt,NY -> Pennsauken Township,NJ",Burt,NY,Pennsauken Township,NJ
+5938f299219d4c44cc6524ee3197baa9,"Newark,NJ -> Pittsburgh,PA",Newark,NJ,Pittsburgh,PA
+bab9aaa6ef7be4c8daf79808be069478,"Plant City,FL -> Commerce,CA",Plant City,FL,Commerce,CA
+3ae9ee066b779cde84c6747b7e8e7a86,"Newark,NJ -> Rogers,MN",Newark,NJ,Rogers,MN
+7f42784667466a00ea504fa2e92cf74a,"Fort Collins,CO -> Sparks,NV",Fort Collins,CO,Sparks,NV
+f5e2f413554c182059ed312f495c7057,"Statesboro,GA -> Bronx,NY",Statesboro,GA,Bronx,NY
+f11ca3c38d45c5571d9a914222e3de1b,"McCook,NE -> Davenport,IA",McCook,NE,Davenport,IA
+07da1150deeb0c6438c6067948e2a57e,"Houston,TX -> Hattiesburg,MS",Houston,TX,Hattiesburg,MS
+28fcb6277d4f378dc912bb7012dd7dc9,"Paris,TX -> Pryor,OK",Paris,TX,Pryor,OK
+aeee7f784dad1a033726802a0005faea,"Prattville,AL -> Conover,NC",Prattville,AL,Conover,NC
+b921bce61831df6a3b79c4c5ac37f34e,"Jacksonville,FL -> Madisonville,LA",Jacksonville,FL,Madisonville,LA
+1d4e0e81241e86548d481d6e27b904a0,"Dallas,TX -> Muskogee,OK",Dallas,TX,Muskogee,OK
+ddc60e869186e81ce0f0e476bd778e5a,"Aurora,CO -> Rock Springs,WY",Aurora,CO,Rock Springs,WY
+e39a1d6c53fcc4dd00455129cbb5e12d,"Pittston,PA -> Bolingbrook,IL",Pittston,PA,Bolingbrook,IL
+297f36372e7369169eab19e3d0203706,"Wylie,TX -> Memphis,TN",Wylie,TX,Memphis,TN
+4f6faa357935e694ddcb276c06310ce8,"Aurora,CO -> Cedar City,UT",Aurora,CO,Cedar City,UT
+cdc7f596ba3a628039bd8bb15e1e7fb2,"Colonial Heights,VA -> Annapolis,MD",Colonial Heights,VA,Annapolis,MD
+c6e03fc1c04c0fff783ef571b61125c1,"Cartersville,GA -> Huntsville,AL",Cartersville,GA,Huntsville,AL
+8d000b2f97decbfd8c82301566546377,"Wood Dale,IL -> Statesville,NC",Wood Dale,IL,Statesville,NC
+6ae0a039b039b28117537d2a66b9ba6d,"Jacksonville,FL -> Wilmington,NC",Jacksonville,FL,Wilmington,NC
+f65bb1fff6f9d84a782bfba0b2175bdf,"Fort Collins,CO -> Sedalia,MO",Fort Collins,CO,Sedalia,MO
+bec072b3cb53a4aaadbd23a057dd5a65,"Reading,PA -> Brook Park,OH",Reading,PA,Brook Park,OH
+c45c2376a637ed7095cb79328fb70754,"Riverside,CA -> Pomona,CA",Riverside,CA,Pomona,CA
+d502d2772c50388da1297abc969abdab,"Santa Ana,CA -> Leola,PA",Santa Ana,CA,Leola,PA
+eb7555f35d8c43a522284d9b5fe4a89b,"Carson,CA -> Monroe Township,NJ",Carson,CA,Monroe Township,NJ
+c26332539c48a0b19f0b6220d210c13f,"Cartersville,GA -> Portland,OR",Cartersville,GA,Portland,OR
+5e3b770079de5fede857997bbd1209ba,"Houston,TX -> Casper,WY",Houston,TX,Casper,WY
+34ca2c736cce41b84e4c5e73749e7c43,"Houston,TX -> Lebanon,MO",Houston,TX,Lebanon,MO
+16b40a89013496fc5429b847a5179566,"Baldwinsville,NY -> Lewiston,ME",Baldwinsville,NY,Lewiston,ME
+d10604608a22e1f667075411b883eaba,"Carson,CA -> Las Vegas,NV",Carson,CA,Las Vegas,NV
+fe3f44ad907601bd957c8e3dfea8b69a,"Philadelphia,PA -> Cleveland,OH",Philadelphia,PA,Cleveland,OH
+e62621a9f1f57ffe70046c20a061e520,"Philadelphia,PA -> Stowe,PA",Philadelphia,PA,Stowe,PA
+4663f60401625abf2e2ffa16448567ac,"St. Louis,MO -> Montclair,CA",St. Louis,MO,Montclair,CA
+e83f95c4e720805ee3722c4f78ca3780,"St. Louis,MO -> Clifton,CO",St. Louis,MO,Clifton,CO
+5517484ff7945c121ab88a8f43d60beb,"La Porte,TX -> Texarkana,TX",La Porte,TX,Texarkana,TX
+68c591b59036a7c2855a37f0201c32fd,"Avon,MA -> Westfield,MA",Avon,MA,Westfield,MA
+c36906ddcbce7fa37916b4768c1cf8d2,"Bristol,PA -> Kane,PA",Bristol,PA,Kane,PA
+c853499ceb94a49d0abd67fc3c8655ac,"Plant City,FL -> Haverstraw,NY",Plant City,FL,Haverstraw,NY
+a65f0dfd220a0d6435ff473c48c140bf,"St. Louis,MO -> Pasadena,TX",St. Louis,MO,Pasadena,TX
+162c00b7f6c0909b938c91ab3b1507f5,"Stacy,MN -> Reading,PA",Stacy,MN,Reading,PA
+3ef56eb94717bc4b0e796f2e912f081f,"Plainfield,IN -> Swedesboro,NJ",Plainfield,IN,Swedesboro,NJ
+a49c51606e9252a13e22cfbc865a12e3,"Aurora,CO -> Boise,ID",Aurora,CO,Boise,ID
+387cf6fb11a5d316e84debc60e8c6e33,"Lebanon,IN -> Commerce,GA",Lebanon,IN,Commerce,GA
+3bd8e87f31b1c624bddb8f18c3e0f216,"Colonial Heights,VA -> Deerfield Beach,FL",Colonial Heights,VA,Deerfield Beach,FL
+ef9a52a6917777e8fbbd083762884a9b,"Downey,ID -> Elmira,MI",Downey,ID,Elmira,MI
+51f7d63ad1c1ac41b3dc1f2e6a179010,"Spring Valley,NY -> Bronx,NY",Spring Valley,NY,Bronx,NY
+469c9092cc791bb3309e7047d93f3006,"Wylie,TX -> Laredo,TX",Wylie,TX,Laredo,TX
+20b0fe041020eb5f247d87746bece93b,"Wanaque,NJ -> Castile,NY",Wanaque,NJ,Castile,NY
+dc78a869b38dd88262f0cb4304a7b859,"Wanaque,NJ -> Syracuse,NY",Wanaque,NJ,Syracuse,NY
+2d2729e2e910f6afd551881098c8994e,"Newark,NJ -> Montgomery,AL",Newark,NJ,Montgomery,AL
+59cb51d16ce9a8b8945ff44340f00130,"Cranbury Township,NJ -> New Paltz,NY",Cranbury Township,NJ,New Paltz,NY
+023c537675639c240e35207500d230ea,"Monroe,WI -> Sheboygan,WI",Monroe,WI,Sheboygan,WI
+ba465b9c5f965d13a384ac8801d44bfc,"Fort Collins,CO -> Logan,UT",Fort Collins,CO,Logan,UT
+5c6baf1fc83395a6ef7054ffc30cc0d2,"Kutztown,PA -> Ephrata,PA",Kutztown,PA,Ephrata,PA
+a96c3a421d0cae3146a373a30d3e39aa,"Tracy,CA -> Melrose Park,IL",Tracy,CA,Melrose Park,IL
+6898d498bc307b443939c4c606648360,"Sterling,VA -> Plant City,FL",Sterling,VA,Plant City,FL
+377f4a0176a1ac098643155ad8c3ff17,"Cranbury Township,NJ -> Moorhead,MN",Cranbury Township,NJ,Moorhead,MN
+4a6ef072ddc5a31ff174113e9e148756,"Columbus,OH -> Jenkins Township,PA",Columbus,OH,Jenkins Township,PA
+72bf7a876ca55fb79aee585d3a49e308,"Long Beach,CA -> Stockton,CA",Long Beach,CA,Stockton,CA
+e647dc9ebcd3a2803bb66e706e0d345e,"Fort Collins,CO -> Alexandria,LA",Fort Collins,CO,Alexandria,LA
+a11898df94d72b6a359d283b74715666,"Granite City,IL -> Sheboygan,WI",Granite City,IL,Sheboygan,WI
+6e8b2bcb82eb790b3596b12c43fafdf5,"Houston,TX -> Austin,TX",Houston,TX,Austin,TX
+60fb65b5d0ac1b55f950324c945f5569,"Newark,NJ -> Wilkes-Barre,PA",Newark,NJ,Wilkes-Barre,PA
+17722fc10c4b51638ac18224e260a877,"Maricopa,AZ -> Methuen,MA",Maricopa,AZ,Methuen,MA
+60fa87f450d21bcc722b34986830cbf7,"Tracy,CA -> Tracy,CA",Tracy,CA,Tracy,CA
+03a838be4f0081c0df2b204154e7d0ae,"Franklin,IN -> Modesto,CA",Franklin,IN,Modesto,CA
+a2dbca8ade6cd880bd7282655801c8a1,"Baldwinsville,NY -> Boise,ID",Baldwinsville,NY,Boise,ID
+db6fc9c413bf61a98787d422de284487,"Latrobe,PA -> Wanaque,NJ",Latrobe,PA,Wanaque,NJ
+f8f8c31a4e34b4b4482004e611eb8e01,"Aurora,CO -> Lincoln,NE",Aurora,CO,Lincoln,NE
+b83badf0bc849edb957be0f34b6b7393,"Lakewood Township,NJ -> Gastonia,NC",Lakewood Township,NJ,Gastonia,NC
+e6b1e2b7607b38314181af3106c1b3af,"Olean,NY -> Mundelein,IL",Olean,NY,Mundelein,IL
+4c245eafe197205c04bf2fe4f0971e1c,"Lockport,IL -> Mount Holly,NC",Lockport,IL,Mount Holly,NC
+fc9afa9cc4daec8f3efc75d3b5d0fea2,"Williamsburg,VA -> Midway,FL",Williamsburg,VA,Midway,FL
+6748dc4c8b0b480d40bcb38f0034777c,"Granite City,IL -> Romulus,MI",Granite City,IL,Romulus,MI
+fd545449ae7e20a80b8aa9868ac337e5,"Newark,NJ -> Cedar Rapids,IA",Newark,NJ,Cedar Rapids,IA
+b47a6907d400177868c668530264d715,"Granite City,IL -> Vicksburg,MS",Granite City,IL,Vicksburg,MS
+755fe35f79fe73b70f0f5badc8780cf1,"Latrobe,PA -> Syracuse,NY",Latrobe,PA,Syracuse,NY
+003d0b50e4a7c31a3b1b37afa8927b66,"Carlisle,PA -> Jacksonville,FL",Carlisle,PA,Jacksonville,FL
+0d130384292ca526f2fad3daaa537ad6,"Bolingbrook,IL -> Commerce,GA",Bolingbrook,IL,Commerce,GA
+58d14f994bcaaf992515bcfe1c46a698,"Columbus,OH -> Roanoke,VA",Columbus,OH,Roanoke,VA
+d49573e612e75b4d22c71f3d0ebe959d,"Carlisle,PA -> Annapolis,MD",Carlisle,PA,Annapolis,MD
+bb20c03722164911df7c3d7117d69481,"Compton,CA -> Plant City,FL",Compton,CA,Plant City,FL
+d8942e8a28f5eea4a55f5bda2a2a8f85,"Stockton,CA -> Parrish,FL",Stockton,CA,Parrish,FL
+18b1cafa73b7f7a4ed5976f1854b2816,"St. Louis,MO -> Tampa,FL",St. Louis,MO,Tampa,FL
+79912785efd4165e5463fd6d7a26b722,"Fort Collins,CO -> Madisonville,LA",Fort Collins,CO,Madisonville,LA
+3880a5a26ac21655c736bb50839acba6,"Granite City,IL -> Norwalk,OH",Granite City,IL,Norwalk,OH
+c19819b63687b819ea49ffde37af3688,"Portage,IN -> Buford,GA",Portage,IN,Buford,GA
+9d577131d15d64bfaa7103168103f330,"North Charleston,SC -> Memphis,TN",North Charleston,SC,Memphis,TN
+cc4e81c1629de4ee9b17f8afeca646c0,"Romulus,MI -> Baldwinsville,NY",Romulus,MI,Baldwinsville,NY
+b2d27a4bfc470bd09123f8908c2143cd,"Fort Collins,CO -> Rapid City,SD",Fort Collins,CO,Rapid City,SD
+0505df0d6d28bc5c925ccd6808597160,"Plant City,FL -> York,PA",Plant City,FL,York,PA
+448bbdb05fe401005f1dd273343934b1,"Granite City,IL -> Dodge City,KS",Granite City,IL,Dodge City,KS
+8f49aea764527849a3c829dec2b01bfb,"Crows Landing,CA -> Commerce,CA",Crows Landing,CA,Commerce,CA
+6a41abeb00faa6d71283dc73e464c665,"Jacksonville,FL -> Florence,SC",Jacksonville,FL,Florence,SC
+120f75847d1af9131aeb11574d50c293,"Brockton,MA -> Newark,NJ",Brockton,MA,Newark,NJ
+c78720c575d89b79ff578494ac744f01,"Saint Michael,MN -> Minneapolis,MN",Saint Michael,MN,Minneapolis,MN
+266eb6a7d841b48268c9b2316d72264f,"Jacksonville,FL -> Sumter,SC",Jacksonville,FL,Sumter,SC
+a21be176007f957dce910cad4d1ed087,"Las Cruces,NM -> Reno,NV",Las Cruces,NM,Reno,NV
+1ac67def79c488a54104953d63bdb75d,"Pleasant Prairie,WI -> Fort Collins,CO",Pleasant Prairie,WI,Fort Collins,CO
+6472ad8407b6bf3d5f00e776121f39b6,"Aurora,CO -> Durango,CO",Aurora,CO,Durango,CO
+10600dfc2fbf16ca604a96dbaf20eb74,"Kansas City,MO -> New Haven,IN",Kansas City,MO,New Haven,IN
+839d3bbcfb5e74642fbc2405d098bae1,"Conover,NC -> Sikeston,MO",Conover,NC,Sikeston,MO
+588ac80e48a0d9cfab2e57be1973f8dc,"Bushnell,FL -> Savannah,GA",Bushnell,FL,Savannah,GA
+b8a6e71494c7a69eda69d4fc6fa7c5ac,"St. Louis,MO -> Homestead,FL",St. Louis,MO,Homestead,FL
+4a4d75cb3a049ec0a608be82aa3b86c6,"Fort Collins,CO -> Bronx,NY",Fort Collins,CO,Bronx,NY
+ceb5809eef89d2bba80f48d9a6d829ef,"North Charleston,SC -> Swedesboro,NJ",North Charleston,SC,Swedesboro,NJ
+8120b3723ccbae3b81674c69c8078d3c,"Holdrege,NE -> Russellville,KY",Holdrege,NE,Russellville,KY
+7c48f592c72dc7833bcf4eb05fea3446,"Columbus,OH -> Warner Robins,GA",Columbus,OH,Warner Robins,GA
+07da910327feada8e52cba991303eea1,"Reading,PA -> Joliet,IL",Reading,PA,Joliet,IL
+7a08247c62fc5725fbd0e56030a8aca1,"Gastonia,NC -> Monroe,GA",Gastonia,NC,Monroe,GA
+455da54358459f0ec3245385bb85222c,"Chester,PA -> Philadelphia,PA",Chester,PA,Philadelphia,PA
+253b535bf223584050f2b2a93e538515,"Crete,IL -> Plant City,FL",Crete,IL,Plant City,FL
+cc5041ed96b4a02d093ecdb02f7ec189,"Laredo,TX -> Chapel Hill,TN",Laredo,TX,Chapel Hill,TN
+3c79cf0f9e2f9f85b5f61a0db88a80e0,"Newark,NJ -> Erie,PA",Newark,NJ,Erie,PA
+46fad9ae2e0d920e2c6abfd96c47793d,"Denver,CO -> Tempe,AZ",Denver,CO,Tempe,AZ
+18af6d71db53849c7996595dfb792a1f,"Los Angeles,CA -> San Marcos,CA",Los Angeles,CA,San Marcos,CA
+00e5ec26d543e9ff8efe96b3451aa7b5,"Linden,NJ -> York,PA",Linden,NJ,York,PA
+ca5b02706dd8d650d34f1cc918412916,"St. Louis,MO -> Smoot,WV",St. Louis,MO,Smoot,WV
+4f18d91a9c97be5822b743c4a50e5d68,"Portland,OR -> Commerce,CA",Portland,OR,Commerce,CA
+3f0585560d215bd941ba4fd1ca530be2,"Jacksonville,FL -> Huntsville,AL",Jacksonville,FL,Huntsville,AL
+e03a19bbc9712a80760f43f5e4e43997,"Walpole,MA -> Newark,NJ",Walpole,MA,Newark,NJ
+4759390b11f288a006c1d112a52f2987,"Medley,FL -> Allentown,PA",Medley,FL,Allentown,PA
+404a20f37c6c59f409185472f942eb4b,"Cartersville,GA -> Upper Marlboro,MD",Cartersville,GA,Upper Marlboro,MD
+c40111643ef5c0a9e5f85fd5b5874f55,"Charlotte,NC -> Swedesboro,NJ",Charlotte,NC,Swedesboro,NJ
+c4c2e41f9ea197764badfad60302375f,"Wanaque,NJ -> Lynbrook,NY",Wanaque,NJ,Lynbrook,NY
+63be31aa008c6e94559d07976f7d4bd8,"Baltimore,MD -> Berryville,VA",Baltimore,MD,Berryville,VA
+096bee4471b87c6ddfee5397011389a8,"St. Louis,MO -> Pensacola,FL",St. Louis,MO,Pensacola,FL
+9c3507bee393bff855783f28a6837164,"La Porte,TX -> Monroe,LA",La Porte,TX,Monroe,LA
+968cc1c6244dd15700de1c2d95724e5b,"Jacksonville,FL -> Fort Myers,FL",Jacksonville,FL,Fort Myers,FL
+633d85ab303ec3cd395500954132fe65,"Brooklyn Park,MN -> Lakeland,FL",Brooklyn Park,MN,Lakeland,FL
+8d5a920174e0b91fc45a20b435bb6557,"St. Louis,MO -> Fort Lauderdale,FL",St. Louis,MO,Fort Lauderdale,FL
+e01c0abb6b330b92b406d82dc5814dcf,"Pearl City,IL -> Plant City,FL",Pearl City,IL,Plant City,FL
+9cd24cdc1a364b562d5124180cc2cf2a,"Columbus,OH -> Calumet Township,MI",Columbus,OH,Calumet Township,MI
+ea8f4ba7af88d1a06fe7ad9ca1179b4b,"East Greenville,PA -> Pittsburgh,PA",East Greenville,PA,Pittsburgh,PA
+13c54dcc7eb78b73ef5652a458c8f2ed,"Houston,TX -> Greenville,TX",Houston,TX,Greenville,TX
+3cd7505bcd93cb6d21ba26bdfc2d3ac4,"Conover,NC -> Evansville,IN",Conover,NC,Evansville,IN
+d291d4884d824a1a90d811f51aebd59b,"Bridgewater,NJ -> Canastota,NY",Bridgewater,NJ,Canastota,NY
+fe411bafddd2a8d0a53da9c6ea6d35c3,"Cartersville,GA -> Rock Hill,SC",Cartersville,GA,Rock Hill,SC
+bcca2bcbdf02065bd081369f4fdf4e38,"Colonial Heights,VA -> Wellsburg,WV",Colonial Heights,VA,Wellsburg,WV
+eed2853a03a24c2a05d3fb8552e4c441,"Plant City,FL -> Newington,CT",Plant City,FL,Newington,CT
+704f53bbd8fe6914643013f3fb3c0fe6,"Aurora,CO -> Hutchinson,KS",Aurora,CO,Hutchinson,KS
+8116ac4a37f190f7bcc86dcb9d9deb82,"Williamsburg,VA -> Raleigh,NC",Williamsburg,VA,Raleigh,NC
+0d45b6b09b643baf6a011bd0b786906d,"Cartersville,GA -> La Vergne,TN",Cartersville,GA,La Vergne,TN
+ce19727c2e3dc5506c654166793ce082,"Granite City,IL -> Harpersville,AL",Granite City,IL,Harpersville,AL
+15e1ca32e1e06a6d0ea883e2490d44f3,"Bingen,WA -> Methuen,MA",Bingen,WA,Methuen,MA
+8668337a908aabea0439dae4b4fb3dc5,"Yuma,AZ -> Roanoke,TX",Yuma,AZ,Roanoke,TX
+0cfd23a35ff0da991a323e0a548aae6e,"North East,MD -> Lexington,KY",North East,MD,Lexington,KY
+6762df9206ebee703e10bac859e6cc40,"York,PA -> Newark,NJ",York,PA,Newark,NJ
+195b354b544e78e9e4e68dcbdee1693e,"Salisbury,NC -> Gastonia,NC",Salisbury,NC,Gastonia,NC
+16d7b61340d910d5dda29ca36b0b11f5,"Phoenix,AZ -> Millwood,WV",Phoenix,AZ,Millwood,WV
+17785af337e4238ec9a340edd015c1dd,"Wild Rose,WI -> Reading,PA",Wild Rose,WI,Reading,PA
+e5f9de6a63983ab437b2728abb93ca72,"Granite City,IL -> Mansfield,OH",Granite City,IL,Mansfield,OH
+3c584fec96276d2213e9fc70a4528ef1,"Ontario,CA -> Tolleson,AZ",Ontario,CA,Tolleson,AZ
+c06da91c344e4eed82e3775a34fe344e,"Granite City,IL -> Tulsa,OK",Granite City,IL,Tulsa,OK
+d1cb76da1f0d6123acbfed13471b0e9b,"Union Gap,WA -> Denver,CO",Union Gap,WA,Denver,CO
+bb1efd6179aba03683563b5abe5dde92,"Granite City,IL -> Lima,OH",Granite City,IL,Lima,OH
+d4028190fb41631e86477f941ec581b4,"Fort Collins,CO -> Boise,ID",Fort Collins,CO,Boise,ID
+224dafc0b612085d0565fab4f7b81aeb,"Houston,TX -> Gulfport,MS",Houston,TX,Gulfport,MS
+cd1d9eb9a59bd4a6d8d6c429002669c7,"Linden,NJ -> Ephrata,PA",Linden,NJ,Ephrata,PA
+61ba1cb02343862ed1594b1813d63b13,"Baldwinsville,NY -> Bernhards Bay,NY",Baldwinsville,NY,Bernhards Bay,NY
+c0fad475e2ac9e9b306e7f1e7d5525b7,"Salem,OR -> Portland,OR",Salem,OR,Portland,OR
+e8d604e4297ceaa588c7be54090c0b53,"Cartersville,GA -> Charlotte,NC",Cartersville,GA,Charlotte,NC
+3366479631dae9cd9daea9ef01acea7c,"Los Angeles,CA -> Columbus,OH",Los Angeles,CA,Columbus,OH
+088f0cbe5af7dace88b6da4c1e59a0ba,"Jacksonville,FL -> Rochester,MN",Jacksonville,FL,Rochester,MN
+579ac3052590bc65e140d0ecf9119fd7,"Staley,NC -> Brooklyn,NY",Staley,NC,Brooklyn,NY
+4275166c29330d43498615631fc42ddf,"Houston,TX -> Roanoke,TX",Houston,TX,Roanoke,TX
+d67ea91825020ca5d30caf021b5fea00,"Dothan,AL -> Montgomery,AL",Dothan,AL,Montgomery,AL
+7d662b48990340572a5e639ec14683b8,"La Porte,TX -> Hattiesburg,MS",La Porte,TX,Hattiesburg,MS
+1d9132040961e08a78b06678986c03ca,"Jacksonville,FL -> Sarasota,FL",Jacksonville,FL,Sarasota,FL
+a5dbff3ef416edd5a7a5df1d14261b5b,"Norcross,GA -> Atlanta,GA",Norcross,GA,Atlanta,GA
+51a391efe6759b554e62176bcb6ed5ae,"Colonial Heights,VA -> Asheville,NC",Colonial Heights,VA,Asheville,NC
+b3b5f73e6b6039f7788420d84e6cfee6,"Fort Collins,CO -> Trenton,NJ",Fort Collins,CO,Trenton,NJ
+400be5511f7e5fae54f1dff4c57c4cae,"Ottawa,KS -> Tracy,CA",Ottawa,KS,Tracy,CA
+afabcebb8dd1ecff3293fab8f4ad22ea,"Houston,TX -> Pine Bluff,AR",Houston,TX,Pine Bluff,AR
+ec05e7de26326461bc77dbd8f3095bd5,"Chippewa Falls,WI -> Clinton,IA",Chippewa Falls,WI,Clinton,IA
+345cc2934bea1997cea2a3f4c4ef73df,"Colonial Heights,VA -> Piedmont,SC",Colonial Heights,VA,Piedmont,SC
+6c95ba207fcafb2a97edbe7192b3b30c,"St. Louis,MO -> Piedmont,SC",St. Louis,MO,Piedmont,SC
+2977be6aedd5578b36fcc44ad23f06a7,"St. Louis,MO -> Loxley,AL",St. Louis,MO,Loxley,AL
+dda3b9338044e65c902d670f003defc1,"Sioux City,IA -> Pittston,PA",Sioux City,IA,Pittston,PA
+0e0c0a654bfade4f54b8ebafa4a7bf18,"Granite City,IL -> Port Huron,MI",Granite City,IL,Port Huron,MI
+94a435852a407a29d4ae033c92a8141d,"Greenfield,IN -> York,PA",Greenfield,IN,York,PA
+37f708963b9f9c8720b16947855c6324,"Laredo,TX -> Indianapolis,IN",Laredo,TX,Indianapolis,IN
+28b5de27b428eba7015a7747cb8d0ec5,"Newark,NJ -> Fairmont,WV",Newark,NJ,Fairmont,WV
+c500fd6db476de331bdc10b5d12307d4,"Baldwinsville,NY -> Williamsburg,VA",Baldwinsville,NY,Williamsburg,VA
+10fc8395c72878031af57dfa98aff1e2,"Lewistown,PA -> Newark,NJ",Lewistown,PA,Newark,NJ
+e36f4782c87df335854c8656e45d6eeb,"Commerce,CA -> Fremont,CA",Commerce,CA,Fremont,CA
+df6e448aca4f6da2dd4b56411d5d70ee,"Vernon,CA -> Tracy,CA",Vernon,CA,Tracy,CA
+42bbbd6ef824bec458f5c881ba5a36b3,"Grapevine,TX -> Houston,TX",Grapevine,TX,Houston,TX
+9e9d32dcbbf03e3ee4ac5cdc50973dd6,"Cartersville,GA -> Atlanta,GA",Cartersville,GA,Atlanta,GA
+92c965fa88fb2f99906c3bbcf93dbc65,"St. Louis,MO -> Romulus,MI",St. Louis,MO,Romulus,MI
+273855fa6d8a3e3921fa81aeba514b4a,"Delano,CA -> Methuen,MA",Delano,CA,Methuen,MA
+aebbdf76c046b86e2bad05946e585086,"Portland,OR -> Tempe,AZ",Portland,OR,Tempe,AZ
+02119610c36b6eb4e9c517758de04d2b,"St. Louis,MO -> Portland,OR",St. Louis,MO,Portland,OR
+b1e1d36818e92518a25679228ff3a672,"Newark,NJ -> Orlando,FL",Newark,NJ,Orlando,FL
+4d3b457cfa0555c345dde5a95eb4264e,"Columbus,OH -> Cartersville,GA",Columbus,OH,Cartersville,GA
+b49ed28279ea285dc52585d0278c46eb,"Bridgewater,NJ -> Gonzales,TX",Bridgewater,NJ,Gonzales,TX
+ca4e64931d0867399814c862f4c22327,"Romeoville,IL -> Commerce,GA",Romeoville,IL,Commerce,GA
+dd0c2608f74da2c959fd45f934611f7c,"Newark,NJ -> Williamsburg,VA",Newark,NJ,Williamsburg,VA
+c0ef09b3b29c1e88fe7e921d79093c07,"Philadelphia,PA -> Newark,NJ",Philadelphia,PA,Newark,NJ
+4298b6534c4e1a508a86d58db0ac3958,"Del Rio,TX -> Canton,OH",Del Rio,TX,Canton,OH
+ac6ab07407e18f895e168038a7f87a80,"Granite City,IL -> Ironwood,MI",Granite City,IL,Ironwood,MI
+adea71af6920c4bbcd506374642181d6,"Granite City,IL -> Sparta,WI",Granite City,IL,Sparta,WI
+17c626d34faae1a9766a80adf95d2542,"Cartersville,GA -> Valdosta,GA",Cartersville,GA,Valdosta,GA
+bb7d532c7e8462824790995f9d6e93bd,"Colonial Heights,VA -> Linwood,NC",Colonial Heights,VA,Linwood,NC
+41af8ceb88c57fa41804ed49e9015fe0,"Williamsburg,VA -> Romney,WV",Williamsburg,VA,Romney,WV
+d7061aacc656b7ea9cd727123e0dc39d,"Casa Grande,AZ -> Jefferson City,MO",Casa Grande,AZ,Jefferson City,MO
+0f8ddd81800b197bd8e7dfd4c1769946,"St. Louis,MO -> Superior,WI",St. Louis,MO,Superior,WI
+6d06cb8067d158a3b98539ce6cbe24fb,"Rochester,NY -> Newark,NJ",Rochester,NY,Newark,NJ
+29362dab1008e95bd04533b86611d314,"Houston,TX -> Lake Charles,LA",Houston,TX,Lake Charles,LA
+d612198579c1e1b47b35cd7e9bbdd5d7,"Clarksville,TN -> Columbus,OH",Clarksville,TN,Columbus,OH
+e71432bf08b0bfb145d98d3c7d2da239,"Baldwinsville,NY -> Wrightsville,PA",Baldwinsville,NY,Wrightsville,PA
+3afae17ee767ff50843a0e0c0d6e20ee,"Houston,TX -> Camden,AR",Houston,TX,Camden,AR
+614e4b84842569fa6b1cb8c3b32981aa,"Wilson,NC -> Battleboro,NC",Wilson,NC,Battleboro,NC
+504b241ec9d4ce6c8ee4b821642a60f7,"Frankfort,KY -> Clyde,OH",Frankfort,KY,Clyde,OH
+2a0420c33fc7fe698ef3a6a3090a378c,"Winchester,VA -> York,PA",Winchester,VA,York,PA
+a7f6198b4a64295b6428a04f135b76fd,"Plant City,FL -> Leola,PA",Plant City,FL,Leola,PA
+f81376c09a380612ccb06d60ff9e570f,"Bolingbrook,IL -> Reno,NV",Bolingbrook,IL,Reno,NV
+1d1d6751c60fc36100291c5fe6db4ef5,"Howell,MI -> Cleveland,NC",Howell,MI,Cleveland,NC
+6029dd6a960caee239b1e813e03e8294,"Georgetown,SC -> San Antonio,TX",Georgetown,SC,San Antonio,TX
+48d3877d122b10da7d3912bd927f1e8a,"Houston,TX -> San Angelo,TX",Houston,TX,San Angelo,TX
+b720821fed6c860f81ae67762987a752,"St. Louis,MO -> Bay City,MI",St. Louis,MO,Bay City,MI
+cf69725febabba1c041ced0bc100b046,"Moonachie,NJ -> Angier,NC",Moonachie,NJ,Angier,NC
+1ce223e4730c4de4e4562cd87e6173ac,"Johnstown,CO -> Lowell,AR",Johnstown,CO,Lowell,AR
+ab59d22580f6667ffe5291b0457c4e3a,"Gainesville,TX -> Laredo,TX",Gainesville,TX,Laredo,TX
+66adb8ca39074ed8fec95ec80834712d,"Baltimore,MD -> Wallkill,NY",Baltimore,MD,Wallkill,NY
+ec306a5fe65089a6a72f97aba6d076f9,"Pittsburgh,PA -> Jurupa Valley,CA",Pittsburgh,PA,Jurupa Valley,CA
+6347c3d76c37485304919e62571a77d4,"Santa Ana,CA -> McDonough,GA",Santa Ana,CA,McDonough,GA
+8c8c25e3721113f7ec1f33eed64115fd,"El Paso,TX -> Laredo,TX",El Paso,TX,Laredo,TX
+17119b4603c9216fc9e64d68151eabce,"Fort Collins,CO -> Colorado Springs,CO",Fort Collins,CO,Colorado Springs,CO
+4e08b1648d359c067bbe06610f1b11f1,"Jurupa Valley,CA -> Irvine,CA",Jurupa Valley,CA,Irvine,CA
+ce60d2501e7a4133fb7e24083f5dfcc3,"La Mirada,CA -> Santa Ana,CA",La Mirada,CA,Santa Ana,CA
+ec6d8e258303194bbb5802cf868cba79,"Fairfield,CA -> Mobridge,SD",Fairfield,CA,Mobridge,SD
+0b02109c7fd5cd6061d40324af4478b2,"Fairfield,CA -> Puyallup,WA",Fairfield,CA,Puyallup,WA
+fc77be2726cbe6ebbe8c045b035d0448,"El Monte,CA -> Tempe,AZ",El Monte,CA,Tempe,AZ
+4163ac264a6c717637694b4e028e99b7,"Phoenix,AZ -> Pacific,WA",Phoenix,AZ,Pacific,WA
+77e4c7a56485ece0b39ab521cc7b7965,"Fairfield,CA -> Renton,WA",Fairfield,CA,Renton,WA
+e378637bd4c6cf1e6e9e2fbbe86a5e32,"Mount Airy,NC -> Memphis,TN",Mount Airy,NC,Memphis,TN
+71f90c163cabcbeda70986e58e89a428,"Granite City,IL -> Indian River,MI",Granite City,IL,Indian River,MI
+9024092453f92b665044aed6b8a244a5,"Fort Collins,CO -> North Platte,NE",Fort Collins,CO,North Platte,NE
+a1c212fc9dd141ff2594b0ffd04a4f79,"Sioux City,IA -> Kissimmee,FL",Sioux City,IA,Kissimmee,FL
+4f28f0ffe55e553368279efa8e9c9308,"Wilkes-Barre,PA -> Lexington,SC",Wilkes-Barre,PA,Lexington,SC
+dfb6b6f3571522cdd88f1a752e908dfe,"Carlisle,PA -> Carlstadt,NJ",Carlisle,PA,Carlstadt,NJ
+ef1466f0d62492d599ea1a39cf638377,"Bellevue,WA -> Portland,OR",Bellevue,WA,Portland,OR
+b981a9b1cab80b87ad2853f47a3d790e,"Jacksonville,FL -> Muscle Shoals,AL",Jacksonville,FL,Muscle Shoals,AL
+31512953c523f01595881ae0e29657ea,"Colonial Heights,VA -> Winston-Salem,NC",Colonial Heights,VA,Winston-Salem,NC
+0a1cbd083472cc1fc2bd4c2a45802c18,"Plant City,FL -> Portland,OR",Plant City,FL,Portland,OR
+5881471147e38837c718d97924c488cd,"Baldwinsville,NY -> Gladstone,MI",Baldwinsville,NY,Gladstone,MI
+3fcd0407b2479145107ef28a6e889fc6,"Maxton,NC -> Portland,OR",Maxton,NC,Portland,OR
+704002828582573a04c80fdec96948c9,"Mogadore,OH -> Portland,OR",Mogadore,OH,Portland,OR
+35673f86b873547bce1dfcb13e540448,"Fort Collins,CO -> Kingman,AZ",Fort Collins,CO,Kingman,AZ
+a69042551a6af59dd02f7de7849ada6b,"La Porte,TX -> Lafayette,LA",La Porte,TX,Lafayette,LA
+1d6c83581a0473564ba9f1a4ecc0a540,"Jacksonville,FL -> Holiday,FL",Jacksonville,FL,Holiday,FL
+273bc7ce99e6e4473f5e9b591ed4f1e9,"Bridgewater,NJ -> Springfield,MA",Bridgewater,NJ,Springfield,MA
+5ae7b8c339f418abf917822757c777f1,"Marion,VA -> Commerce,GA",Marion,VA,Commerce,GA
+e8634e9ada46ba6227aed7a2cca00051,"Williamsburg,VA -> Jersey City,NJ",Williamsburg,VA,Jersey City,NJ
+dee9d8a7cae683cc7645fbb41e3dccb1,"Aurora,CO -> Cody,WY",Aurora,CO,Cody,WY
+5ee78f0db7b4101da29b0842aba2e1d5,"Johnstown,PA -> Newark,NJ",Johnstown,PA,Newark,NJ
+590370092e9e8dd9a6a0c5beea22d6b2,"Granite City,IL -> Cedar Rapids,IA",Granite City,IL,Cedar Rapids,IA
+2aa14e6ae7ccab58962d7cb83e4817a4,"Cartersville,GA -> Sylva,NC",Cartersville,GA,Sylva,NC
+6e03dfe06c47589f1398fff28ce13cc9,"Olean,NY -> Joliet,IL",Olean,NY,Joliet,IL
+8df6abe0bc6c175fee5449072da980c4,"Aurora,CO -> Fremont,NE",Aurora,CO,Fremont,NE
+41ca2079be4ed6ec57cbb01d8562c54a,"Roanoke,TX -> Opelousas,LA",Roanoke,TX,Opelousas,LA
+935cbef4184cd87d51b602f29c4cf44d,"Carson,CA -> Sumner,WA",Carson,CA,Sumner,WA
+2ac4c4a3bdf7ebea109a29a1ef44e4bd,"Arrey,NM -> Fort Worth,TX",Arrey,NM,Fort Worth,TX
+373acaf00d6df9932dc4abede5eb27e6,"St. Louis,MO -> Sioux City,IA",St. Louis,MO,Sioux City,IA
+0bd81e9ce3b12a4ec59aa8fc620a7bcb,"St. Louis,MO -> Daytona Beach,FL",St. Louis,MO,Daytona Beach,FL
+1f7f97c139cf291b9642257135979a1e,"Pompano Beach,FL -> Orlando,FL",Pompano Beach,FL,Orlando,FL
+6592a96afbaa57cd8d89d71ff7bb635a,"Williamsburg,VA -> Miami,FL",Williamsburg,VA,Miami,FL
+eb9e21eef04d0d0cddf741596e8e8cb8,"St. Louis,MO -> Worthington,MN",St. Louis,MO,Worthington,MN
+235734c15cc3bed08a6de8862186e9fc,"Jacksonville,FL -> Naples,FL",Jacksonville,FL,Naples,FL
+78b14140ee9b0218b8a922155c56edb5,"Brighton,MI -> Portland,OR",Brighton,MI,Portland,OR
+92e23fe22629231e852874370d87bbe8,"Whitakers,NC -> Laredo,TX",Whitakers,NC,Laredo,TX
+a1db46f875f7e25ded832ec02b94f476,"Conover,NC -> Nogales,AZ",Conover,NC,Nogales,AZ
+0f59aefd65a330a2765f1cece6c54aa9,"Cartersville,GA -> Midway,FL",Cartersville,GA,Midway,FL
+f799fde2c808ddd8879a485e2342e11f,"Fresno,CA -> Tolleson,AZ",Fresno,CA,Tolleson,AZ
+e124d6014429354a9d3b37b4f6a37d50,"Erie,PA -> Columbus,OH",Erie,PA,Columbus,OH
+7eabfb43514035ff4e038954e5e645b0,"Tuscaloosa,AL -> Borden,IN",Tuscaloosa,AL,Borden,IN
+c0ce404150b1ea1086547f0bd8444a01,"Baldwinsville,NY -> Medford,MA",Baldwinsville,NY,Medford,MA
+d17b3a6ec0be414555c864650a4c90b5,"Paris,TN -> Gastonia,NC",Paris,TN,Gastonia,NC
+b47138a7b103f5ebd98204025a75397f,"Denver,CO -> Lubbock,TX",Denver,CO,Lubbock,TX
+fe97842cff20ee5898e76991b2c343bc,"1,LA -> Herculaneum,MO",1,LA,Herculaneum,MO
+207d851ebbd743f3b024de58e799133a,"Cabazon,CA -> Tolleson,AZ",Cabazon,CA,Tolleson,AZ
+f055f1d4fc83d025884ada512befb42d,"Conover,NC -> Carrollton,GA",Conover,NC,Carrollton,GA
+72a7914a2bf8a874a6ea43e303b9d651,"Davenport,IA -> Gurnee,IL",Davenport,IA,Gurnee,IL
+2e9cc774d6b8a7b033da926819409d57,"Kent,WA -> Pacific,WA",Kent,WA,Pacific,WA
+504ad54ad3c8864e5a4a78c38ecc9644,"St. Louis,MO -> Monroe,LA",St. Louis,MO,Monroe,LA
+c2a7cd5feaf32d6d636c6a4dd4e918c2,"Philadelphia,PA -> Clinton,NY",Philadelphia,PA,Clinton,NY
+a9551b17d8fb049692ca0d341576624a,"Mount Airy,NC -> Swedesboro,NJ",Mount Airy,NC,Swedesboro,NJ
+9483d5d17d645058ebcd23a74d323b7f,"South Windsor,CT -> Baldwinsville,NY",South Windsor,CT,Baldwinsville,NY
+bb74093e9efa9ee74fe852e462eeeb42,"Spindale,NC -> Sikeston,MO",Spindale,NC,Sikeston,MO
+c02db55be8cfb842252686d8bca90ccb,"Bridgewater,NJ -> Elgin,SC",Bridgewater,NJ,Elgin,SC
+b664ce5042ade57fc45f70fab5fa0503,"Normal,IL -> Dowagiac,MI",Normal,IL,Dowagiac,MI
+368ad65a96eeff9ea6195eae8966e9e8,"Pittston,PA -> Ephrata,PA",Pittston,PA,Ephrata,PA
+28dddf4523e77401650855dafc82dd54,"Laredo,TX -> Memphis,TN",Laredo,TX,Memphis,TN
+0df28d3cc2b406e184d89f7a8190d30e,"Saint Anthony,ID -> Orlando,FL",Saint Anthony,ID,Orlando,FL
+953345967fb9d8c9906ca66a2d43d1de,"Toledo,OH -> Portland,OR",Toledo,OH,Portland,OR
+73915cb1c1bf77d8a2c6b72633e79964,"Granite City,IL -> Morrilton,AR",Granite City,IL,Morrilton,AR
+cb662faf19f6873049f1e1469ece65e9,"Lexington,KY -> Gastonia,NC",Lexington,KY,Gastonia,NC
+d4a18417c5f2c0918adeef44d7c63906,"Dallas,TX -> Houston,TX",Dallas,TX,Houston,TX
+95e85af70f57810782cc47c14443a10c,"Newark,NJ -> Melville,NY",Newark,NJ,Melville,NY
+2c3bf588179243f0c0c4c67ced816aef,"Los Angeles,CA -> Clifton,CO",Los Angeles,CA,Clifton,CO
+ec84e494675eff5d5c8681a6716e2faf,"Concord,NC -> Portland,OR",Concord,NC,Portland,OR
+30bc131ab7a63b4770f7b421b84756cd,"Fort Collins,CO -> Bangor,ME",Fort Collins,CO,Bangor,ME
+3f1f0167b0f692d1e5c2111f2904efd1,"Rancho Cucamonga,CA -> Laredo,TX",Rancho Cucamonga,CA,Laredo,TX
+494a1229508ace99b1d5784147a948d8,"Plant City,FL -> Syracuse,NY",Plant City,FL,Syracuse,NY
+38f5984c6eb67da3ddc93d740649e12b,"Granite City,IL -> Dowagiac,MI",Granite City,IL,Dowagiac,MI
+35238bcc5aee93b90e14f8adf6a2efed,"Xenia,OH -> Memphis,TN",Xenia,OH,Memphis,TN
+e7af354943c2acb0b8f224351e7ad5dd,"Santa Ana,CA -> Modesto,CA",Santa Ana,CA,Modesto,CA
+f2ff5e79467dce4dc3fa838e52445ab6,"Granite City,IL -> Fridley,MN",Granite City,IL,Fridley,MN
+674bae3d8bb3f58f98ebe557bb0874bd,"Fairfield,CA -> Medford,OR",Fairfield,CA,Medford,OR
+d6b331605a75a4065f86be76b85fffe9,"Tuscaloosa,AL -> Franklin,OH",Tuscaloosa,AL,Franklin,OH
+1d4d090e2b788b84f8640e29942eabb6,"Zion,IL -> Detroit,MI",Zion,IL,Detroit,MI
+432ddfb52ebb4b3133e9a7ff033589a3,"Jacksonville,FL -> Piedmont,SC",Jacksonville,FL,Piedmont,SC
+0496a15b5f6208a5bde3d9a90d4266fc,"Johnston,RI -> Newark,NJ",Johnston,RI,Newark,NJ
+7f5c7106f6cc22204040783bc25d771f,"Batavia,IL -> Swedesboro,NJ",Batavia,IL,Swedesboro,NJ
+f27a1595e9e0b65bceeb1aaa0148fe68,"Houston,TX -> St. Augustine,FL",Houston,TX,St. Augustine,FL
+51d58467362de04f5d903c2b1bde194b,"Wilkes-Barre,PA -> Boca Raton,FL",Wilkes-Barre,PA,Boca Raton,FL
+6ef0abf9852511c1926a1000ba90ba2e,"Williamsburg,VA -> Gaithersburg,MD",Williamsburg,VA,Gaithersburg,MD
+e59fd44c88145e905417bc9ad088bb18,"Aurora,CO -> Jamestown,ND",Aurora,CO,Jamestown,ND
+d3fb590e2c06173d55cc0320d12cc1f4,"Cartersville,GA -> Ocala,FL",Cartersville,GA,Ocala,FL
+b4b52fbf27119d0abf677c800d02761b,"Milwaukie,OR -> Portland,OR",Milwaukie,OR,Portland,OR
+012dc3a6e238afaa63524f2cd93481c3,"Wanaque,NJ -> Ocean City,NJ",Wanaque,NJ,Ocean City,NJ
+7754261c7cc0bc36715118a5385db043,"Bellevue,WA -> Ephrata,PA",Bellevue,WA,Ephrata,PA
+08704b1d697584a53aeed4bc2c59f1dc,"Fort Collins,CO -> Oklahoma City,OK",Fort Collins,CO,Oklahoma City,OK
+f7f2fe928a34f9300425a945d6d84e2b,"Williamsburg,VA -> Pittsburgh,PA",Williamsburg,VA,Pittsburgh,PA
+c50c3ea6bf77d74ed30c87c077d03dd7,"Tuscaloosa,AL -> Cleveland,OH",Tuscaloosa,AL,Cleveland,OH
+afd1cb0156d3f0a9771902b8b88b9147,"Plant City,FL -> Sioux City,IA",Plant City,FL,Sioux City,IA
+ea5588201813315b59e7c37e448625e7,"Baldwinsville,NY -> Patchogue,NY",Baldwinsville,NY,Patchogue,NY
+3a6f8a9b8a12f7ac1a22747421281643,"Wilkes-Barre,PA -> Columbia,SC",Wilkes-Barre,PA,Columbia,SC
+dd40aafdb2dadf3fa1ed229d692febc2,"Jacksonville,FL -> Opelika,AL",Jacksonville,FL,Opelika,AL
+cc3c602ee18bc0896418eba94bf5f751,"Conover,NC -> Paragould,AR",Conover,NC,Paragould,AR
+0e18a7d0e1dd061e680340d230b489a9,"Atlanta,GA -> Gastonia,NC",Atlanta,GA,Gastonia,NC
+21b5b55141061c1e25b0e472880b1913,"Jacksonville,FL -> Birmingham,AL",Jacksonville,FL,Birmingham,AL
+b8b5f5b9b36d0975038216516f5df331,"St. Louis,MO -> Jamestown,ND",St. Louis,MO,Jamestown,ND
+a7451fe59cd31797a065714127958214,"Granite City,IL -> Fayetteville,AR",Granite City,IL,Fayetteville,AR
+b2098f6c9853aaff617c31cfb55e1e88,"Fort Collins,CO -> Grand Rapids,MI",Fort Collins,CO,Grand Rapids,MI
+c13bb52941e8a7a3a9ca678f74a8f7e2,"Little Falls,NY -> Baldwinsville,NY",Little Falls,NY,Baldwinsville,NY
+9ff8557cbd4dd9775099e68111cbd148,"Wanaque,NJ -> Olean,NY",Wanaque,NJ,Olean,NY
+57bc42e6a8fb19c8368e4beb12f02f04,"Timberville,VA -> Pompano Beach,FL",Timberville,VA,Pompano Beach,FL
+2268ad0735c413c8d6e766d71245c4c4,"Eagan,MN -> Modesto,CA",Eagan,MN,Modesto,CA
+e60d32200b46a992a036e81d78a09077,"Monte Vista,CO -> Plant City,FL",Monte Vista,CO,Plant City,FL
+38068726efaf9a59ab2da9af75854cc1,"Edison,NJ -> Yazoo City,MS",Edison,NJ,Yazoo City,MS
+28910ecdc3a708a67b55630ef7555d27,"Kendallville,IN -> Mount Holly,NC",Kendallville,IN,Mount Holly,NC
+07a8117406b5ec41dbdd2c3baaedff4d,"Portland,OR -> Spokane Valley,WA",Portland,OR,Spokane Valley,WA
+591a8e40244058685f35327c400d1473,"Cartersville,GA -> Gainesville,FL",Cartersville,GA,Gainesville,FL
+0bfee1baaaf1736cd908f7199d8544c7,"Sinking Spring,PA -> Gouverneur,NY",Sinking Spring,PA,Gouverneur,NY
+5e8975188b471c86e297e14bf9562ce9,"Jacksonville,FL -> Columbia,SC",Jacksonville,FL,Columbia,SC
+3e4d97570bf46bc6694bdabd890a123c,"Commerce,CA -> Brooklyn,NY",Commerce,CA,Brooklyn,NY
+35dbec033684e581af01964213472a7c,"Greeley,CO -> Houston,TX",Greeley,CO,Houston,TX
+3c1be0c2bb55e15a94bb64d285fb50f1,"Charleston,SC -> Swedesboro,NJ",Charleston,SC,Swedesboro,NJ
+3bcb94d4e06288113d0c90036996be7c,"Aurora,CO -> Havre,MT",Aurora,CO,Havre,MT
+907c9d0f63accb51546621c6160fe40f,"Columbus,OH -> Chicopee,MA",Columbus,OH,Chicopee,MA
+5122e184b14b0103513b1100a3be6843,"Aurora,CO -> Minot,ND",Aurora,CO,Minot,ND
+f3b050d5d7d69470a26bb6f2c7438657,"Houston,TX -> Monroe,LA",Houston,TX,Monroe,LA
+fa650d79fab74dd2549bf5ffa079ce21,"Cartersville,GA -> Summit,MS",Cartersville,GA,Summit,MS
+ed61663d23f84f0e6450a477030db15c,"Newark,DE -> Portland,OR",Newark,DE,Portland,OR
+96349169d5101dbf3fae898858534ec4,"Houston,TX -> Plant City,FL",Houston,TX,Plant City,FL
+1c392eab5df1fb6e36b28700bbda7dfb,"Cartersville,GA -> Lumberton,NC",Cartersville,GA,Lumberton,NC
+fdaf88c39a11fab414de75329a734065,"La Porte,TX -> Houma,LA",La Porte,TX,Houma,LA
+23a4018fc6d0a1483095cb4011a96df4,"Fairfield,CA -> Billings,MT",Fairfield,CA,Billings,MT
+299aab659345f3a5e7d06e7fcd5a6ff9,"Romulus,MI -> Williamsburg,VA",Romulus,MI,Williamsburg,VA
+9086dd02ffce0b82983e68ee241b0ede,"Houston,TX -> Melbourne,FL",Houston,TX,Melbourne,FL
+6c3d4bf256a07e9bf27806a2ba8a43be,"Colonial Heights,VA -> Orlando,FL",Colonial Heights,VA,Orlando,FL
+d407afd7e7393bcbbf5672f33930bf5c,"Los Angeles,CA -> Carson City,NV",Los Angeles,CA,Carson City,NV
+b472f3ba50a67e6708841b9366b7b174,"Baltimore,MD -> Lordstown,OH",Baltimore,MD,Lordstown,OH
+c38d6911b450cd8c69a92916f8a4f34b,"St. Louis,MO -> Ironwood,MI",St. Louis,MO,Ironwood,MI
+637d040f6be52327dc1f9635a62e8c4e,"Baldwinsville,NY -> Jersey City,NJ",Baldwinsville,NY,Jersey City,NJ
+3e4edb6dad39c68c80a654f815ab64a9,"Atkins,VA -> Cleveland,NC",Atkins,VA,Cleveland,NC
+8be4a51a2323ca8d1d3b151540e7884b,"La Porte,TX -> Hot Springs Township,AR",La Porte,TX,Hot Springs Township,AR
+67e735f86d47e49e8358fff4898ebd7d,"Philadelphia,PA -> Philadelphia,PA",Philadelphia,PA,Philadelphia,PA
+33d3920e2ad231d7c4af0a0e7fae9ec6,"Houston,TX -> Llano,TX",Houston,TX,Llano,TX
+cb12d779b2e27d23405735ae60ff52c5,"Modesto,CA -> Modesto,CA",Modesto,CA,Modesto,CA
+0ed046625ba10586cd81957987a2cd20,"Brook Park,OH -> Reading,PA",Brook Park,OH,Reading,PA
+3eb5e2cc333b47569b4c05bb79024713,"Colonial Heights,VA -> Nottingham,MD",Colonial Heights,VA,Nottingham,MD
+5a912538b4f1a4563de3969e3c5c37dc,"Selah,WA -> Methuen,MA",Selah,WA,Methuen,MA
+d42bc531cafe74a6495e119ac28dfa40,"Fairfield,CA -> Miami,FL",Fairfield,CA,Miami,FL
+d5798f34e5c6a76a5c7afa0581651a1d,"Los Angeles,CA -> Redding,CA",Los Angeles,CA,Redding,CA
+bd9710e9c761fb612f23152cfdd450a3,"Cartersville,GA -> Johnson City,TN",Cartersville,GA,Johnson City,TN
+77adebff39555a741c0ee090a0a2efb2,"Kent,WA -> Auburn,WA",Kent,WA,Auburn,WA
+df7ee8efd3db3619bf43f93dc7833331,"St. Louis,MO -> Leesville,LA",St. Louis,MO,Leesville,LA
+d9cd3b635f9d8d1bffb545439463c4b9,"New York,NY -> Watervliet,NY",New York,NY,Watervliet,NY
+839ea5a679233782a2f2a080aaa2e3d6,"Morganton,NC -> Reno,NV",Morganton,NC,Reno,NV
+aa3e6b16eb54d327dc1f6c8210c317bc,"Newark,NJ -> Boise,ID",Newark,NJ,Boise,ID
+9dfc3b3a4609ff03df6e18e5bed83463,"Houston,TX -> Idaho Falls,ID",Houston,TX,Idaho Falls,ID
+a1065db180573814828b91aa92c24816,"Plant City,FL -> Dunmore,PA",Plant City,FL,Dunmore,PA
+e8111c7201f4c2a0181dbdeb6c83c9aa,"Fort Collins,CO -> Huron,SD",Fort Collins,CO,Huron,SD
+bd89eb90fc8fc702ec637e0dbfdfaabd,"Boca Raton,FL -> Newport News,VA",Boca Raton,FL,Newport News,VA
+6f848e28fd02fc2f890d631f902a5636,"Ventura,CA -> Fremont,CA",Ventura,CA,Fremont,CA
+cdf0ae935f5d104696587aa8d1c6b8c5,"Newark,NJ -> Johnstown,PA",Newark,NJ,Johnstown,PA
+8c34d5370ab1c727292bb8007b0ffe22,"Williamsburg,VA -> Dallas,TX",Williamsburg,VA,Dallas,TX
+833a250863322d779551ee1cebd8b726,"Rochester,NY -> Portland,OR",Rochester,NY,Portland,OR
+1cb23ece39085cdce534428cdd6919c4,"Los Angeles,CA -> Plant City,FL",Los Angeles,CA,Plant City,FL
+ad192132bea195902350fb5b77c3536c,"Indianapolis,IN -> Laredo,TX",Indianapolis,IN,Laredo,TX
+e5bd61bbc1550e64342d238f6d68d7fc,"Reading,PA -> Romeoville,IL",Reading,PA,Romeoville,IL
+5fa00fbb8c8d8cd49727ae8e8ba1a3e5,"La Porte,TX -> Fort Worth,TX",La Porte,TX,Fort Worth,TX
+7a16a362a5163476d3209b7d707cb8f4,"Fort Collins,CO -> Vernal,UT",Fort Collins,CO,Vernal,UT
+8a0703d721674d74463168b0fb63f067,"St. Louis,MO -> Rochester,MN",St. Louis,MO,Rochester,MN
+ffa8cf110d6d357580ddbcae8f430813,"Conover,NC -> Edison,NJ",Conover,NC,Edison,NJ
+74ec443560b09367163a78c5bdfbd542,"Mount Airy,NC -> Buford,GA",Mount Airy,NC,Buford,GA
+695afcd88a2ca27a082e61c5e96e1967,"Los Angeles,CA -> Indio,CA",Los Angeles,CA,Indio,CA
+d3751d81830ae1f036079850087b362a,"Williamsburg,VA -> Danville,VA",Williamsburg,VA,Danville,VA
+60569d366349494544091b46387bc8ec,"Houston,TX -> Las Vegas,NV",Houston,TX,Las Vegas,NV
+8483cae627d6aae27eefb902f22133a7,"St. Louis,MO -> New Windsor,NY",St. Louis,MO,New Windsor,NY
+4a88e8474cce34b60d3562ee87b661c7,"Merrimack,NH -> Baldwinsville,NY",Merrimack,NH,Baldwinsville,NY
+f169109bd203f51ee1d8ffd23e68d73a,"Bartow,WV -> Norton,VA",Bartow,WV,Norton,VA
+d7f82dd64f5229fcce0b6ef2803bc746,"Kutztown,PA -> Auburn,NY",Kutztown,PA,Auburn,NY
+f31f848b36789054a7ca015e06c3b32d,"Taunton,MA -> Westfield,MA",Taunton,MA,Westfield,MA
+090be5126d5a0882cc01c25aed3655d7,"Cantua Creek,CA -> Garden Grove,CA",Cantua Creek,CA,Garden Grove,CA
+87d7bdd31ab788e9543e6fe9b6e351e1,"Walla Walla,WA -> Pacific,WA",Walla Walla,WA,Pacific,WA
+48bb745f5a243f701a4d40c72117c52f,"Compton,CA -> McCook,IL",Compton,CA,McCook,IL
+1eddcc5235e497b8a6e6b0ea55180843,"Springdale,AR -> Roanoke,TX",Springdale,AR,Roanoke,TX
+e973c1c189a447aabc5d5e3dc3852dd4,"Fort Collins,CO -> Hays,KS",Fort Collins,CO,Hays,KS
+e1825b1c1953cccd408202574821ac08,"Cartersville,GA -> Raleigh,NC",Cartersville,GA,Raleigh,NC
+50ac37751019dbb800fc292d6f032e57,"New Haven,CT -> Newark,NJ",New Haven,CT,Newark,NJ
+45be1f2ee7461f7f1d3030ea5e8f1322,"De Soto,KS -> St. Louis,MO",De Soto,KS,St. Louis,MO
+d58255120184ee6c2d01e42c2806e709,"Toledo,OH -> Mount Vernon,OH",Toledo,OH,Mount Vernon,OH
+3b92dfbdcb35fce5b1e7bd670620951b,"Olean,NY -> Brook Park,OH",Olean,NY,Brook Park,OH
+8c0b05fe34cadb02346c22f1ffc8d730,"Baldwinsville,NY -> Idaho Falls,ID",Baldwinsville,NY,Idaho Falls,ID
+9a4f46052a857facde5c0a04f282ea95,"St. Louis,MO -> Dickinson,ND",St. Louis,MO,Dickinson,ND
+34e9b131b7f90565b8ee88527ae282ff,"St. Louis,MO -> Pine Bluff,AR",St. Louis,MO,Pine Bluff,AR
+bfbcb549026a25dc4336ca9e96a30136,"Fort Collins,CO -> Farmington,NM",Fort Collins,CO,Farmington,NM
+2a38d1b749d2a26b7cfbe7eb55c9f568,"Baldwinsville,NY -> Oakland,ME",Baldwinsville,NY,Oakland,ME
+cd16aa9f7706c3413052eebf2894ad23,"Knoxville,TN -> Clinton,IA",Knoxville,TN,Clinton,IA
+e912e0621c6ace009c3c93e3321e3663,"Cartersville,GA -> Birmingham,AL",Cartersville,GA,Birmingham,AL
+478ef26472eae2040878fb6cebcf74e3,"Eagan,MN -> Morris,IL",Eagan,MN,Morris,IL
+b97db33ce856e9608a2edb0955718741,"St. Louis,MO -> Corpus Christi,TX",St. Louis,MO,Corpus Christi,TX
+ed03272858f85adb3b11f875968deece,"Gordonsville,VA -> Medley,FL",Gordonsville,VA,Medley,FL
+123ffe24b4ea867a0d753b07ef68262e,"Fort Collins,CO -> Renton,WA",Fort Collins,CO,Renton,WA
+91f001fe96fc7cd211b8b2f6e4d70b7a,"Granite City,IL -> Schofield,WI",Granite City,IL,Schofield,WI
+38901302b7a68aab01dc980ed177a525,"Des Moines,IA -> Columbus,OH",Des Moines,IA,Columbus,OH
+b679539acb4c164242ca031e60b4e306,"La Porte,TX -> San Angelo,TX",La Porte,TX,San Angelo,TX
+1190f6910008c050fb295e58f269e864,"Compton,CA -> Goodyear,AZ",Compton,CA,Goodyear,AZ
+49f1eaa3e50b2043b0b8d67bf4d86faf,"Romeoville,IL -> Shipshewana,IN",Romeoville,IL,Shipshewana,IN
+9b3a7ae80724d0d0f95cb8b501c5c978,"Bolingbrook,IL -> Buford,GA",Bolingbrook,IL,Buford,GA
+e39f0be549a3faaa512060ca7c65d94c,"Houston,TX -> Rifle,CO",Houston,TX,Rifle,CO
+e6dd52332c12d53ff3319c2776c4f1f2,"Brooklyn Park,MN -> Pittston,PA",Brooklyn Park,MN,Pittston,PA
+ee7d336e483d4f03fca2e713046461d7,"Houston,TX -> El Paso,TX",Houston,TX,El Paso,TX
+89396fe0891e5b3553dd72e4f90111a2,"Colfax,NC -> Waukegan,IL",Colfax,NC,Waukegan,IL
+f5bf802bc96365bcf4323f96b3809a8b,"Hialeah,FL -> Richburg,SC",Hialeah,FL,Richburg,SC
+f155cf88cb2dd37ac842c63f0a3562a9,"Burlington,NC -> Commerce,GA",Burlington,NC,Commerce,GA
+5f910acf32fb9ba51391714a146b5616,"Cartersville,GA -> Lanett,AL",Cartersville,GA,Lanett,AL
+b85391f5cd2534fe896bf8220f199959,"St. Louis,MO -> Herculaneum,MO",St. Louis,MO,Herculaneum,MO
+26310c9cba6c34c8f4f36648f495a7b8,"Erie,PA -> Newark,NJ",Erie,PA,Newark,NJ
+057e77871a517a3505f0d0ffabed98eb,"Aurora,CO -> Pueblo,CO",Aurora,CO,Pueblo,CO
+66be2699c5d5d1b98b2443d959b6a3ad,"Cartersville,GA -> Albany,GA",Cartersville,GA,Albany,GA
+ecb6ee1d10a00f4bb1e6d8300f395c52,"Chicago,IL -> Alton,IL",Chicago,IL,Alton,IL
+f84f1ff89d887a059f0d701f771b19ab,"Indianapolis,IN -> Portland,OR",Indianapolis,IN,Portland,OR
+70006b3da29fe7bb3963ddecf90695fd,"Santa Maria,CA -> Spokane,WA",Santa Maria,CA,Spokane,WA
+f8e21bdf6e0e315428c1936f90771ff9,"Holiday City,OH -> Cartersville,GA",Holiday City,OH,Cartersville,GA
+ba6b2c08ac3fca69360351802a53c6d2,"Columbus,OH -> Lynchburg,VA",Columbus,OH,Lynchburg,VA
+3a2fb7c105de97fbe374ade37abfb0b1,"Merrimack,NH -> Patchogue,NY",Merrimack,NH,Patchogue,NY
+0041b68645e422671874bb82ddad0eb0,"Newark,DE -> Philadelphia,PA",Newark,DE,Philadelphia,PA
+c3830b7c9b0d061f1d502178922920da,"Los Angeles,CA -> Medford,OR",Los Angeles,CA,Medford,OR
+42ab1a5b19b3c5b4fcdc13c53711ba20,"Columbus,OH -> Hazard,KY",Columbus,OH,Hazard,KY
+66f06b0273d1b67d49d10d31f949f97b,"Jacksonville,FL -> Charleston,SC",Jacksonville,FL,Charleston,SC
+4de828460a3c74adb81e916bfaf80bee,"Rome City,IN -> Laceys Spring,AL",Rome City,IN,Laceys Spring,AL
+1ec4c2c72645247442f9d521b8f20bd5,"Cartersville,GA -> Fletcher,NC",Cartersville,GA,Fletcher,NC
+e6fe6489dd1a45522ed04d74cfbad009,"Bowling Green,OH -> Laredo,TX",Bowling Green,OH,Laredo,TX
+c6d3c9cc081c45890ba42f2cf24eb858,"Jacksonville,FL -> Aurora,CO",Jacksonville,FL,Aurora,CO
+49c39d424f45536ba68de428d2504286,"Fort Collins,CO -> Colonial Heights,VA",Fort Collins,CO,Colonial Heights,VA
+99c35a23b8c44700dba8933af3d9cb0a,"New Hyde Park,NY -> Minneapolis,MN",New Hyde Park,NY,Minneapolis,MN
+31ed7897a0bee709d5a32b9e68356a56,"Williamsburg,VA -> Lake City,FL",Williamsburg,VA,Lake City,FL
+a0004b87426adc91318f521a6977e290,"St. Louis,MO -> West Memphis,AR",St. Louis,MO,West Memphis,AR
+9e3c38712dbdf360d61d56aa6cd658dc,"Kingman,AZ -> Methuen,MA",Kingman,AZ,Methuen,MA
+0d016f889f66b6d90178cc1ccd5320ef,"Lathrop,CA -> Davenport,IA",Lathrop,CA,Davenport,IA
+3ed8ad979ae0fbd573127cf2a9d394be,"Front Royal,VA -> Hempstead,NY",Front Royal,VA,Hempstead,NY
+b13dd1ffcbf58f2e7a15e78964374389,"Williamsburg,VA -> Spartanburg,SC",Williamsburg,VA,Spartanburg,SC
+321f2806e2674a53ea847f67951c6a82,"Pittston,PA -> Portland,OR",Pittston,PA,Portland,OR
+dba76adf9dfd1b0a708111f777774069,"Granite City,IL -> International Falls,MN",Granite City,IL,International Falls,MN
+cf9ab77128dfd22b553f305fc4f7b886,"Ellerbe,NC -> New Windsor,NY",Ellerbe,NC,New Windsor,NY
+b9e1f19a616e473edd080d2f93a7f76b,"Aurora,CO -> Lenexa,KS",Aurora,CO,Lenexa,KS
+8fb10ba279fda7c562b2385a2e022488,"Midland City,AL -> Laceys Spring,AL",Midland City,AL,Laceys Spring,AL
